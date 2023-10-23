@@ -1,0 +1,702 @@
+{
+    "help": "https://ckan.ogdch-abnahme.clients.liip.ch/api/3/action/help_show?name=package_show",
+    "success": true,
+    "result": {
+        "license_title": null,
+        "maintainer": "Bundesamt f\u00fcr Statistik",
+        "issued": "2023-05-10T00:00:00",
+        "title_for_slug": "Eidgen\u00f6ssische Wahlen 2023 - testing",
+        "private": false,
+        "maintainer_email": "poku@bfs.admin.ch",
+        "num_tags": 0,
+        "contact_points": [
+            {
+                "name": "Bundesamt f\u00fcr Statistik",
+                "email": "poku@bfs.admin.ch"
+            }
+        ],
+        "keywords": {
+            "fr": [
+                "apparentements-de-listes",
+                "candidats",
+                "electeurs-fictifs",
+                "elections",
+                "elections-2023",
+                "elections-au-conseil-des-etats",
+                "elections-au-conseil-national",
+                "elections-federales-2023",
+                "elus",
+                "force-des-listes",
+                "force-des-partis",
+                "listes-electorales",
+                "mandats",
+                "nombre-de-suffrages",
+                "part-de-suffrages",
+                "participation",
+                "proportion-de-femmes",
+                "repartition-des-mandats",
+                "repartition-des-sieges",
+                "resultats-cantonaux",
+                "resultats-communaux",
+                "resultats-officiels",
+                "sieges",
+                "suffrages"
+            ],
+            "de": [
+                "eidgenoessische-wahlen-2023",
+                "fiktive-waehlende",
+                "frauenanteil",
+                "gemeindeergebnisse",
+                "gemeinderesultate",
+                "gewaehlte",
+                "kandidierende",
+                "kantonsergebnisse",
+                "kantonsresultate",
+                "listenstaerke",
+                "listenverbindung",
+                "mandate",
+                "mandatsverteilung",
+                "nationalratswahlen",
+                "offizielle-wahlergebnisse",
+                "offizielle-wahlresultate",
+                "parteistaerken",
+                "sitze",
+                "sitzverteilung",
+                "staenderatswahlen",
+                "stimmen",
+                "stimmenzahl",
+                "waehleranteile",
+                "wahlbeteiligung",
+                "wahlen",
+                "wahlen-2023",
+                "wahllisten"
+            ],
+            "en": [],
+            "it": [
+                "apparentamenti",
+                "assegnazione-mandati",
+                "candidati",
+                "consensi-elettorali",
+                "eletti",
+                "elettori-fittizi",
+                "elezioni",
+                "elezioni-2023",
+                "elezioni-consiglio-degli-stati",
+                "elezioni-consiglio-nazionale",
+                "elezioni-federali-2023",
+                "forze-liste-elettorali",
+                "forze-partitiche",
+                "liste-elettorali",
+                "mandati",
+                "partecipazione-elettorale",
+                "quota-donne",
+                "ripartizione-seggi",
+                "risultati-cantonali",
+                "sisultati-comunali",
+                "risultati-elettorali-ufficiali",
+                "seggi",
+                "voti"
+            ]
+        },
+        "temporals": [],
+        "id": "8d6d5164-1c05-4f82-a929-fdd65e3e82c7",
+        "metadata_created": "2023-05-10T06:45:20.138667",
+        "display_name": {
+            "fr": "Elections f\u00e9d\u00e9rales 2023 - testing",
+            "de": "Eidgen\u00f6ssische Wahlen 2023 - testing",
+            "en": "Federal elections 2023 - testing",
+            "it": "Elezioni federali 2023 - testing"
+        },
+        "metadata_modified": "2023-05-10T08:35:32.582676",
+        "author": null,
+        "author_email": null,
+        "relations": [
+            {
+                "url": "https://www.admin.ch/opc/de/classified-compilation/19920252/index.html#a20",
+                "label": "legal_basis"
+            }
+        ],
+        "state": "active",
+        "version": null,
+        "relationships_as_object": [],
+        "license_id": null,
+        "type": "dataset",
+        "resources": [
+            {
+                "byte_size": 0,
+                "coverage": "",
+                "cache_last_updated": null,
+                "issued": "2023-05-10T00:00:00",
+                "package_id": "8d6d5164-1c05-4f82-a929-fdd65e3e82c7",
+                "datastore_contains_all_records_of_source_file": false,
+                "datastore_active": false,
+                "id": "167752c2-8d7c-47fe-b723-f13617a6296c",
+                "size": null,
+                "display_name": {
+                    "fr": "CN - M\u00e9tadonn\u00e9es",
+                    "de": "NR - Metadaten",
+                    "en": "Metadata",
+                    "it": "CN - Metadati"
+                },
+                "title": {
+                    "fr": "CN - M\u00e9tadonn\u00e9es",
+                    "de": "NR - Metadaten",
+                    "en": "Metadata",
+                    "it": "CN - Metadati"
+                },
+                "download_url": "http://localhost:8000/sd-t-17.02-NRW2023-metadaten.json",
+                "state": "active",
+                "hash": "",
+                "description": {
+                    "fr": "Elections au Conseil national: abr\u00e9viations, d\u00e9nomination des partis, apparentements de listes, etc.",
+                    "en": "",
+                    "de": "Nationalratswahlen: Abk\u00fcrzungen, Parteibezeichnungen, Listenverbindungen, etc.",
+                    "it": "Elezioni del Consiglio nazionale: sigle, nomi dei partiti, apparentamenti, ecc."
+                },
+                "format": "JSON",
+                "mimetype_inner": null,
+                "url_type": null,
+                "mimetype": null,
+                "cache_url": null,
+                "name": {
+                    "fr": "CN - M\u00e9tadonn\u00e9es",
+                    "de": "NR - Metadaten",
+                    "en": "Metadata",
+                    "it": "CN - Metadati"
+                },
+                "language": [
+                    "de",
+                    "fr",
+                    "it"
+                ],
+                "rights": "NonCommercialAllowed-CommercialWithPermission-ReferenceRequired",
+                "url": "http://localhost:8000/sd-t-17.02-NRW2023-metadaten.json",
+                "created": "2023-05-10T06:49:10.016520",
+                "modified": "",
+                "last_modified": null,
+                "position": 0,
+                "revision_id": "dfac6999-5ecb-40ab-99d9-5c80706664da",
+                "identifier": "",
+                "resource_type": null
+            },
+            {
+                "byte_size": 0,
+                "coverage": "",
+                "cache_last_updated": null,
+                "issued": "2023-05-10T00:00:00",
+                "package_id": "8d6d5164-1c05-4f82-a929-fdd65e3e82c7",
+                "datastore_contains_all_records_of_source_file": false,
+                "datastore_active": false,
+                "id": "6c8f4f61-34a6-4e56-aaf0-50997c2c3b5e",
+                "size": null,
+                "display_name": {
+                    "fr": "CN - Listes",
+                    "de": "NR - Listen",
+                    "en": "",
+                    "it": "CN - Liste elettorali"
+                },
+                "title": {
+                    "fr": "CN - Listes",
+                    "de": "NR - Listen",
+                    "en": "",
+                    "it": "CN - Liste elettorali"
+                },
+                "download_url": "http://localhost:8000/sd-t-17.02-NRW2023-listen.json",
+                "state": "active",
+                "hash": "",
+                "description": {
+                    "fr": "Elections au Conseil national 2023: listes d\u00e9pos\u00e9es, apparentements de listes, suffrages obtenus, force des listes, si\u00e8ges (Cantons).",
+                    "en": "",
+                    "de": "Nationalratswahlen 2023: eingereichte Wahllisten, Listenverbindungen, erhaltene Stimmen, Listenst\u00e4rke und Mandate (Kantone).",
+                    "it": "Elezioni del Consiglio nazionale 2023: liste elettorali depositate, apparentamenti, voti ottenuti, forze delle liste elettorali e seggi (Cantoni)."
+                },
+                "format": "JSON",
+                "mimetype_inner": null,
+                "url_type": null,
+                "mimetype": null,
+                "cache_url": null,
+                "name": {
+                    "fr": "CN - Listes",
+                    "de": "NR - Listen",
+                    "en": "",
+                    "it": "CN - Liste elettorali"
+                },
+                "language": [
+                    "de",
+                    "fr",
+                    "it"
+                ],
+                "rights": "NonCommercialAllowed-CommercialWithPermission-ReferenceRequired",
+                "url": "http://localhost:8000/sd-t-17.02-NRW2023-listen.json",
+                "created": "2023-05-10T08:16:04.205119",
+                "modified": "",
+                "last_modified": null,
+                "position": 1,
+                "revision_id": "fdeafc69-5faa-46df-8242-d57768c2bec0",
+                "identifier": "",
+                "resource_type": null
+            },
+            {
+                "byte_size": 0,
+                "coverage": "",
+                "cache_last_updated": null,
+                "issued": "2023-05-10T00:00:00",
+                "package_id": "8d6d5164-1c05-4f82-a929-fdd65e3e82c7",
+                "datastore_contains_all_records_of_source_file": false,
+                "datastore_active": false,
+                "id": "c7ee1893-5919-4431-826c-6e122a6be902",
+                "size": null,
+                "display_name": {
+                    "fr": "CN - Candidats",
+                    "de": "NR - Kandidierende",
+                    "en": "",
+                    "it": "CN - Candidati"
+                },
+                "title": {
+                    "fr": "CN - Candidats",
+                    "de": "NR - Kandidierende",
+                    "en": "",
+                    "it": "CN - Candidati"
+                },
+                "download_url": "http://localhost:8000/sd-t-17.02-NRW2023-kandidierende.json",
+                "state": "active",
+                "hash": "",
+                "description": {
+                    "fr": "Elections au Conseil national 2023: candidats, suffrages obtenus et statut (\u00e9lu/pas \u00e9lu) (Cantons, communes)",
+                    "en": "",
+                    "de": "Nationalratswahlen 2023: Kandidierende, erhaltene Stimmen und Status (gew\u00e4hlt/nicht gew\u00e4hlt) (Kantone, Gemeinden)",
+                    "it": "Elezioni del Consiglio nazionale 2023: candidati, voti ottenuti e status (eletto/non eletto) (Cantoni, comuni)"
+                },
+                "format": "JSON",
+                "mimetype_inner": null,
+                "url_type": null,
+                "mimetype": null,
+                "cache_url": null,
+                "name": {
+                    "fr": "CN - Candidats",
+                    "de": "NR - Kandidierende",
+                    "en": "",
+                    "it": "CN - Candidati"
+                },
+                "language": [
+                    "de",
+                    "fr",
+                    "it"
+                ],
+                "rights": "NonCommercialAllowed-CommercialWithPermission-ReferenceRequired",
+                "url": "http://localhost:8000/sd-t-17.02-NRW2023-kandidierende.json",
+                "created": "2023-05-10T08:18:32.163367",
+                "modified": "",
+                "last_modified": null,
+                "position": 2,
+                "revision_id": "17321c9f-bdd7-46fb-9eae-005b4e835c1d",
+                "identifier": "",
+                "resource_type": null
+            },
+            {
+                "byte_size": 0,
+                "coverage": "",
+                "cache_last_updated": null,
+                "issued": "2023-05-10T00:00:00",
+                "package_id": "8d6d5164-1c05-4f82-a929-fdd65e3e82c7",
+                "datastore_contains_all_records_of_source_file": false,
+                "datastore_active": false,
+                "id": "d435d037-c658-47d7-b739-a494e4945478",
+                "size": null,
+                "display_name": {
+                    "fr": "CN - Participation",
+                    "de": "NR - Wahlbeteiligung",
+                    "en": "",
+                    "it": "CN - Partecipazione elettorale"
+                },
+                "title": {
+                    "fr": "CN - Participation",
+                    "de": "NR - Wahlbeteiligung",
+                    "en": "",
+                    "it": "CN - Partecipazione elettorale"
+                },
+                "download_url": "http://localhost:8000/sd-t-17.02-NRW2023-wahlbeteiligung.json",
+                "state": "active",
+                "hash": "",
+                "description": {
+                    "fr": "Elections au Conseil national 2023: \u00e9lecteurs inscrits, \u00e9lecteurs, participation et \u00e9volution de la participation (Suisse, cantons, communes).",
+                    "en": "",
+                    "de": "Nationalratswahlen 2023: Wahlberechtigte, W\u00e4hlende, Wahlbeteiligung und Ver\u00e4nderung der Wahlbeteiligung (Schweiz, Kantone, Gemeinden).",
+                    "it": "Elezioni del Consiglio nazionale 2023: aventi diritto di voto, elettori, partecipazione elettorale e cambiamenti nella partecipazione rispetto alle elezioni precedenti (Svizzera, cantoni, comuni)."
+                },
+                "format": "JSON",
+                "mimetype_inner": null,
+                "url_type": null,
+                "mimetype": null,
+                "cache_url": null,
+                "name": {
+                    "fr": "CN - Participation",
+                    "de": "NR - Wahlbeteiligung",
+                    "en": "",
+                    "it": "CN - Partecipazione elettorale"
+                },
+                "language": [
+                    "de",
+                    "fr",
+                    "it"
+                ],
+                "rights": "NonCommercialAllowed-CommercialWithPermission-ReferenceRequired",
+                "url": "http://localhost:8000/sd-t-17.02-NRW2023-wahlbeteiligung.json",
+                "created": "2023-05-10T08:24:38.627183",
+                "modified": "",
+                "last_modified": null,
+                "position": 3,
+                "revision_id": "f10ec488-afd4-47ea-a6d7-2826e4d51be3",
+                "identifier": "",
+                "resource_type": null
+            },
+            {
+                "byte_size": 0,
+                "coverage": "",
+                "cache_last_updated": null,
+                "issued": "2023-05-10T00:00:00",
+                "package_id": "8d6d5164-1c05-4f82-a929-fdd65e3e82c7",
+                "datastore_contains_all_records_of_source_file": false,
+                "datastore_active": false,
+                "id": "bd5ca574-ed8f-48fa-8b8f-dd054b48d6bd",
+                "size": null,
+                "display_name": {
+                    "fr": "CN - R\u00e9sultats partis",
+                    "de": "NR - Ergebnisse Parteien",
+                    "en": "",
+                    "it": "CN - Risultati partiti"
+                },
+                "title": {
+                    "fr": "CN - R\u00e9sultats partis",
+                    "de": "NR - Ergebnisse Parteien",
+                    "en": "",
+                    "it": "CN - Risultati partiti"
+                },
+                "download_url": "http://localhost:8000/sd-t-17.02-NRW2023-parteien.json",
+                "state": "active",
+                "hash": "",
+                "description": {
+                    "fr": "Elections au Conseil national 2023: mandats, femmes et hommes \u00e9lus, force des partis et \u00e9volution par rapport aux derni\u00e8res \u00e9lections et parti le plus fort (Suisse, cantons, communes).",
+                    "en": "",
+                    "de": "Nationalratswahlen 2023: Mandate, gew\u00e4hlte Frauen und M\u00e4nner, Parteist\u00e4rke sowie Ver\u00e4nderung zu den letzten Wahlen und st\u00e4rkste Partei (Schweiz, Kantone, Gemeinden).",
+                    "it": "Elezioni del Consiglio nazionale 2023: seggi, donne e uomini eletti, forze partitiche e cambiamenti rispetto alle elezioni precedenti e primo partito (Svizzera, cantoni, comuni)."
+                },
+                "format": "JSON",
+                "mimetype_inner": null,
+                "url_type": null,
+                "mimetype": null,
+                "cache_url": null,
+                "name": {
+                    "fr": "CN - R\u00e9sultats partis",
+                    "de": "NR - Ergebnisse Parteien",
+                    "en": "",
+                    "it": "CN - Risultati partiti"
+                },
+                "language": [
+                    "de",
+                    "fr",
+                    "it"
+                ],
+                "rights": "NonCommercialAllowed-CommercialWithPermission-ReferenceRequired",
+                "url": "http://localhost:8000/sd-t-17.02-NRW2023-parteien.json",
+                "created": "2023-05-10T08:28:29.316980",
+                "modified": "",
+                "last_modified": null,
+                "position": 4,
+                "revision_id": "d08d67d5-76da-4464-84e0-b918f527e96f",
+                "identifier": "",
+                "resource_type": null
+            },
+            {
+                "byte_size": 0,
+                "coverage": "",
+                "cache_last_updated": null,
+                "issued": "2023-05-10T00:00:00",
+                "package_id": "8d6d5164-1c05-4f82-a929-fdd65e3e82c7",
+                "datastore_contains_all_records_of_source_file": false,
+                "datastore_active": false,
+                "id": "b62f177e-9974-4420-80b1-b0911c3244fc",
+                "size": null,
+                "display_name": {
+                    "fr": "CN - S\u00e9ries chronologiques (1991-): Participation et proportions des femmes",
+                    "de": "NR - Zeitreihen (1991-): Wahlbeteiligung und gew\u00e4hlte Frauen",
+                    "en": "",
+                    "it": "CN - Serie temporali (1991-): partecipazione e quota di donne"
+                },
+                "title": {
+                    "fr": "CN - S\u00e9ries chronologiques (1991-): Participation et proportions des femmes",
+                    "de": "NR - Zeitreihen (1991-): Wahlbeteiligung und gew\u00e4hlte Frauen",
+                    "en": "",
+                    "it": "CN - Serie temporali (1991-): partecipazione e quota di donne"
+                },
+                "download_url": "http://localhost:8000/sd-t-17.02-NRW2023-zeitreihen-frauen-beteiligung.json",
+                "state": "active",
+                "hash": "",
+                "description": {
+                    "fr": "Elections au Conseil national: s\u00e9ries chronologiques sur la participation et sur les proportions de femmes en % (Suisse, cantons).",
+                    "en": "",
+                    "de": "Nationalratswahlen: Zeitreihen zur Wahlbeteiligung und zum Frauenanteil in % (Schweiz, Kantone).",
+                    "it": "Elezioni del Consiglio nazionale: serie temporali sulla partecipazione elettorale e sulla quota di donne in % (Svizzera, cantoni)."
+                },
+                "format": "JSON",
+                "mimetype_inner": null,
+                "url_type": null,
+                "mimetype": null,
+                "cache_url": null,
+                "name": {
+                    "fr": "CN - S\u00e9ries chronologiques (1991-): Participation et proportions des femmes",
+                    "de": "NR - Zeitreihen (1991-): Wahlbeteiligung und gew\u00e4hlte Frauen",
+                    "en": "",
+                    "it": "CN - Serie temporali (1991-): partecipazione e quota di donne"
+                },
+                "language": [
+                    "de",
+                    "fr",
+                    "it"
+                ],
+                "rights": "NonCommercialAllowed-CommercialWithPermission-ReferenceRequired",
+                "url": "http://localhost:8000/sd-t-17.02-NRW2023-zeitreihen-frauen-beteiligung.json",
+                "created": "2023-05-10T08:30:29.309482",
+                "modified": "",
+                "last_modified": null,
+                "position": 5,
+                "revision_id": "6541ae92-f9f1-4ad0-9aa6-178922fda916",
+                "identifier": "",
+                "resource_type": null
+            },
+            {
+                "byte_size": 0,
+                "coverage": "",
+                "cache_last_updated": null,
+                "issued": "2023-05-10T00:00:00",
+                "package_id": "8d6d5164-1c05-4f82-a929-fdd65e3e82c7",
+                "datastore_contains_all_records_of_source_file": false,
+                "datastore_active": false,
+                "id": "fcded6f3-f7de-4574-b8a2-45c0b5bfe9f6",
+                "size": null,
+                "display_name": {
+                    "fr": "CN - S\u00e9ries chronologiques (1991-): Partis",
+                    "de": "NR - Zeitreihen (1991-): Parteien",
+                    "en": "",
+                    "it": "CN - Serie temporali (1991-): Partiti"
+                },
+                "title": {
+                    "fr": "CN - S\u00e9ries chronologiques (1991-): Partis",
+                    "de": "NR - Zeitreihen (1991-): Parteien",
+                    "en": "",
+                    "it": "CN - Serie temporali (1991-): Partiti"
+                },
+                "download_url": "http://localhost:8000/sd-t-17.02-NRW2023-zeitreihen-parteien.json",
+                "state": "active",
+                "hash": "",
+                "description": {
+                    "fr": "Elections au Conseil national: s\u00e9ries chronologiques sur les listes, les candidats, la force des partis, les mandats, les femmes et les hommes \u00e9lus, le parti le plus fort (Suisse, cantons).",
+                    "en": "",
+                    "de": "Nationalratswahlen: Zeitreihen zu Listen, Kandidierenden, Parteist\u00e4rken, Mandaten, gew\u00e4hlten Frauen und M\u00e4nnern, st\u00e4rkste Partei (Schweiz, Kantone).",
+                    "it": "Elezioni del Consiglio nazionale: serie temporali su liste, candidati, forze partitiche, ripartizione dei seggi, donne e uomini eletti, primo partito (Svizzera, cantoni)."
+                },
+                "format": "JSON",
+                "mimetype_inner": null,
+                "url_type": null,
+                "mimetype": null,
+                "cache_url": null,
+                "name": {
+                    "fr": "CN - S\u00e9ries chronologiques (1991-): Partis",
+                    "de": "NR - Zeitreihen (1991-): Parteien",
+                    "en": "",
+                    "it": "CN - Serie temporali (1991-): Partiti"
+                },
+                "language": [
+                    "de",
+                    "fr",
+                    "it"
+                ],
+                "rights": "NonCommercialAllowed-CommercialWithPermission-ReferenceRequired",
+                "url": "http://localhost:8000/sd-t-17.02-NRW2023-zeitreihen-parteien.json",
+                "created": "2023-05-10T08:32:16.380766",
+                "modified": "",
+                "last_modified": null,
+                "position": 6,
+                "revision_id": "4e36359e-2df4-4f3d-90b7-2c5e26b83266",
+                "identifier": "",
+                "resource_type": null
+            },
+            {
+                "byte_size": 0,
+                "coverage": "",
+                "cache_last_updated": null,
+                "issued": "2023-05-10T00:00:00",
+                "package_id": "8d6d5164-1c05-4f82-a929-fdd65e3e82c7",
+                "datastore_contains_all_records_of_source_file": false,
+                "datastore_active": false,
+                "id": "8d2a3d55-a556-4770-8fc0-abc940fdf983",
+                "size": null,
+                "display_name": {
+                    "fr": "CE - Candidats",
+                    "de": "SR - Kandidierende",
+                    "en": "",
+                    "it": "CS - Candidati"
+                },
+                "title": {
+                    "fr": "CE - Candidats",
+                    "de": "SR - Kandidierende",
+                    "en": "",
+                    "it": "CS - Candidati"
+                },
+                "download_url": "http://localhost:8000/dummy.json",
+                "state": "active",
+                "hash": "",
+                "description": {
+                    "fr": "Elections au Conseil des Etats 2023: candidats, suffrages obtenus et statut (\u00e9lu/pas \u00e9lu), par canton (Cantons).",
+                    "en": "",
+                    "de": "St\u00e4nderatswahlen 2023: Kandidierende, erhaltene Stimmen und Status (gew\u00e4hlt/nicht gew\u00e4hlt) (Kantone).",
+                    "it": "Elezioni del Consiglio degli Stati 2023: candidati, voti ottenuti e status (eletto/non eletto) (Cantoni)."
+                },
+                "format": "JSON",
+                "mimetype_inner": null,
+                "url_type": null,
+                "mimetype": null,
+                "cache_url": null,
+                "name": {
+                    "fr": "CE - Candidats",
+                    "de": "SR - Kandidierende",
+                    "en": "",
+                    "it": "CS - Candidati"
+                },
+                "language": [
+                    "de",
+                    "fr",
+                    "it"
+                ],
+                "rights": "NonCommercialAllowed-CommercialWithPermission-ReferenceRequired",
+                "url": "http://localhost:8000/dummy.json",
+                "created": "2023-05-10T08:34:54.862146",
+                "modified": "",
+                "last_modified": null,
+                "position": 7,
+                "revision_id": "4e36359e-2df4-4f3d-90b7-2c5e26b83266",
+                "identifier": "",
+                "resource_type": null
+            }
+        ],
+        "scheduled": "",
+        "num_resources": 8,
+        "description": {
+            "fr": "Environnement de test\r\nWebservice pour les r\u00e9sultats des \u00e9lections f\u00e9d\u00e9rales 2023 (Conseil national et Conseil des \u00c9tats). Le dimanche des \u00e9lections, l\u2019Office f\u00e9d\u00e9ral de la statistique publiera en continu les r\u00e9sultats officiels provisoires, dans des fichiers JSON et csv lisibles par machine, via le portail openddata.swiss.\r\n\r\nLes r\u00e9sultats communaux, notamment la force des partis et la participation, seront mis \u00e0 jour en continu au niveau des communes (sur la base des donn\u00e9es livr\u00e9es par les cantons).",
+            "en": "",
+            "de": "Testumgebung\r\nWebservice f\u00fcr die Ergebnisse der eidgen\u00f6ssischen Wahlen 2023 (National- und St\u00e4nderatswahlen). Am Wahlsonntag publiziert das Bundesamt f\u00fcr Statistik laufend die offiziellen provisorischen Ergebnisse als maschinenlesbare JSON- bzw. csv-Daten via das openddata.swiss-Portal.\r\n\r\nDie Gemeindeergebnisse, namentlich die Parteist\u00e4rken und die Wahlbeteiligung, werden laufend gemeindeweise aktualisiert (abh\u00e4ngig von den Datenlieferungen durch die Kantone).",
+            "it": "Ambiente di test\r\nWeb service per i risultati delle elezioni federali 2023 (Consiglio nazionale e Consiglio degli Stati). La domenica delle elezioni l\u2019Ufficio federale di statistica pubblicher\u00e0 ininterrottamente i risultati provvisori ufficiali in formato csv e JSON (leggibili elettronicamente).\r\n\r\nA livello comunale i risultati, in particolare quelli delle forze partitiche e della partecipazione elettorale, saranno costantemente aggiornati per ogni Comune (in funzione dell\u2019invio dei dati da parte dei Cantoni). "
+        },
+        "tags": [],
+        "title": {
+            "fr": "Elections f\u00e9d\u00e9rales 2023 - testing",
+            "de": "Eidgen\u00f6ssische Wahlen 2023 - testing",
+            "en": "Federal elections 2023 - testing",
+            "it": "Elezioni federali 2023 - testing"
+        },
+        "language": [
+            "de",
+            "fr",
+            "it"
+        ],
+        "groups": [
+            {
+                "display_name": {
+                    "fr": "Politique",
+                    "de": "Politik",
+                    "en": "Politics",
+                    "it": "Politica"
+                },
+                "description": {
+                    "fr": "",
+                    "de": "",
+                    "en": "",
+                    "it": ""
+                },
+                "image_display_url": "",
+                "title": {
+                    "fr": "Politique",
+                    "de": "Politik",
+                    "en": "Politics",
+                    "it": "Politica"
+                },
+                "id": "9beba14c-eab8-426e-89ae-757bc2e6445e",
+                "name": "politics"
+            },
+            {
+                "display_name": {
+                    "fr": "Population",
+                    "de": "Bev\u00f6lkerung",
+                    "en": "Population",
+                    "it": "Popolazione"
+                },
+                "description": {
+                    "fr": "",
+                    "de": "",
+                    "en": "",
+                    "it": ""
+                },
+                "image_display_url": "",
+                "title": {
+                    "fr": "Population",
+                    "de": "Bev\u00f6lkerung",
+                    "en": "Population",
+                    "it": "Popolazione"
+                },
+                "id": "64d3b89b-ff79-477e-8fb4-9cfc388b0f58",
+                "name": "population"
+            }
+        ],
+        "creator_user_id": "843377d8-d071-4b6a-99b1-bd17e8d612d4",
+        "relationships_as_subject": [],
+        "publisher": {
+            "url": "https://opendata.swiss/organization/bundesamt-fur-statistik-bfs",
+            "name": "Bundesamt f\u00fcr Statistik BFS, Office f\u00e9d\u00e9ral de la statistique OFS, Ufficio federale di statistica UST"
+        },
+        "organization": {
+            "display_name": {
+                "fr": "Office f\u00e9d\u00e9ral de la statistique OFS",
+                "de": "Bundesamt f\u00fcr Statistik BFS",
+                "en": "Federal Statistical Office FSO",
+                "it": "Ufficio federale di statistica UST"
+            },
+            "description": {
+                "fr": "L'OFS est le centre de comp\u00e9tence de la statistique publique suisse. Il produit des informations statistiques sur la population, l'\u00e9conomie, la soci\u00e9t\u00e9, la formation et la recherche, le territoire et l'environnement. Ces informations servent \u00e0 la formation de l\u2019opinion publique. Elles sont un outil de planification et de gouvernance dans tous les domaines de l\u2019action politique et contribuent au bon fonctionnement de notre \u00c9tat moderne et d\u00e9mocratique.",
+                "de": "Das BFS ist das nationale Kompetenzzentrum der \u00f6ffentlichen Statistik der Schweiz. Es produziert und publiziert statistische Informationen \u00fcber den Stand und die Entwicklung von Bev\u00f6lkerung, Wirtschaft, Gesellschaft, Bildung, Forschung, Raum und Umwelt. Diese Informationen dienen der Meinungsbildung in der Bev\u00f6lkerung sowie der Planung und Steuerung von zentralen Politikbereichen. Sie leisten einen wichtigen Beitrag f\u00fcr einen modernen, demokratischen Staat.",
+                "en": "The FSO is Switzerland's national competence centre for official statistics. It produces and publishes statistical information on the status and development of the population, economy, society, education, research, territory and the environment. This information is used for opinion building among the population and for the planning and management of key policy areas. They make an important contribution to a modern, democratic state.",
+                "it": "L\u2019UST \u00e8 il centro di competenza nazionale per la statistica pubblica della Svizzera. Produce e pubblica informazioni statistiche sullo stato e sull'evoluzione della popolazione, dell'economia, della societ\u00e0, della formazione, della ricerca, del territorio e dell'ambiente. Queste informazioni servono alla formazione dell'opinione pubblica nonch\u00e9 alla pianificazione e alla gestione in ambiti politici di centrale importanza. Forniscono un importante contributo per uno Stato moderno e democratico."
+            },
+            "image_display_url": "https://ckan.ogdch-abnahme.clients.liip.ch/uploads/group/BFS_08_web.jpg",
+            "url": "https://www.bfs.admin.ch",
+            "package_count": 999,
+            "created": "2015-11-30T11:50:01.742198",
+            "name": "bundesamt-fur-statistik-bfs",
+            "is_organization": true,
+            "state": "active",
+            "image_url": "https://ckan.ogdch-abnahme.clients.liip.ch/uploads/group/BFS_08_web.jpg",
+            "revision_id": "8ac44a03-cd77-4543-8284-a0ba11aec7eb",
+            "groups": [],
+            "type": "organization",
+            "title": {
+                "fr": "Office f\u00e9d\u00e9ral de la statistique OFS",
+                "de": "Bundesamt f\u00fcr Statistik BFS",
+                "en": "Federal Statistical Office FSO",
+                "it": "Ufficio federale di statistica UST"
+            },
+            "political_level": "confederation",
+            "num_followers": 0,
+            "id": "4309c328-c618-4077-bcdc-378a21ee1b46",
+            "tags": [],
+            "approval_status": "approved"
+        },
+        "name": "eidgenossische-wahlen-2023-testing",
+        "isopen": false,
+        "accrual_periodicity": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+        "owner_org": "4309c328-c618-4077-bcdc-378a21ee1b46",
+        "modified": "",
+        "url": "",
+        "see_alsos": {},
+        "revision_id": "45f87970-f84e-4dda-a5f5-8b51318310df",
+        "identifier": "eidgenoessische-wahlen-2023-testing@bundesamt-fur-statistik-bfs"
+    }
+}

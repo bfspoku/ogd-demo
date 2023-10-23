@@ -1,0 +1,6561 @@
+﻿{
+"timestamp":"2023-06-12T11:22:18",
+"wahl_jahr":2019,
+"spatial_reference": [
+	{
+		"spatial_unit" : "kant",
+		"spatial_date": "1997-01-01"
+	},
+	{
+		"spatial_unit" : "bezk",
+		"spatial_date": "2019-01-01"
+	},
+	{
+		"spatial_unit" : "voge",
+		"spatial_date": "2019-01-01"
+	}
+],
+"quelle":"Bundesamt für Statistik",
+"bemerkungen":{
+"Hinweis zu den Daten":"Nationalratswahlen:Provisorische Ergebnisse. ohne Gewähr. Verbindlich sind die von der Bundeskanzlei veröffentlichten Resultate. //  Élections au Conseil national : Résultats provisoires. Seuls les résultats publiés par la Chancellerie fédérale font foi. // Elezioni del Consiglio nazionale: Risultati provvisori. Tutti i risultati senza garanzia. Sono vincolanti unicamente i risultati pubblicati dalla Cancelleria federale."
+}
+,
+"stand":{
+"wahl_abgeschlossen":false,
+"kantone_total":26,
+"kantone_abgeschlossen":0,
+"kantone_nicht_abgeschlossen":26
+}
+,
+"stand_kantone":[
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"kanton_bezeichnung_kurz":"ZH",
+"kanton_abgeschlossen":"false",
+"gemeinden_total":163,
+"gemeinden_abgeschlossen":0,
+"gemeinden_nicht_abgeschlossen":163
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"kanton_bezeichnung_kurz":"BE",
+"kanton_abgeschlossen":"false",
+"gemeinden_total":340,
+"gemeinden_abgeschlossen":0,
+"gemeinden_nicht_abgeschlossen":340
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"kanton_bezeichnung_kurz":"LU",
+"kanton_abgeschlossen":"false",
+"gemeinden_total":84,
+"gemeinden_abgeschlossen":0,
+"gemeinden_nicht_abgeschlossen":84
+}
+,
+{
+"kanton_nummer":4,
+"kanton_bezeichnung":"Uri",
+"kanton_bezeichnung_kurz":"UR",
+"kanton_abgeschlossen":"false",
+"gemeinden_total":21,
+"gemeinden_abgeschlossen":0,
+"gemeinden_nicht_abgeschlossen":21
+}
+,
+{
+"kanton_nummer":5,
+"kanton_bezeichnung":"Schwyz",
+"kanton_bezeichnung_kurz":"SZ",
+"kanton_abgeschlossen":"false",
+"gemeinden_total":30,
+"gemeinden_abgeschlossen":0,
+"gemeinden_nicht_abgeschlossen":30
+}
+,
+{
+"kanton_nummer":6,
+"kanton_bezeichnung":"Obwalden",
+"kanton_bezeichnung_kurz":"OW",
+"kanton_abgeschlossen":"false",
+"gemeinden_total":7,
+"gemeinden_abgeschlossen":0,
+"gemeinden_nicht_abgeschlossen":7
+}
+,
+{
+"kanton_nummer":7,
+"kanton_bezeichnung":"Nidwalden",
+"kanton_bezeichnung_kurz":"NW",
+"kanton_abgeschlossen":"false",
+"gemeinden_total":11,
+"gemeinden_abgeschlossen":0,
+"gemeinden_nicht_abgeschlossen":11
+}
+,
+{
+"kanton_nummer":8,
+"kanton_bezeichnung":"Glarus",
+"kanton_bezeichnung_kurz":"GL",
+"kanton_abgeschlossen":"false",
+"gemeinden_total":3,
+"gemeinden_abgeschlossen":0,
+"gemeinden_nicht_abgeschlossen":3
+}
+,
+{
+"kanton_nummer":9,
+"kanton_bezeichnung":"Zug",
+"kanton_bezeichnung_kurz":"ZG",
+"kanton_abgeschlossen":"false",
+"gemeinden_total":11,
+"gemeinden_abgeschlossen":0,
+"gemeinden_nicht_abgeschlossen":11
+}
+,
+{
+"kanton_nummer":10,
+"kanton_bezeichnung":"Fribourg / Freiburg",
+"kanton_bezeichnung_kurz":"FR",
+"kanton_abgeschlossen":"false",
+"gemeinden_total":137,
+"gemeinden_abgeschlossen":0,
+"gemeinden_nicht_abgeschlossen":137
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"kanton_bezeichnung_kurz":"SO",
+"kanton_abgeschlossen":"false",
+"gemeinden_total":109,
+"gemeinden_abgeschlossen":0,
+"gemeinden_nicht_abgeschlossen":109
+}
+,
+{
+"kanton_nummer":12,
+"kanton_bezeichnung":"Basel-Stadt",
+"kanton_bezeichnung_kurz":"BS",
+"kanton_abgeschlossen":"false",
+"gemeinden_total":4,
+"gemeinden_abgeschlossen":0,
+"gemeinden_nicht_abgeschlossen":4
+}
+,
+{
+"kanton_nummer":13,
+"kanton_bezeichnung":"Basel-Landschaft",
+"kanton_bezeichnung_kurz":"BL",
+"kanton_abgeschlossen":"false",
+"gemeinden_total":86,
+"gemeinden_abgeschlossen":0,
+"gemeinden_nicht_abgeschlossen":86
+}
+,
+{
+"kanton_nummer":14,
+"kanton_bezeichnung":"Schaffhausen",
+"kanton_bezeichnung_kurz":"SH",
+"kanton_abgeschlossen":"false",
+"gemeinden_total":26,
+"gemeinden_abgeschlossen":0,
+"gemeinden_nicht_abgeschlossen":26
+}
+,
+{
+"kanton_nummer":15,
+"kanton_bezeichnung":"Appenzell Ausserrhoden",
+"kanton_bezeichnung_kurz":"AR",
+"kanton_abgeschlossen":"false",
+"gemeinden_total":20,
+"gemeinden_abgeschlossen":0,
+"gemeinden_nicht_abgeschlossen":20
+}
+,
+{
+"kanton_nummer":16,
+"kanton_bezeichnung":"Appenzell Innerrhoden",
+"kanton_bezeichnung_kurz":"AI",
+"kanton_abgeschlossen":"false",
+"gemeinden_total":7,
+"gemeinden_abgeschlossen":0,
+"gemeinden_nicht_abgeschlossen":7
+}
+,
+{
+"kanton_nummer":17,
+"kanton_bezeichnung":"St. Gallen",
+"kanton_bezeichnung_kurz":"SG",
+"kanton_abgeschlossen":"false",
+"gemeinden_total":78,
+"gemeinden_abgeschlossen":0,
+"gemeinden_nicht_abgeschlossen":78
+}
+,
+{
+"kanton_nummer":18,
+"kanton_bezeichnung":"Graubünden / Grigioni / Grischun",
+"kanton_bezeichnung_kurz":"GR",
+"kanton_abgeschlossen":"false",
+"gemeinden_total":106,
+"gemeinden_abgeschlossen":0,
+"gemeinden_nicht_abgeschlossen":106
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"kanton_bezeichnung_kurz":"AG",
+"kanton_abgeschlossen":"false",
+"gemeinden_total":212,
+"gemeinden_abgeschlossen":0,
+"gemeinden_nicht_abgeschlossen":212
+}
+,
+{
+"kanton_nummer":20,
+"kanton_bezeichnung":"Thurgau",
+"kanton_bezeichnung_kurz":"TG",
+"kanton_abgeschlossen":"false",
+"gemeinden_total":81,
+"gemeinden_abgeschlossen":0,
+"gemeinden_nicht_abgeschlossen":81
+}
+,
+{
+"kanton_nummer":21,
+"kanton_bezeichnung":"Ticino",
+"kanton_bezeichnung_kurz":"TI",
+"kanton_abgeschlossen":"false",
+"gemeinden_total":115,
+"gemeinden_abgeschlossen":0,
+"gemeinden_nicht_abgeschlossen":115
+}
+,
+{
+"kanton_nummer":22,
+"kanton_bezeichnung":"Vaud",
+"kanton_bezeichnung_kurz":"VD",
+"kanton_abgeschlossen":"false",
+"gemeinden_total":310,
+"gemeinden_abgeschlossen":0,
+"gemeinden_nicht_abgeschlossen":310
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"kanton_bezeichnung_kurz":"VS",
+"kanton_abgeschlossen":"false",
+"gemeinden_total":127,
+"gemeinden_abgeschlossen":0,
+"gemeinden_nicht_abgeschlossen":127
+}
+,
+{
+"kanton_nummer":24,
+"kanton_bezeichnung":"Neuchâtel",
+"kanton_bezeichnung_kurz":"NE",
+"kanton_abgeschlossen":"false",
+"gemeinden_total":31,
+"gemeinden_abgeschlossen":0,
+"gemeinden_nicht_abgeschlossen":31
+}
+,
+{
+"kanton_nummer":25,
+"kanton_bezeichnung":"Genève",
+"kanton_bezeichnung_kurz":"GE",
+"kanton_abgeschlossen":"false",
+"gemeinden_total":46,
+"gemeinden_abgeschlossen":0,
+"gemeinden_nicht_abgeschlossen":46
+}
+,
+{
+"kanton_nummer":26,
+"kanton_bezeichnung":"Jura",
+"kanton_bezeichnung_kurz":"JU",
+"kanton_abgeschlossen":"false",
+"gemeinden_total":53,
+"gemeinden_abgeschlossen":0,
+"gemeinden_nicht_abgeschlossen":53
+}
+]
+,
+"parteien":[
+{
+"partei_id":1,
+"partei_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "FDP.Die Liberalen"
+	},
+	{
+		"langKey" : "fr",
+		"text": "PLR.Les Libéraux"
+	},
+	{
+		"langKey" : "it",
+		"text": "PLR.I Liberali Radicali"
+	},
+	{
+		"langKey" : "en",
+		"text": "RDP.The Liberals"
+	}
+],
+"partei_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "FDP"
+	},
+	{
+		"langKey" : "fr",
+		"text": "PLR"
+	},
+	{
+		"langKey" : "it",
+		"text": "PLR"
+	},
+	{
+		"langKey" : "en",
+		"text": "FDP"
+	}
+],
+"parteigruppen_id":201,
+"parteigruppen_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "FDP.Die Liberalen (inkl. LPS)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "PLR.Les Libéraux (y.c. PLS)"
+	},
+	{
+		"langKey" : "it",
+		"text": "PLR.I Liberali Radicali (incl. PLS)"
+	},
+	{
+		"langKey" : "en",
+		"text": "RDP.The Liberals (inc. PLS)"
+	}
+],
+"parteigruppen_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "FDP/LPS"
+	},
+	{
+		"langKey" : "fr",
+		"text": "PLR/PL"
+	},
+	{
+		"langKey" : "it",
+		"text": "PLR/PLS"
+	},
+	{
+		"langKey" : "en",
+		"text": "FDP/LPS"
+	}
+],
+"parteipolitische_lager_id":303,
+"parteipolitische_lager_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Traditionelle bürgerliche und rechte Parteien (FDP, CVP, SVP, LPS, SD, EDU, FPS, Lega, MCR)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Partis bourgeois traditionnels et de droite: PLR, PDC, UDC, PLS, DS, UDF, PSL, Lega, MCR"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partiti borghesi tradizionali e di destra (PLR, PPD, UDC, PLS, DS, UDF, PSL, Lega, MCR)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Traditional conservative and right-wing parties (FDP, CVP, SVP, LPS, SD, EDU, FPS, Lega, MCR)"
+	}
+],
+"parteipolitische_lager_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Traditionelle bürgerliche und rechte Parteien"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Partis bourgeois traditionnels et de droite"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partiti borghesi tradizionali e di destra"
+	},
+	{
+		"langKey" : "en",
+		"text": "Traditional conservative and right-wing parties"
+	}
+]}
+,
+{
+"partei_id":2,
+"partei_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Christlichdemokratische Volkspartei der Schweiz"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Parti démocrate-chrétien suisse"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partito popolare democratico"
+	},
+	{
+		"langKey" : "en",
+		"text": "Christian Democratic Party"
+	}
+],
+"partei_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "CVP"
+	},
+	{
+		"langKey" : "fr",
+		"text": "PDC"
+	},
+	{
+		"langKey" : "it",
+		"text": "PPD"
+	},
+	{
+		"langKey" : "en",
+		"text": "CVP"
+	}
+],
+"parteigruppen_id":202,
+"parteigruppen_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Christlichdemokratische Volkspartei der Schweiz"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Parti démocrate-chrétien suisse"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partito popolare democratico"
+	},
+	{
+		"langKey" : "en",
+		"text": "Christian Democratic Party"
+	}
+],
+"parteigruppen_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "CVP"
+	},
+	{
+		"langKey" : "fr",
+		"text": "PDC"
+	},
+	{
+		"langKey" : "it",
+		"text": "PPD"
+	},
+	{
+		"langKey" : "en",
+		"text": "CVP"
+	}
+],
+"parteipolitische_lager_id":303,
+"parteipolitische_lager_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Traditionelle bürgerliche und rechte Parteien (FDP, CVP, SVP, LPS, SD, EDU, FPS, Lega, MCR)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Partis bourgeois traditionnels et de droite: PLR, PDC, UDC, PLS, DS, UDF, PSL, Lega, MCR"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partiti borghesi tradizionali e di destra (PLR, PPD, UDC, PLS, DS, UDF, PSL, Lega, MCR)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Traditional conservative and right-wing parties (FDP, CVP, SVP, LPS, SD, EDU, FPS, Lega, MCR)"
+	}
+],
+"parteipolitische_lager_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Traditionelle bürgerliche und rechte Parteien"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Partis bourgeois traditionnels et de droite"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partiti borghesi tradizionali e di destra"
+	},
+	{
+		"langKey" : "en",
+		"text": "Traditional conservative and right-wing parties"
+	}
+]}
+,
+{
+"partei_id":3,
+"partei_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Sozialdemokratische Partei der Schweiz"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Parti socialiste suisse"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partito socialista svizzero"
+	},
+	{
+		"langKey" : "en",
+		"text": "Social Democratic Party"
+	}
+],
+"partei_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "SP"
+	},
+	{
+		"langKey" : "fr",
+		"text": "PS"
+	},
+	{
+		"langKey" : "it",
+		"text": "PS"
+	},
+	{
+		"langKey" : "en",
+		"text": "SP"
+	}
+],
+"parteigruppen_id":203,
+"parteigruppen_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Sozialdemokratische Partei der Schweiz"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Parti socialiste suisse"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partito socialista svizzero"
+	},
+	{
+		"langKey" : "en",
+		"text": "Social Democratic Party"
+	}
+],
+"parteigruppen_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "SP"
+	},
+	{
+		"langKey" : "fr",
+		"text": "PS"
+	},
+	{
+		"langKey" : "it",
+		"text": "PS"
+	},
+	{
+		"langKey" : "en",
+		"text": "SP"
+	}
+],
+"parteipolitische_lager_id":301,
+"parteipolitische_lager_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Linke und grüne Parteien (SP, PdA, Sol., POCH, FGA, GPS)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Partis de gauche et verts: PS, PST, Sol., POCH, AVF, PES"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partiti di sinistra e verdi (PS, PdL, Sol., POCH, AVF, PES)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Left-wing and green parties (SP, PdA, Sol., POCH, FGA, GPS)"
+	}
+],
+"parteipolitische_lager_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Linke und grüne Parteien"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Partis de gauche et verts"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partiti di sinistra e verdi"
+	},
+	{
+		"langKey" : "en",
+		"text": "Left-wing and green parties"
+	}
+]}
+,
+{
+"partei_id":4,
+"partei_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Schweizerische Volkspartei"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Union démocratique du centre"
+	},
+	{
+		"langKey" : "it",
+		"text": "Unione democratica di centro"
+	},
+	{
+		"langKey" : "en",
+		"text": "Swiss People's Party"
+	}
+],
+"partei_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "SVP"
+	},
+	{
+		"langKey" : "fr",
+		"text": "UDC"
+	},
+	{
+		"langKey" : "it",
+		"text": "UDC"
+	},
+	{
+		"langKey" : "en",
+		"text": "SVP"
+	}
+],
+"parteigruppen_id":204,
+"parteigruppen_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Schweizerische Volkspartei"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Union démocratique du centre"
+	},
+	{
+		"langKey" : "it",
+		"text": "Unione democratica di centro"
+	},
+	{
+		"langKey" : "en",
+		"text": "Swiss People's Party"
+	}
+],
+"parteigruppen_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "SVP"
+	},
+	{
+		"langKey" : "fr",
+		"text": "UDC"
+	},
+	{
+		"langKey" : "it",
+		"text": "UDC"
+	},
+	{
+		"langKey" : "en",
+		"text": "SVP"
+	}
+],
+"parteipolitische_lager_id":303,
+"parteipolitische_lager_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Traditionelle bürgerliche und rechte Parteien (FDP, CVP, SVP, LPS, SD, EDU, FPS, Lega, MCR)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Partis bourgeois traditionnels et de droite: PLR, PDC, UDC, PLS, DS, UDF, PSL, Lega, MCR"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partiti borghesi tradizionali e di destra (PLR, PPD, UDC, PLS, DS, UDF, PSL, Lega, MCR)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Traditional conservative and right-wing parties (FDP, CVP, SVP, LPS, SD, EDU, FPS, Lega, MCR)"
+	}
+],
+"parteipolitische_lager_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Traditionelle bürgerliche und rechte Parteien"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Partis bourgeois traditionnels et de droite"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partiti borghesi tradizionali e di destra"
+	},
+	{
+		"langKey" : "en",
+		"text": "Traditional conservative and right-wing parties"
+	}
+]}
+,
+{
+"partei_id":5,
+"partei_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Liberale Partei der Schweiz"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Parti libéral suisse"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partito liberale svizzero"
+	},
+	{
+		"langKey" : "en",
+		"text": "Liberal party"
+	}
+],
+"partei_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "LPS"
+	},
+	{
+		"langKey" : "fr",
+		"text": "PL"
+	},
+	{
+		"langKey" : "it",
+		"text": "PLS"
+	},
+	{
+		"langKey" : "en",
+		"text": "LPS"
+	}
+],
+"parteigruppen_id":201,
+"parteigruppen_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "FDP. Die Liberalen (inkl. LPS)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "PLR.Les Libéraux (y.c. PLS)"
+	},
+	{
+		"langKey" : "it",
+		"text": "PLR.I Liberali Radicali (incl. PLS)"
+	},
+	{
+		"langKey" : "en",
+		"text": "RDP.The Liberals (inc. PLS)"
+	}
+],
+"parteigruppen_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "FDP/LPS"
+	},
+	{
+		"langKey" : "fr",
+		"text": "PLR/PL"
+	},
+	{
+		"langKey" : "it",
+		"text": "PLR/PLS"
+	},
+	{
+		"langKey" : "en",
+		"text": "FDP/LPS"
+	}
+],
+"parteipolitische_lager_id":303,
+"parteipolitische_lager_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Traditionelle bürgerliche und rechte Parteien (FDP, CVP, SVP, LPS, SD, EDU, FPS, Lega, MCR)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Partis bourgeois traditionnels et de droite: PLR, PDC, UDC, PLS, DS, UDF, PSL, Lega, MCR"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partiti borghesi tradizionali e di destra (PLR, PPD, UDC, PLS, DS, UDF, PSL, Lega, MCR)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Traditional conservative and right-wing parties (FDP, CVP, SVP, LPS, SD, EDU, FPS, Lega, MCR)"
+	}
+],
+"parteipolitische_lager_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Traditionelle bürgerliche und rechte Parteien"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Partis bourgeois traditionnels et de droite"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partiti borghesi tradizionali e di destra"
+	},
+	{
+		"langKey" : "en",
+		"text": "Traditional conservative and right-wing parties"
+	}
+]}
+,
+{
+"partei_id":6,
+"partei_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Landesring der Unabhängigen"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Alliance des Indépendants"
+	},
+	{
+		"langKey" : "it",
+		"text": "Anello degli indipendenti"
+	},
+	{
+		"langKey" : "en",
+		"text": "Independents"
+	}
+],
+"partei_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "LdU"
+	},
+	{
+		"langKey" : "fr",
+		"text": "AdI"
+	},
+	{
+		"langKey" : "it",
+		"text": "AdI"
+	},
+	{
+		"langKey" : "en",
+		"text": "LdU"
+	}
+],
+"parteigruppen_id":205,
+"parteigruppen_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Mitteparteien (LdU, EVP, CSP)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis du centre (Adl, PEV, PCS)"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti del centro (Adl, PEV, PCS)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small centre political parties (LdU, EVP, CSP)"
+	}
+],
+"parteigruppen_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Mitteparteien"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis du centre"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti del centro"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small centre political parties"
+	}
+],
+"parteipolitische_lager_id":302,
+"parteipolitische_lager_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Mitteparteien und andere (LdU, EVP, CSP, GLP, BDP, andere)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis du centre et autres: AdI, PEV, PCS, PVL, BPD, autres"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti del centro e altri (Adl, PEV, PCS, PVL, PBD, altri)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small centre parties and others  (LdU, EVP, CSP, GLP, BDP, others)"
+	}
+],
+"parteipolitische_lager_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Mitteparteien und andere"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis du centre et autres"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti del centro e altri"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small centre parties and others"
+	}
+]}
+,
+{
+"partei_id":7,
+"partei_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Evangelische Volkspartei der Schweiz"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Parti évangélique populaire suisse"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partito evangelico svizzero"
+	},
+	{
+		"langKey" : "en",
+		"text": "Evangelical People's Party"
+	}
+],
+"partei_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "EVP"
+	},
+	{
+		"langKey" : "fr",
+		"text": "PEV"
+	},
+	{
+		"langKey" : "it",
+		"text": "PEV"
+	},
+	{
+		"langKey" : "en",
+		"text": "EVP"
+	}
+],
+"parteigruppen_id":205,
+"parteigruppen_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Mitteparteien (LdU, EVP, CSP)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis du centre (Adl, PEV, PCS)"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti del centro (Adl, PEV, PCS)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small centre political parties (LdU, EVP, CSP)"
+	}
+],
+"parteigruppen_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Mitteparteien"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis du centre"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti del centro"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small centre political parties"
+	}
+],
+"parteipolitische_lager_id":302,
+"parteipolitische_lager_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Mitteparteien und andere (LdU, EVP, CSP, GLP, BDP, andere)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis du centre et autres: AdI, PEV, PCS, PVL, BPD, autres"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti del centro e altri (Adl, PEV, PCS, PVL, PBD, altri)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small centre parties and others  (LdU, EVP, CSP, GLP, BDP, others)"
+	}
+],
+"parteipolitische_lager_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Mitteparteien und andere"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis du centre et autres"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti del centro e altri"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small centre parties and others"
+	}
+]}
+,
+{
+"partei_id":8,
+"partei_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Christlichsoziale Partei"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Parti chrétien-social"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partito cristiano sociale"
+	},
+	{
+		"langKey" : "en",
+		"text": "Christian Social Party"
+	}
+],
+"partei_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "CSP"
+	},
+	{
+		"langKey" : "fr",
+		"text": "PCS"
+	},
+	{
+		"langKey" : "it",
+		"text": "PCS"
+	},
+	{
+		"langKey" : "en",
+		"text": "CSP"
+	}
+],
+"parteigruppen_id":205,
+"parteigruppen_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Mitteparteien (LdU, EVP, CSP)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis du centre (Adl, PEV, PCS)"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti del centro (Adl, PEV, PCS)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small centre political parties (LdU, EVP, CSP)"
+	}
+],
+"parteigruppen_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Mitteparteien"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis du centre"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti del centro"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small centre political parties"
+	}
+],
+"parteipolitische_lager_id":302,
+"parteipolitische_lager_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Mitteparteien und andere (LdU, EVP, CSP, GLP, BDP, andere)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis du centre et autres: AdI, PEV, PCS, PVL, BPD, autres"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti del centro e altri (Adl, PEV, PCS, PVL, PBD, altri)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small centre parties and others  (LdU, EVP, CSP, GLP, BDP, others)"
+	}
+],
+"parteipolitische_lager_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Mitteparteien und andere"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis du centre et autres"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti del centro e altri"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small centre parties and others"
+	}
+]}
+,
+{
+"partei_id":9,
+"partei_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Partei der Arbeit / Solidarität"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Parti suisse du travail / Solidarités"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partito svizzero del lavoro / Solidarietà"
+	},
+	{
+		"langKey" : "en",
+		"text": "Labour Party / Solidarity"
+	}
+],
+"partei_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "PdA/Sol."
+	},
+	{
+		"langKey" : "fr",
+		"text": "PST/Sol."
+	},
+	{
+		"langKey" : "it",
+		"text": "PdL/Sol."
+	},
+	{
+		"langKey" : "en",
+		"text": "PdA/Sol."
+	}
+],
+"parteigruppen_id":208,
+"parteigruppen_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Linksparteien (PdA/Sol.)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis de gauche (PST, Sol.)"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti di sinistra (PdL, Sol.)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small left-wing parties (PdA, Sol.)"
+	}
+],
+"parteigruppen_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Linksparteien (PdA/Sol.)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis de gauche (PST, Sol.)"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti di sinistra (PdL, Sol.)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small left-wing parties (PdA, Sol.)"
+	}
+],
+"parteipolitische_lager_id":301,
+"parteipolitische_lager_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Linke und grüne Parteien (SP, PdA, Sol., POCH, FGA, GPS)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Partis de gauche et verts: PS, PST, Sol., POCH, AVF, PES"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partiti di sinistra e verdi (PS, PdL, Sol., POCH, AVF, PES)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Left-wing and green parties (SP, PdA, Sol., POCH, FGA, GPS)"
+	}
+],
+"parteipolitische_lager_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Linke und grüne Parteien"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Partis de gauche et verts"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partiti di sinistra e verdi"
+	},
+	{
+		"langKey" : "en",
+		"text": "Left-wing and green parties"
+	}
+]}
+,
+{
+"partei_id":12,
+"partei_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Grün-Alternative (inkl. POCH)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Alternative socialiste verte (y. c. POCH)"
+	},
+	{
+		"langKey" : "it",
+		"text": "Verdi-alternativi (incl. POCH)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Green-alternative groups (inc. POCH)"
+	}
+],
+"partei_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "FGA"
+	},
+	{
+		"langKey" : "fr",
+		"text": "AVF"
+	},
+	{
+		"langKey" : "it",
+		"text": "AVF"
+	},
+	{
+		"langKey" : "en",
+		"text": "FGA"
+	}
+],
+"parteigruppen_id":209,
+"parteigruppen_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Grüne (GPS, FGA, POCH)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Verts (PES, AVF, POCH)"
+	},
+	{
+		"langKey" : "it",
+		"text": "Verdi (PES, AVF, POCH)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Greens (GPS, FGA, POCH)"
+	}
+],
+"parteigruppen_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Grüne"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Verts"
+	},
+	{
+		"langKey" : "it",
+		"text": "Verdi"
+	},
+	{
+		"langKey" : "en",
+		"text": "Greens"
+	}
+],
+"parteipolitische_lager_id":301,
+"parteipolitische_lager_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Linke und grüne Parteien (SP, PdA, Sol., POCH, FGA, GPS)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Partis de gauche et verts: PS, PST, Sol., POCH, AVF, PES"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partiti di sinistra e verdi (PS, PdL, Sol., POCH, AVF, PES)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Left-wing and green parties (SP, PdA, Sol., POCH, FGA, GPS)"
+	}
+],
+"parteipolitische_lager_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Linke und grüne Parteien"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Partis de gauche et verts"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partiti di sinistra e verdi"
+	},
+	{
+		"langKey" : "en",
+		"text": "Left-wing and green parties"
+	}
+]}
+,
+{
+"partei_id":13,
+"partei_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Grüne Partei der Schweiz"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Parti écologiste suisse"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partito ecologista svizzero"
+	},
+	{
+		"langKey" : "en",
+		"text": "Green Party of Switzerland"
+	}
+],
+"partei_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "GPS"
+	},
+	{
+		"langKey" : "fr",
+		"text": "PES"
+	},
+	{
+		"langKey" : "it",
+		"text": "PES"
+	},
+	{
+		"langKey" : "en",
+		"text": "GPS"
+	}
+],
+"parteigruppen_id":209,
+"parteigruppen_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Grüne (GPS, FGA, POCH)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Verts (PES, AVF, POCH)"
+	},
+	{
+		"langKey" : "it",
+		"text": "Verdi (PES, AVF, POCH)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Greens (GPS, FGA, POCH)"
+	}
+],
+"parteigruppen_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Grüne"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Verts"
+	},
+	{
+		"langKey" : "it",
+		"text": "Verdi"
+	},
+	{
+		"langKey" : "en",
+		"text": "Greens"
+	}
+],
+"parteipolitische_lager_id":301,
+"parteipolitische_lager_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Linke und grüne Parteien (SP, PdA, Sol., POCH, FGA, GPS)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Partis de gauche et verts: PS, PST, Sol., POCH, AVF, PES"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partiti di sinistra e verdi (PS, PdL, Sol., POCH, AVF, PES)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Left-wing and green parties (SP, PdA, Sol., POCH, FGA, GPS)"
+	}
+],
+"parteipolitische_lager_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Linke und grüne Parteien"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Partis de gauche et verts"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partiti di sinistra e verdi"
+	},
+	{
+		"langKey" : "en",
+		"text": "Left-wing and green parties"
+	}
+]}
+,
+{
+"partei_id":14,
+"partei_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Schweizer Demokraten"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Démocrates Suisses"
+	},
+	{
+		"langKey" : "it",
+		"text": "Democratici svizzeri"
+	},
+	{
+		"langKey" : "en",
+		"text": "Swiss Democrats"
+	}
+],
+"partei_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "SD"
+	},
+	{
+		"langKey" : "fr",
+		"text": "DS"
+	},
+	{
+		"langKey" : "it",
+		"text": "DS"
+	},
+	{
+		"langKey" : "en",
+		"text": "SD"
+	}
+],
+"parteigruppen_id":210,
+"parteigruppen_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Rechtsparteien (SD, EDU, FPS, Lega, MCR)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis de droite (DS, UDF, PSL, Lega, MCR)"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti di destra (DS, UDF, PSL, Lega, MCR)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small right-wing parties (SD, EDU, FPS, Lega, MCR)"
+	}
+],
+"parteigruppen_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Rechtsparteien"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis de droite"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti di destra"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small right-wing parties"
+	}
+],
+"parteipolitische_lager_id":303,
+"parteipolitische_lager_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Traditionelle bürgerliche und rechte Parteien (FDP, CVP, SVP, LPS, SD, EDU, FPS, Lega, MCR)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Partis bourgeois traditionnels et de droite: PLR, PDC, UDC, PLS, DS, UDF, PSL, Lega, MCR"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partiti borghesi tradizionali e di destra (PLR, PPD, UDC, PLS, DS, UDF, PSL, Lega, MCR)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Traditional conservative and right-wing parties (FDP, CVP, SVP, LPS, SD, EDU, FPS, Lega, MCR)"
+	}
+],
+"parteipolitische_lager_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Traditionelle bürgerliche und rechte Parteien"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Partis bourgeois traditionnels et de droite"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partiti borghesi tradizionali e di destra"
+	},
+	{
+		"langKey" : "en",
+		"text": "Traditional conservative and right-wing parties"
+	}
+]}
+,
+{
+"partei_id":16,
+"partei_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Eidgenössisch-Demokratische Union"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Union démocratique fédérale"
+	},
+	{
+		"langKey" : "it",
+		"text": "Unione democratica federale"
+	},
+	{
+		"langKey" : "en",
+		"text": "Federal democratic union"
+	}
+],
+"partei_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "EDU"
+	},
+	{
+		"langKey" : "fr",
+		"text": "UDF"
+	},
+	{
+		"langKey" : "it",
+		"text": "UDF"
+	},
+	{
+		"langKey" : "en",
+		"text": "EDU"
+	}
+],
+"parteigruppen_id":210,
+"parteigruppen_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Rechtsparteien (SD, EDU, FPS, Lega, MCR)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis de droite (DS, UDF, PSL, Lega, MCR)"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti di destra (DS, UDF, PSL, Lega, MCR)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small right-wing parties (SD, EDU, FPS, Lega, MCR)"
+	}
+],
+"parteigruppen_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Rechtsparteien"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis de droite"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti di destra"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small right-wing parties"
+	}
+],
+"parteipolitische_lager_id":303,
+"parteipolitische_lager_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Traditionelle bürgerliche und rechte Parteien (FDP, CVP, SVP, LPS, SD, EDU, FPS, Lega, MCR)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Partis bourgeois traditionnels et de droite: PLR, PDC, UDC, PLS, DS, UDF, PSL, Lega, MCR"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partiti borghesi tradizionali e di destra (PLR, PPD, UDC, PLS, DS, UDF, PSL, Lega, MCR)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Traditional conservative and right-wing parties (FDP, CVP, SVP, LPS, SD, EDU, FPS, Lega, MCR)"
+	}
+],
+"parteipolitische_lager_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Traditionelle bürgerliche und rechte Parteien"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Partis bourgeois traditionnels et de droite"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partiti borghesi tradizionali e di destra"
+	},
+	{
+		"langKey" : "en",
+		"text": "Traditional conservative and right-wing parties"
+	}
+]}
+,
+{
+"partei_id":17,
+"partei_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Freiheits-Partei der Schweiz"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Parti suisse de la liberté"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partito svizzero della libertà"
+	},
+	{
+		"langKey" : "en",
+		"text": "Freedom Party of Switzerland"
+	}
+],
+"partei_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "FPS"
+	},
+	{
+		"langKey" : "fr",
+		"text": "PSL"
+	},
+	{
+		"langKey" : "it",
+		"text": "PSL"
+	},
+	{
+		"langKey" : "en",
+		"text": "FPS"
+	}
+],
+"parteigruppen_id":210,
+"parteigruppen_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Rechtsparteien (SD, EDU, FPS, Lega, MCR)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis de droite (DS, UDF, PSL, Lega, MCR)"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti di destra (DS, UDF, PSL, Lega, MCR)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small right-wing parties (SD, EDU, FPS, Lega, MCR)"
+	}
+],
+"parteigruppen_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Rechtsparteien"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis de droite"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti di destra"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small right-wing parties"
+	}
+],
+"parteipolitische_lager_id":303,
+"parteipolitische_lager_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Traditionelle bürgerliche und rechte Parteien (FDP, CVP, SVP, LPS, SD, EDU, FPS, Lega, MCR)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Partis bourgeois traditionnels et de droite: PLR, PDC, UDC, PLS, DS, UDF, PSL, Lega, MCR"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partiti borghesi tradizionali e di destra (PLR, PPD, UDC, PLS, DS, UDF, PSL, Lega, MCR)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Traditional conservative and right-wing parties (FDP, CVP, SVP, LPS, SD, EDU, FPS, Lega, MCR)"
+	}
+],
+"parteipolitische_lager_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Traditionelle bürgerliche und rechte Parteien"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Partis bourgeois traditionnels et de droite"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partiti borghesi tradizionali e di destra"
+	},
+	{
+		"langKey" : "en",
+		"text": "Traditional conservative and right-wing parties"
+	}
+]}
+,
+{
+"partei_id":18,
+"partei_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Lega dei Ticinesi"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Lega dei Ticinesi"
+	},
+	{
+		"langKey" : "it",
+		"text": "Lega dei ticinesi"
+	},
+	{
+		"langKey" : "en",
+		"text": "Lega dei ticinesi"
+	}
+],
+"partei_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Lega"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Lega"
+	},
+	{
+		"langKey" : "it",
+		"text": "Lega"
+	},
+	{
+		"langKey" : "en",
+		"text": "Lega"
+	}
+],
+"parteigruppen_id":210,
+"parteigruppen_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Rechtsparteien (SD, EDU, FPS, Lega, MCR)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis de droite (DS, UDF, PSL, Lega, MCR)"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti di destra (DS, UDF, PSL, Lega, MCR)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small right-wing parties (SD, EDU, FPS, Lega, MCR)"
+	}
+],
+"parteigruppen_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Rechtsparteien"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis de droite"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti di destra"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small right-wing parties"
+	}
+],
+"parteipolitische_lager_id":303,
+"parteipolitische_lager_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Traditionelle bürgerliche und rechte Parteien (FDP, CVP, SVP, LPS, SD, EDU, FPS, Lega, MCR)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Partis bourgeois traditionnels et de droite: PLR, PDC, UDC, PLS, DS, UDF, PSL, Lega, MCR"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partiti borghesi tradizionali e di destra (PLR, PPD, UDC, PLS, DS, UDF, PSL, Lega, MCR)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Traditional conservative and right-wing parties (FDP, CVP, SVP, LPS, SD, EDU, FPS, Lega, MCR)"
+	}
+],
+"parteipolitische_lager_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Traditionelle bürgerliche und rechte Parteien"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Partis bourgeois traditionnels et de droite"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partiti borghesi tradizionali e di destra"
+	},
+	{
+		"langKey" : "en",
+		"text": "Traditional conservative and right-wing parties"
+	}
+]}
+,
+{
+"partei_id":31,
+"partei_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Grünliberale Partei"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Parti vert-libéral"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partito verde liberale"
+	},
+	{
+		"langKey" : "en",
+		"text": "Green Liberal Party"
+	}
+],
+"partei_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "GLP"
+	},
+	{
+		"langKey" : "fr",
+		"text": "PVL"
+	},
+	{
+		"langKey" : "it",
+		"text": "PVL"
+	},
+	{
+		"langKey" : "en",
+		"text": "GLP"
+	}
+],
+"parteigruppen_id":206,
+"parteigruppen_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Grünliberale Partei"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Parti vert-libéral"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partito verde liberale"
+	},
+	{
+		"langKey" : "en",
+		"text": "Green Liberal Party"
+	}
+],
+"parteigruppen_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "GLP"
+	},
+	{
+		"langKey" : "fr",
+		"text": "PVL"
+	},
+	{
+		"langKey" : "it",
+		"text": "PVL"
+	},
+	{
+		"langKey" : "en",
+		"text": "GLP"
+	}
+],
+"parteipolitische_lager_id":302,
+"parteipolitische_lager_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Mitteparteien und andere (LdU, EVP, CSP, GLP, BDP, andere)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis du centre et autres: AdI, PEV, PCS, PVL, BPD, autres"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti del centro e altri (Adl, PEV, PCS, PVL, PBD, altri)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small centre parties and others  (LdU, EVP, CSP, GLP, BDP, others)"
+	}
+],
+"parteipolitische_lager_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Mitteparteien und andere"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis du centre et autres"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti del centro e altri"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small centre parties and others"
+	}
+]}
+,
+{
+"partei_id":32,
+"partei_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Bürgerlich-Demokratische Partei"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Parti Bourgeois-Démocratique"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partito borghese-democratico"
+	},
+	{
+		"langKey" : "en",
+		"text": "Citizens' Democratic Party"
+	}
+],
+"partei_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "BDP"
+	},
+	{
+		"langKey" : "fr",
+		"text": "PBD"
+	},
+	{
+		"langKey" : "it",
+		"text": "PBD"
+	},
+	{
+		"langKey" : "en",
+		"text": "BDP"
+	}
+],
+"parteigruppen_id":207,
+"parteigruppen_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Bürgerlich-Demokratische Partei"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Parti Bourgeois-Démocratique"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partito borghese-democratico"
+	},
+	{
+		"langKey" : "en",
+		"text": "Citizens' Democratic Party"
+	}
+],
+"parteigruppen_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "BDP"
+	},
+	{
+		"langKey" : "fr",
+		"text": "PBD"
+	},
+	{
+		"langKey" : "it",
+		"text": "PBD"
+	},
+	{
+		"langKey" : "en",
+		"text": "BDP"
+	}
+],
+"parteipolitische_lager_id":302,
+"parteipolitische_lager_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Mitteparteien und andere (LdU, EVP, CSP, GLP, BDP, andere)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis du centre et autres: AdI, PEV, PCS, PVL, BPD, autres"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti del centro e altri (Adl, PEV, PCS, PVL, PBD, altri)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small centre parties and others  (LdU, EVP, CSP, GLP, BDP, others)"
+	}
+],
+"parteipolitische_lager_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Mitteparteien und andere"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis du centre et autres"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti del centro e altri"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small centre parties and others"
+	}
+]}
+,
+{
+"partei_id":33,
+"partei_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Mouvement Citoyens Romands"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Mouvement Citoyens Romands"
+	},
+	{
+		"langKey" : "it",
+		"text": "Mouvement Citoyens Romands"
+	},
+	{
+		"langKey" : "en",
+		"text": "Mouvement Citoyens Romands"
+	}
+],
+"partei_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "MCR"
+	},
+	{
+		"langKey" : "fr",
+		"text": "MCR"
+	},
+	{
+		"langKey" : "it",
+		"text": "MCR"
+	},
+	{
+		"langKey" : "en",
+		"text": "MCR"
+	}
+],
+"parteigruppen_id":210,
+"parteigruppen_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Rechtsparteien (SD, EDU, FPS, Lega, MCR)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis de droite (DS, UDF, PSL, Lega, MCR)"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti di destra (DS, UDF, PSL, Lega, MCR)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small right-wing parties (SD, EDU, FPS, Lega, MCR)"
+	}
+],
+"parteigruppen_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Rechtsparteien"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis de droite"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti di destra"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small right-wing parties"
+	}
+],
+"parteipolitische_lager_id":303,
+"parteipolitische_lager_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Traditionelle bürgerliche und rechte Parteien (FDP, CVP, SVP, LPS, SD, EDU, FPS, Lega, MCR)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Partis bourgeois traditionnels et de droite: PLR, PDC, UDC, PLS, DS, UDF, PSL, Lega, MCR"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partiti borghesi tradizionali e di destra (PLR, PPD, UDC, PLS, DS, UDF, PSL, Lega, MCR)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Traditional conservative and right-wing parties (FDP, CVP, SVP, LPS, SD, EDU, FPS, Lega, MCR)"
+	}
+],
+"parteipolitische_lager_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Traditionelle bürgerliche und rechte Parteien"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Partis bourgeois traditionnels et de droite"
+	},
+	{
+		"langKey" : "it",
+		"text": "Partiti borghesi tradizionali e di destra"
+	},
+	{
+		"langKey" : "en",
+		"text": "Traditional conservative and right-wing parties"
+	}
+]}
+,
+{
+"partei_id":35,
+"partei_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Übrige/Splittergruppen"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Autres/groupes épars"
+	},
+	{
+		"langKey" : "it",
+		"text": "Rimanenti"
+	},
+	{
+		"langKey" : "en",
+		"text": "Other parties"
+	}
+],
+"partei_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Übrige"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Autres"
+	},
+	{
+		"langKey" : "it",
+		"text": "Rimanenti"
+	},
+	{
+		"langKey" : "en",
+		"text": "Others"
+	}
+],
+"parteigruppen_id":235,
+"parteigruppen_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Übrige/Splittergruppen"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Autres/groupes épars"
+	},
+	{
+		"langKey" : "it",
+		"text": "Rimanenti"
+	},
+	{
+		"langKey" : "en",
+		"text": "Other parties/splinter groups"
+	}
+],
+"parteigruppen_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Übrige"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Autres"
+	},
+	{
+		"langKey" : "it",
+		"text": "Rimanenti"
+	},
+	{
+		"langKey" : "en",
+		"text": "Others"
+	}
+],
+"parteipolitische_lager_id":302,
+"parteipolitische_lager_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Mitteparteien und andere (LdU, EVP, CSP, GLP, BDP, andere)"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis du centre et autres: AdI, PEV, PCS, PVL, BPD, autres"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti del centro e altri (Adl, PEV, PCS, PVL, PBD, altri)"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small centre parties and others  (LdU, EVP, CSP, GLP, BDP, others)"
+	}
+],
+"parteipolitische_lager_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "Kleine Mitteparteien und andere"
+	},
+	{
+		"langKey" : "fr",
+		"text": "Petits partis du centre et autres"
+	},
+	{
+		"langKey" : "it",
+		"text": "Piccoli partiti del centro e altri"
+	},
+	{
+		"langKey" : "en",
+		"text": "Small centre parties and others"
+	}
+]}
+,
+{
+"partei_id":50,
+"partei_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "2. Wahlgang"
+	},
+	{
+		"langKey" : "fr",
+		"text": "2. Wahlgang/ 2e tour"
+	},
+	{
+		"langKey" : "it",
+		"text": "2. turno"
+	},
+	{
+		"langKey" : "en",
+		"text": "2nd round"
+	}
+],
+"partei_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "2. Wahlgang"
+	},
+	{
+		"langKey" : "fr",
+		"text": "2e tour"
+	},
+	{
+		"langKey" : "it",
+		"text": "2. turno"
+	},
+	{
+		"langKey" : "en",
+		"text": "2nd round"
+	}
+],
+"parteigruppen_id":240,
+"parteigruppen_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "2. Wahlgang"
+	},
+	{
+		"langKey" : "fr",
+		"text": "2e tour"
+	},
+	{
+		"langKey" : "it",
+		"text": "2. turno"
+	},
+	{
+		"langKey" : "en",
+		"text": "2nd round"
+	}
+],
+"parteigruppen_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "2. Wahlgang"
+	},
+	{
+		"langKey" : "fr",
+		"text": "2e tour"
+	},
+	{
+		"langKey" : "it",
+		"text": "2. turno"
+	},
+	{
+		"langKey" : "en",
+		"text": "2nd round"
+	}
+],
+"parteipolitische_lager_id":310,
+"parteipolitische_lager_bezeichnung":[
+	{
+		"langKey" : "de",
+		"text": "2. Wahlgang"
+	},
+	{
+		"langKey" : "fr",
+		"text": "2e tour"
+	},
+	{
+		"langKey" : "it",
+		"text": "2. turno"
+	},
+	{
+		"langKey" : "en",
+		"text": "2nd round"
+	}
+],
+"parteipolitische_lager_bezeichnung_kurz":[
+	{
+		"langKey" : "de",
+		"text": "2. Wahlgang"
+	},
+	{
+		"langKey" : "fr",
+		"text": "2e tour"
+	},
+	{
+		"langKey" : "it",
+		"text": "2. turno"
+	},
+	{
+		"langKey" : "en",
+		"text": "2nd round"
+	}
+]}
+]
+,
+"listenverbindungen":[{
+"kantone":[
+{
+"kanton_nummer":1,
+"listenverbindung":[
+{
+"liste_verbindung":"A",
+"listen":[
+{
+"liste_nummer_kanton":"31",
+"liste_bezeichnung":"EDU Eidgenössisch-Demokratische Union",
+"partei_id":16
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"A1",
+"listen":[
+{
+"liste_nummer_kanton":"32",
+"liste_bezeichnung":"SVP Schweizerische Volkspartei, Junge",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"SVP Schweizerische Volkspartei",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"28",
+"liste_bezeichnung":"SVP Schweizerische Volkspartei, 55plus",
+"partei_id":4
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"B",
+"listen":[
+{
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"Piratenpartei – humanistisch liberal progressiv",
+"partei_id":35
+}
+,
+{
+"liste_nummer_kanton":"17",
+"liste_bezeichnung":"die Guten",
+"partei_id":35
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"B1",
+"listen":[
+{
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"Sozialdemokratische Partei (SP), JUSO",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Sozialdemokratische Partei (SP)",
+"partei_id":3
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"B2",
+"listen":[
+{
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"Grüne, Junge Grüne – Klima vor Profit",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"Grüne",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"30",
+"liste_bezeichnung":"Grüne, Migrant*innen und Second@s",
+"partei_id":13
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"B3",
+"listen":[
+{
+"liste_nummer_kanton":"24",
+"liste_bezeichnung":"Linke Alternative, Partei der Arbeit",
+"partei_id":9
+}
+,
+{
+"liste_nummer_kanton":"25",
+"liste_bezeichnung":"Linke Alternative, AL – Alternative Liste",
+"partei_id":12
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"C",
+"listen":[
+{
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"Jungfreisinnige Kanton Zürich",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"FDP.Die Liberalen",
+"partei_id":1
+}
+]
+}
+,
+{
+"liste_verbindung":"D",
+"listen":[
+{
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"BDP Bürgerlich-Demokratische Partei",
+"partei_id":32
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"D1",
+"listen":[
+{
+"liste_nummer_kanton":"29",
+"liste_bezeichnung":"Grünliberale, Junge Grünliberale",
+"partei_id":31
+}
+,
+{
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"Grünliberale",
+"partei_id":31
+}
+,
+{
+"liste_nummer_kanton":"19",
+"liste_bezeichnung":"Grünliberale, UnternehmerInnen",
+"partei_id":31
+}
+,
+{
+"liste_nummer_kanton":"23",
+"liste_bezeichnung":"Grünliberale, senior GLP",
+"partei_id":31
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"D2",
+"listen":[
+{
+"liste_nummer_kanton":"18",
+"liste_bezeichnung":"CVP, Junge",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"CVP",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"CVP, Frauen",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"20",
+"liste_bezeichnung":"CVP, Christlichsoziale Vereinigung (CSV)",
+"partei_id":2
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"D3",
+"listen":[
+{
+"liste_nummer_kanton":"27",
+"liste_bezeichnung":"Evangelische Volkspartei (EVP), Junge EVP",
+"partei_id":7
+}
+,
+{
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Evangelische Volkspartei (EVP)",
+"partei_id":7
+}
+,
+{
+"liste_nummer_kanton":"21",
+"liste_bezeichnung":"Evangelische Volkspartei (EVP), Frauen EVP",
+"partei_id":7
+}
+]
+}
+]
+}
+]}
+,
+{
+"kanton_nummer":2,
+"listenverbindung":[
+{
+"liste_verbindung":"A",
+"listen":[
+{
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"FDP.Die Liberalen // PLR.Les Libéraux-Radicaux",
+"partei_id":1
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"A1",
+"listen":[
+{
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"Jungfreisinnige Stadt",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"Jungfreisinnige Land",
+"partei_id":1
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"B",
+"listen":[
+{
+"liste_nummer_kanton":"23",
+"liste_bezeichnung":"Piraten // Pirates",
+"partei_id":35
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"B1",
+"listen":[
+{
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Junge BDP // Les Jeunes PBD",
+"partei_id":32
+}
+,
+{
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"Bürgerlich-Demokratische Partei Kanton Bern // Parti Bourgeois-Démocratique Canton de Berne",
+"partei_id":32
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"B2",
+"listen":[
+{
+"liste_nummer_kanton":"16",
+"liste_bezeichnung":"Junge Grünliberale // Jeunes Vert'libéraux",
+"partei_id":31
+}
+,
+{
+"liste_nummer_kanton":"15",
+"liste_bezeichnung":"Grünliberale // Vert'libéraux",
+"partei_id":31
+}
+,
+{
+"liste_nummer_kanton":"17",
+"liste_bezeichnung":"Grünliberale KMU // Vert'libéraux PME",
+"partei_id":31
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"B3",
+"listen":[
+{
+"liste_nummer_kanton":"19",
+"liste_bezeichnung":"Junge Evangelische Volkspartei // Jeune Parti Evangélique",
+"partei_id":7
+}
+,
+{
+"liste_nummer_kanton":"18",
+"liste_bezeichnung":"Evangelische Volkspartei // Parti Evangélique",
+"partei_id":7
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"B4",
+"listen":[
+{
+"liste_nummer_kanton":"21",
+"liste_bezeichnung":"Christlichdemokratische Volkspartei // Parti démocrate-chrétien",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"22",
+"liste_bezeichnung":"PDC liste romande",
+"partei_id":2
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"C",
+"listen":[
+{
+"liste_nummer_kanton":"24",
+"liste_bezeichnung":"Partei der Arbeit // Parti Ouvrier et Populaire",
+"partei_id":9
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"C1",
+"listen":[
+{
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"Jungsozialist*innen // Jeunesse Socialiste",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"Sozialdemokratische Partei – Internationale Liste // Parti socialiste – liste internationale",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"Sozialdemokratische Partei und Gewerkschaften – Frauen // Parti socialiste et syndicats – femmes",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"Sozialdemokratische Partei und Gewerkschaften – Männer // Parti socialiste et syndicats – hommes",
+"partei_id":3
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"C2",
+"listen":[
+{
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"Grüne - Junge Alternative JA!",
+"partei_id":35
+}
+,
+{
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"Junge Grüne // Jeunes vert-e-s",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"Grüne // Les Verts",
+"partei_id":13
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"D",
+"listen":[
+{
+"liste_nummer_kanton":"29",
+"liste_bezeichnung":"Gesundheit-Energie-Natur",
+"partei_id":35
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"D1",
+"listen":[
+{
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"SVP (Junge SVP) // UDC (Jeune UDC)",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"SVP Kanton Bern (Frauen und Männer) // UDC canton de Berne (femmes et hommes)",
+"partei_id":4
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"E",
+"listen":[
+{
+"liste_nummer_kanton":"25",
+"liste_bezeichnung":"Schweizer Demokraten // Démocrates Suisses",
+"partei_id":15
+}
+,
+{
+"liste_nummer_kanton":"20",
+"liste_bezeichnung":"Eidgenössisch-Demokratische Union // Union Démocratique Fédérale",
+"partei_id":16
+}
+,
+{
+"liste_nummer_kanton":"26",
+"liste_bezeichnung":"JutziPhilipp.com",
+"partei_id":35
+}
+,
+{
+"liste_nummer_kanton":"27",
+"liste_bezeichnung":"Die Musketiere // Les Mousquetaires",
+"partei_id":35
+}
+,
+{
+"liste_nummer_kanton":"31",
+"liste_bezeichnung":"Menschen mit Zukunft sagen 5G ade!",
+"partei_id":35
+}
+,
+{
+"liste_nummer_kanton":"32",
+"liste_bezeichnung":"Partei der unbegrenzten Möglichkeiten",
+"partei_id":35
+}
+,
+{
+"liste_nummer_kanton":"33",
+"liste_bezeichnung":"Landliste // Liste du Terroir",
+"partei_id":35
+}
+]
+}
+]}
+,
+{
+"kanton_nummer":3,
+"listenverbindung":[
+{
+"liste_verbindung":"A",
+"listen":[
+{
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"Integrale Politik (IP)",
+"partei_id":35
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"A1",
+"listen":[
+{
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Junge Grüne",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"Grüne",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"32",
+"liste_bezeichnung":"Unternehmer*innen für eine grüne Wirtschaft (Grüne)",
+"partei_id":13
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"A2",
+"listen":[
+{
+"liste_nummer_kanton":"12a",
+"liste_bezeichnung":"JungsozialistInnen und Junge Linke (JUSOplus)-Stadt Luzern",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"12b",
+"liste_bezeichnung":"JungsozialistInnen und Junge Linke (JUSOplus)-Land und Agglomeration",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"35",
+"liste_bezeichnung":"SP International (Auslandschweizer*innen)",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"Sozialdemokratische Partei (SP) und Gewerkschaften",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"SP – Second@s Plus und MigrantInnen",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"17",
+"liste_bezeichnung":"SP 60+",
+"partei_id":3
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"A3",
+"listen":[
+{
+"liste_nummer_kanton":"15",
+"liste_bezeichnung":"Junge Grünliberale Partei (jglp)",
+"partei_id":31
+}
+,
+{
+"liste_nummer_kanton":"33",
+"liste_bezeichnung":"glp international",
+"partei_id":31
+}
+,
+{
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"Grünliberale Partei (glp)",
+"partei_id":31
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"B",
+"listen":[
+{
+"liste_nummer_kanton":"20",
+"liste_bezeichnung":"Junge Schweizerische Volkspartei (JSVP)",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"28",
+"liste_bezeichnung":"SVP-Frauen für Stadt und Land",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"31",
+"liste_bezeichnung":"SVP International",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Schweizerische Volkspartei (SVP)",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"29",
+"liste_bezeichnung":"Büezer und Bauern JSVP",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"30",
+"liste_bezeichnung":"LU-Biker SVP",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"Aktive Senioren Luzern (SVP)",
+"partei_id":4
+}
+]
+}
+,
+{
+"liste_verbindung":"C",
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"C1",
+"listen":[
+{
+"liste_nummer_kanton":"9a",
+"liste_bezeichnung":"Junge Christlichdemokratische Volkspartei (JCVP) a",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"9b",
+"liste_bezeichnung":"Junge Christlichdemokratische Volkspartei (JCVP) b",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"26",
+"liste_bezeichnung":"CVP Frauen",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"Christlichdemokratische Volkspartei (CVP)",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"23",
+"liste_bezeichnung":"AWG Arbeitsgemeinschaft Wirtschaft und Gesellschaft (CVP)",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"24",
+"liste_bezeichnung":"Klimaschutz (CVP)",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"25",
+"liste_bezeichnung":"CSV Christlichsoziale Vereinigung (CVP)",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"27",
+"liste_bezeichnung":"Luzerner Bauernliste (CVP)",
+"partei_id":2
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"C2",
+"listen":[
+{
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"Jungfreisinnige (JFLU)",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"22",
+"liste_bezeichnung":"FDP-Frauen Kanton Luzern",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"FDP.Die Liberalen Luzern",
+"partei_id":1
+}
+]
+}
+]
+}
+]}
+,
+{
+"kanton_nummer":5,
+"listenverbindung":[
+{
+"liste_verbindung":"A",
+"listen":[
+{
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"Junge CVP",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"Junge Grünliberale – jglp Kanton Schwyz",
+"partei_id":31
+}
+,
+{
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"CVP – Bürgerlich mit sozialer Verantwortung",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"CVP – Bauern und Gewerbe",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"18",
+"liste_bezeichnung":"EVP Evangelische Volkspartei",
+"partei_id":7
+}
+,
+{
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"Grünliberale – GLP Kanton Schwyz",
+"partei_id":31
+}
+,
+{
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"CVP 60 plus",
+"partei_id":2
+}
+]
+}
+,
+{
+"liste_verbindung":"B",
+"listen":[
+{
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"Gewerkschaftsbund Kanton Schwyz",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"Liste für Kultur",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"17",
+"liste_bezeichnung":"Schwyz für alle",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"15",
+"liste_bezeichnung":"Generation 60plus",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"20",
+"liste_bezeichnung":"Grüne Schwyz – Für eine langfristige Zukunft",
+"partei_id":13
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"B1",
+"listen":[
+{
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"JUSOplus",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"Sozialdemokratische Partei (SP)",
+"partei_id":3
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"C",
+"listen":[
+{
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"Jungfreisinnige Kanton Schwyz",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"FDP.Die Liberalen Kanton Schwyz",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"Gemeinsam fürs Schwyzer Gewerbe",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"19",
+"liste_bezeichnung":"Umwelt.Die Liberalen",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"21",
+"liste_bezeichnung":"Vorwärts Schwyz! Mobilität mit Zukunft.",
+"partei_id":1
+}
+]
+}
+,
+{
+"liste_verbindung":"D",
+"listen":[
+{
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Junge Schweizerische Volkspartei Kanton Schwyz (JSVP)",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"16",
+"liste_bezeichnung":"Schweizerische Volkspartei Kanton Schwyz",
+"partei_id":4
+}
+]
+}
+]}
+,
+{
+"kanton_nummer":9,
+"listenverbindung":[
+{
+"liste_verbindung":"A",
+"listen":[
+{
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"Evangelische Volkspartei (EVP)",
+"partei_id":7
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"A1",
+"listen":[
+{
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"Alternative – die Grünen und CSP – Junge Alternative",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"Alternative – die Grünen und CSP – Frauenpower",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"Alternative – die Grünen und CSP",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Alternative – die Grünen und CSP – Urban",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"Alternative – die Grünen und CSP – Landschaft",
+"partei_id":13
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"A2",
+"listen":[
+{
+"liste_nummer_kanton":"22",
+"liste_bezeichnung":"SP Kanton Zug – SP JUSO",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"20",
+"liste_bezeichnung":"SP Kanton Zug – SP Frauen",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"21",
+"liste_bezeichnung":"SP Kanton Zug – SP Männer",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"16",
+"liste_bezeichnung":"SP Kanton Zug",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"17",
+"liste_bezeichnung":"SP Kanton Zug – SP Zug für Bern",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"19",
+"liste_bezeichnung":"SP Kanton Zug – SP Klimaschutz",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"18",
+"liste_bezeichnung":"SP Kanton Zug – SP 60+",
+"partei_id":3
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"B",
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"B1",
+"listen":[
+{
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Christlichdemokratische Volkspartei Kanton Zug (CVP) – Junge Liste (JCVP)",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"Christlichdemokratische Volkspartei Kanton Zug (CVP) – CVP Frauen Kanton Zug",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"Christlichdemokratische Volkspartei Kanton Zug (CVP)",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"Christlichdemokratische Volkspartei Kanton Zug (CVP) – Gemeinderatsliste",
+"partei_id":2
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"B2",
+"listen":[
+{
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"FDP Zug – A",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"FDP Zug – B",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"FDP Zug – C",
+"partei_id":1
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"C",
+"listen":[
+{
+"liste_nummer_kanton":"15",
+"liste_bezeichnung":"Grünliberale Partei (GLP) – Junge Grünliberale (JGLP)",
+"partei_id":31
+}
+,
+{
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"Grünliberale Partei (GLP)",
+"partei_id":31
+}
+]
+}
+,
+{
+"liste_verbindung":"D",
+"listen":[
+{
+"liste_nummer_kanton":"23",
+"liste_bezeichnung":"SVP Schweizerische Volkspartei",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"24",
+"liste_bezeichnung":"SVP – Wirtschaft und Gewerbe",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"25",
+"liste_bezeichnung":"SVP – Zukunft",
+"partei_id":4
+}
+]
+}
+]}
+,
+{
+"kanton_nummer":10,
+"listenverbindung":[
+{
+"liste_verbindung":"A",
+"listen":[
+{
+"liste_nummer_kanton":"20",
+"liste_bezeichnung":"Parti Evangélique PEV // Evangelische Volkspartei EVP",
+"partei_id":7
+}
+,
+{
+"liste_nummer_kanton":"19",
+"liste_bezeichnung":"PBD-Centre droit // BDP-Mitte Rechts",
+"partei_id":32
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"A1",
+"listen":[
+{
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"Jeunes PDC Grand-Fribourg // Junge CVP Grossfreiburg",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"Jeunes PDC Sud fribourgeois // Junge CVP Südfreiburg",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"Junge CVP Deutschfreiburg // Jeunes PDC Fribourg alémanique",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"Jeunes PDC Sarine-Campagne et Broye // Junge CVP Saane Land und Broye",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"Parti démocrate-chrétien fribourgeois // Christlichdemokratische Volkspartei des Kantons Freiburg",
+"partei_id":2
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"A2",
+"listen":[
+{
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"Jeunes vert'libéraux (jvl) // Junge Grünliberale (jglp)",
+"partei_id":31
+}
+,
+{
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"Parti vert'libéral (pvl) // Grünliberale Partei (glp)",
+"partei_id":31
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"B",
+"listen":[
+{
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Union Démocratique Fédérale // Eidgenössisch-Demokratische Union",
+"partei_id":16
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"B1",
+"listen":[
+{
+"liste_nummer_kanton":"21",
+"liste_bezeichnung":"Jeunes UDC Fribourg // Junge SVP Freiburg",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"Union Démocratique du Centre // Schweizerische Volkspartei",
+"partei_id":4
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"C",
+"listen":[
+{
+"liste_nummer_kanton":"23",
+"liste_bezeichnung":"Objectif 2030 // Ziel 2030",
+"partei_id":35
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"C1",
+"listen":[
+{
+"liste_nummer_kanton":"15",
+"liste_bezeichnung":"Parti socialiste 60+ // Sozialdemokratische Partei 60+",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"18",
+"liste_bezeichnung":"Jeunesse socialiste fribourgeoise // Jungsozialiste-innen Kanton Freiburg",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"17",
+"liste_bezeichnung":"Parti socialiste international // Sozialdemokratische Partei International",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Parti socialiste fribourgeois // Sozialdemokratische Partei Freiburg",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"16",
+"liste_bezeichnung":"Parti socialiste Intégration // Sozialdemokratische Partei Integration",
+"partei_id":3
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"C2",
+"listen":[
+{
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"Verts – CG-PCS : Centre Gauche-PCS // ML-CSP – Grüne : Mitte Links-CSP",
+"partei_id":8
+}
+,
+{
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"Verts – CG-PCS : les Verts // ML-CSP – Grüne : Grüne",
+"partei_id":13
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"D",
+"listen":[
+{
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"Jeunes libéraux-radicaux fribourgeois // Jungfreisinnige Freiburg",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"PLR.Les Libéraux-Radicaux du canton de Fribourg // FDP.Die Liberalen des Kantons Freiburg",
+"partei_id":1
+}
+]
+}
+]}
+,
+{
+"kanton_nummer":11,
+"listenverbindung":[
+{
+"liste_verbindung":"A",
+"listen":[
+{
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"Jungfreisinnige Liste Digitalisierung",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"Jungfreisinnige Liste Gesellschaftsliberalismus",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"15",
+"liste_bezeichnung":"FDP.Die Liberalen Kanton Solothurn - Freiheit",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"16",
+"liste_bezeichnung":"FDP.Die Liberalen Kanton Solothurn - Verantwortung",
+"partei_id":1
+}
+]
+}
+,
+{
+"liste_verbindung":"B",
+"listen":[
+{
+"liste_nummer_kanton":"27",
+"liste_bezeichnung":"Evangelische Volkspartei",
+"partei_id":7
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"B1",
+"listen":[
+{
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"Junge CVP Nord (Thal-Gäu, Dorneck-Thierstein)",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"Junge CVP Süd (Solothurn-Lebern, Bucheggberg-Wasseramt, Olten-Gösgen)",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"CVP Nord-Ost (Thal-Gäu, Olten-Gösgen, Dorneck-Thierstein)",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"CVP Süd-West (Solothurn-Lebern, Bucheggberg-Wasseramt)",
+"partei_id":2
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"B2",
+"listen":[
+{
+"liste_nummer_kanton":"22",
+"liste_bezeichnung":"Junge Grünliberale",
+"partei_id":31
+}
+,
+{
+"liste_nummer_kanton":"20",
+"liste_bezeichnung":"Grünliberale",
+"partei_id":31
+}
+,
+{
+"liste_nummer_kanton":"21",
+"liste_bezeichnung":"Grünliberale Unternehmer",
+"partei_id":31
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"B3",
+"listen":[
+{
+"liste_nummer_kanton":"26",
+"liste_bezeichnung":"Junge Bürgerlich Demokratische Partei",
+"partei_id":32
+}
+,
+{
+"liste_nummer_kanton":"24",
+"liste_bezeichnung":"Bürgerlich Demokratische Partei Liste eins",
+"partei_id":32
+}
+,
+{
+"liste_nummer_kanton":"25",
+"liste_bezeichnung":"Bürgerlich Demokratische Partei Liste zwei",
+"partei_id":32
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"C",
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"C1",
+"listen":[
+{
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"Junge SP Region Olten",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"JUSO Kanton Solothurn",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"Sozialdemokratische Partei (SP) Region Süd-West (Solothurn-Lebern, Bucheggberg-Wasseramt)",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"Sozialdemokratische Partei (SP) Region Nord-Ost (Thal-Gäu, Olten-Gösgen, Dorneck-Thierstein)",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"18",
+"liste_bezeichnung":"Sozialdemokratische Partei 60+",
+"partei_id":3
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"C2",
+"listen":[
+{
+"liste_nummer_kanton":"23",
+"liste_bezeichnung":"Junge Grüne Solothurn",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"Liste Grüne",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"Liste Grüne Plus",
+"partei_id":13
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"D",
+"listen":[
+{
+"liste_nummer_kanton":"19",
+"liste_bezeichnung":"Junge SVP Kanton Solothurn",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"SVP Kanton Solothurn",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"SVP Unternehmer und Bauern",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"17",
+"liste_bezeichnung":"SVP Bürger, Büezer, International",
+"partei_id":4
+}
+]
+}
+]}
+,
+{
+"kanton_nummer":12,
+"listenverbindung":[
+{
+"liste_verbindung":"A",
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"A1",
+"listen":[
+{
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"Jungfreisinnige Basel-Stadt",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"FDP.Die Liberalen Basel-Stadt",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"32",
+"liste_bezeichnung":"FDP.Die Liberalen Frauen Basel-Stadt",
+"partei_id":1
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"A2",
+"listen":[
+{
+"liste_nummer_kanton":"25",
+"liste_bezeichnung":"Mitte – Junge Grünliberale jglp",
+"partei_id":31
+}
+,
+{
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"Mitte – Evangelische Volkspartei Basel-Stadt (EVP)",
+"partei_id":7
+}
+,
+{
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"Mitte – Grünliberale GLP",
+"partei_id":31
+}
+,
+{
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"Mitte – Bürgerlich-Demokratische Partei (BDP)",
+"partei_id":32
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"A3",
+"listen":[
+{
+"liste_nummer_kanton":"22",
+"liste_bezeichnung":"Junge CVP Basel-Stadt",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"CVP Basel-Stadt",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"36",
+"liste_bezeichnung":"CVP 60+ Basel-Stadt",
+"partei_id":2
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"A4",
+"listen":[
+{
+"liste_nummer_kanton":"23",
+"liste_bezeichnung":"Jungliberale Basel JLB",
+"partei_id":5
+}
+,
+{
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"LDP Liberal-Demokratische Partei Basel-Stadt",
+"partei_id":5
+}
+,
+{
+"liste_nummer_kanton":"34",
+"liste_bezeichnung":"Gewerbe LDP",
+"partei_id":5
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"B",
+"listen":[
+{
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Piratenpartei",
+"partei_id":35
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"B1",
+"listen":[
+{
+"liste_nummer_kanton":"38",
+"liste_bezeichnung":"JUSO Basel-Stadt, Frauen*",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"39",
+"liste_bezeichnung":"JUSO Basel-Stadt, Männer*",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"Sozialdemokratische Partei Basel-Stadt (SP)",
+"partei_id":3
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"B2",
+"listen":[
+{
+"liste_nummer_kanton":"21",
+"liste_bezeichnung":"Bündnis: Junge Grüne (jgb)",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Bündnis Grüne BastA! jgb",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"40",
+"liste_bezeichnung":"Bündnis – Die Alternativen",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"42",
+"liste_bezeichnung":"Bündnis – Integrale Politik",
+"partei_id":35
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"C",
+"listen":[
+{
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"Eidgenössisch-Demokratische Union Basel-Stadt (EDU)",
+"partei_id":16
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"C1",
+"listen":[
+{
+"liste_nummer_kanton":"18",
+"liste_bezeichnung":"Junge SVP Basel-Stadt",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"SVP Basel-Stadt",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"31",
+"liste_bezeichnung":"SVP Frauen Basel-Stadt",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"37",
+"liste_bezeichnung":"Liste SVP – Neue Heimat Schweiz Basel-Stadt",
+"partei_id":4
+}
+]
+}
+]
+}
+]}
+,
+{
+"kanton_nummer":13,
+"listenverbindung":[
+{
+"liste_verbindung":"A",
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"A1",
+"listen":[
+{
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"Jungfreisinnige Baselland",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"FDP.Die Liberalen Baselland",
+"partei_id":1
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"A2",
+"listen":[
+{
+"liste_nummer_kanton":"33",
+"liste_bezeichnung":"Junge Schweizerische Volkspartei",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"Schweizerische Volkspartei Baselland",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"34",
+"liste_bezeichnung":"SVP International",
+"partei_id":4
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"B",
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"B1",
+"listen":[
+{
+"liste_nummer_kanton":"22",
+"liste_bezeichnung":"Jungsozialist*innen Unterbaselbiet",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"23",
+"liste_bezeichnung":"Jungsozialist*innen Oberbaselbiet",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Sozialdemokratische Partei und Gewerkschaften",
+"partei_id":3
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"B2",
+"listen":[
+{
+"liste_nummer_kanton":"77",
+"liste_bezeichnung":"Junge Grüne",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"Grüne Baselland",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"70",
+"liste_bezeichnung":"Grüne Panther",
+"partei_id":13
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"C",
+"listen":[
+{
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Bürgerlich-Demokratische Partei",
+"partei_id":32
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"C1",
+"listen":[
+{
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"Evangelische Volkspartei BL",
+"partei_id":7
+}
+,
+{
+"liste_nummer_kanton":"44",
+"liste_bezeichnung":"Evangelische Volkspartei - Zukunft",
+"partei_id":7
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"C2",
+"listen":[
+{
+"liste_nummer_kanton":"55",
+"liste_bezeichnung":"Junge CVP",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"Christlichdemokratische Volkspartei",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"56",
+"liste_bezeichnung":"CVP Wirtschaft und Gesellschaft",
+"partei_id":2
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"C3",
+"listen":[
+{
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"Junge Grünliberale Partei",
+"partei_id":31
+}
+,
+{
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"Grünliberale Partei",
+"partei_id":31
+}
+]
+}
+]
+}
+]}
+,
+{
+"kanton_nummer":14,
+"listenverbindung":[
+{
+"liste_verbindung":"A",
+"listen":[
+{
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"Eidgenössisch-Demokratische Union (EDU)",
+"partei_id":16
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"A1",
+"listen":[
+{
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"Schweizerische Volkspartei (SVP)",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"17",
+"liste_bezeichnung":"SVP Agro / KMU",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"Junge SVP",
+"partei_id":4
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"B",
+"listen":[
+{
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"Alternative Liste Schaffhausen (AL)",
+"partei_id":12
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"B1",
+"listen":[
+{
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Sozialdemokratische Partei (SP)",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"JUSO",
+"partei_id":3
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"B2",
+"listen":[
+{
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"Grüne Partei",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"18",
+"liste_bezeichnung":"Junge Grüne",
+"partei_id":13
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"C",
+"listen":[
+{
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"FDP.Die Liberalen",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"Jungfreisinnige",
+"partei_id":1
+}
+]
+}
+,
+{
+"liste_verbindung":"D",
+"listen":[
+{
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Christlichdemokratische Volkspartei (CVP)",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"Evangelische Volkspartei (EVP)",
+"partei_id":7
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"D1",
+"listen":[
+{
+"liste_nummer_kanton":"16",
+"liste_bezeichnung":"Junge GLP",
+"partei_id":31
+}
+,
+{
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"Grünliberale Partei (GLP)",
+"partei_id":31
+}
+]
+}
+]
+}
+]}
+,
+{
+"kanton_nummer":17,
+"listenverbindung":[
+{
+"liste_verbindung":"A",
+"listen":[
+{
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"EVP, Evangelische Volkspartei",
+"partei_id":7
+}
+,
+{
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"BDP Bürgerlich-Demokratische Partei Kanton St.Gallen",
+"partei_id":32
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"A1",
+"listen":[
+{
+"liste_nummer_kanton":"2c",
+"liste_bezeichnung":"CVP Kanton St.Gallen, Junge CVP – Liste Süd-Ost",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"2d",
+"liste_bezeichnung":"CVP Kanton St.Gallen, Junge CVP – Liste Nord-West",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"2a",
+"liste_bezeichnung":"CVP Kanton St.Gallen, Liste Süd-Ost",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"2b",
+"liste_bezeichnung":"CVP Kanton St.Gallen, Liste Nord-West",
+"partei_id":2
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"A2",
+"listen":[
+{
+"liste_nummer_kanton":"5b",
+"liste_bezeichnung":"Grünliberale (glp), Junge Grünliberale",
+"partei_id":31
+}
+,
+{
+"liste_nummer_kanton":"5a",
+"liste_bezeichnung":"Grünliberale (glp), Hauptliste",
+"partei_id":31
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"B",
+"listen":[
+{
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"EDU – Eidgenössisch-Demokratische Union",
+"partei_id":16
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"B1",
+"listen":[
+{
+"liste_nummer_kanton":"1a",
+"liste_bezeichnung":"SVP Schweizerische Volkspartei, Hauptliste",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"1b",
+"liste_bezeichnung":"SVP Schweizerische Volkspartei, Unternehmerliste",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"1d",
+"liste_bezeichnung":"SVP Schweizerische Volkspartei, Landliste",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"1c",
+"liste_bezeichnung":"SVP Schweizerische Volkspartei, Seniorenliste",
+"partei_id":4
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"C",
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"C1",
+"listen":[
+{
+"liste_nummer_kanton":"3b",
+"liste_bezeichnung":"SP und Gewerkschaften, JUSO-Liste",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"3a",
+"liste_bezeichnung":"SP und Gewerkschaften, Hauptliste",
+"partei_id":3
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"C2",
+"listen":[
+{
+"liste_nummer_kanton":"6b",
+"liste_bezeichnung":"GRÜNE, Junge Grüne",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"6a",
+"liste_bezeichnung":"GRÜNE, Hauptliste",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"6c",
+"liste_bezeichnung":"GRÜNE, KlimaseniorInnen",
+"partei_id":13
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"D",
+"listen":[
+{
+"liste_nummer_kanton":"4b",
+"liste_bezeichnung":"FDP.Die Liberalen, Jungfreisinnige",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"4a",
+"liste_bezeichnung":"FDP.Die Liberalen, Hauptliste",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"4c",
+"liste_bezeichnung":"FDP.Die Liberalen, Umweltfreisinnige",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"4d",
+"liste_bezeichnung":"FDP.Die Liberalen, FDP Frauen",
+"partei_id":1
+}
+]
+}
+]}
+,
+{
+"kanton_nummer":18,
+"listenverbindung":[
+{
+"liste_verbindung":"A",
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"A1",
+"listen":[
+{
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"Jungfreisinnige Graubünden - FDP-Futuro",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"FDP.Die Liberalen Graubünden - Hauptliste",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"17",
+"liste_bezeichnung":"FDP.Die Liberalen GR - Support Gemeindepolitik",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"18",
+"liste_bezeichnung":"FDP.Die Liberalen GR - Support Gewerbe",
+"partei_id":1
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"A2",
+"listen":[
+{
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"CVP - Die Jungen 1",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"CVP - Die Jungen A",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"CVP Graubünden",
+"partei_id":2
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"A3",
+"listen":[
+{
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"BDP Graubünden - Junge BDP Graubünden",
+"partei_id":32
+}
+,
+{
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"BDP Graubünden",
+"partei_id":32
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"B",
+"listen":[
+{
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"SVP Graubünden - Junge SVP Graubünden",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"19",
+"liste_bezeichnung":"SVP Graubünden - Liste SVP International",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"16",
+"liste_bezeichnung":"SVP Graubünden - Liste Brand",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"20",
+"liste_bezeichnung":"SVP Graubünden - Team 60+ für ein sicheres Rentenalter",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"SVP Graubünden - Liste Martullo",
+"partei_id":4
+}
+]
+}
+,
+{
+"liste_verbindung":"C",
+"listen":[
+{
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"Verda - Grüne Graubünden",
+"partei_id":13
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"C1",
+"listen":[
+{
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"SP JUSO Männer*",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"15",
+"liste_bezeichnung":"SP JUSO Frauen*",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"SP Sozialdemokratische Partei",
+"partei_id":3
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"C2",
+"listen":[
+{
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"Grünliberale Partei - Junge Grünliberale Partei",
+"partei_id":31
+}
+,
+{
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"Grünliberale Partei",
+"partei_id":31
+}
+]
+}
+]
+}
+]}
+,
+{
+"kanton_nummer":19,
+"listenverbindung":[
+{
+"liste_verbindung":"A",
+"listen":[
+{
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"EDU – Eidgenössisch-Demokratische Union",
+"partei_id":16
+}
+,
+{
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"TEAM65+ – Die Aargauer Seniorenliste",
+"partei_id":35
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"A1",
+"listen":[
+{
+"liste_nummer_kanton":"1b",
+"liste_bezeichnung":"JSVP – Junge Schweizerische Volkspartei",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"1a",
+"liste_bezeichnung":"SVP – Schweizerische Volkspartei",
+"partei_id":4
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"A2",
+"listen":[
+{
+"liste_nummer_kanton":"3b",
+"liste_bezeichnung":"FDP.Die Liberalen – Jungfreisinnige",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"3a",
+"liste_bezeichnung":"FDP.Die Liberalen",
+"partei_id":1
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"B",
+"listen":[
+{
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"PPAG – Piratenpartei",
+"partei_id":35
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"B1",
+"listen":[
+{
+"liste_nummer_kanton":"2b",
+"liste_bezeichnung":"SP und Gewerkschaften – JUSO (Jungsozialist*innen)",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"2a",
+"liste_bezeichnung":"SP und Gewerkschaften",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"2d",
+"liste_bezeichnung":"SP und Gewerkschaften – queer*feministisch!",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"2e",
+"liste_bezeichnung":"SP und Gewerkschaften – SP Migrant*innen",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"2c",
+"liste_bezeichnung":"SP und Gewerkschaften – SP 60+",
+"partei_id":3
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"B2",
+"listen":[
+{
+"liste_nummer_kanton":"5b",
+"liste_bezeichnung":"Junge Grüne",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"5a",
+"liste_bezeichnung":"Grüne Partei",
+"partei_id":13
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"C",
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"C1",
+"listen":[
+{
+"liste_nummer_kanton":"4a",
+"liste_bezeichnung":"CVP.Miteinander.Für den Aargau.",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"4b",
+"liste_bezeichnung":"CVPLA.Miteinander.Für Land- & Ernährungswirtschaft",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"4c",
+"liste_bezeichnung":"CVPCS.Miteinander.Für die Christlichsozialen.",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"4d",
+"liste_bezeichnung":"CVPE.Miteinander.Für die Städte und Gemeinden.",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"4e",
+"liste_bezeichnung":"CVPAZ.Miteinander.Für Aarau und Zofingen.",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"4f",
+"liste_bezeichnung":"CVPBZ.Miteinander.Für Baden und Zurzach.",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"4g",
+"liste_bezeichnung":"CVP#1.Miteinander.Für Kulm, Lenzburg, Brugg.",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"4h",
+"liste_bezeichnung":"CVPFA.Miteinander.Für das Freiamt.",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"4i",
+"liste_bezeichnung":"CVPFT.Miteinander.Für das Fricktal.",
+"partei_id":2
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"C2",
+"listen":[
+{
+"liste_nummer_kanton":"6b",
+"liste_bezeichnung":"jglp – Junge Grünliberale",
+"partei_id":31
+}
+,
+{
+"liste_nummer_kanton":"6a",
+"liste_bezeichnung":"glp – Grünliberale Partei",
+"partei_id":31
+}
+,
+{
+"liste_nummer_kanton":"6c",
+"liste_bezeichnung":"glp-u – Grünliberale Unternehmer",
+"partei_id":31
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"D",
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"D1",
+"listen":[
+{
+"liste_nummer_kanton":"7b",
+"liste_bezeichnung":"JBDP – Junge Bürgerlich-Demokratische Partei",
+"partei_id":32
+}
+,
+{
+"liste_nummer_kanton":"7a",
+"liste_bezeichnung":"BDP – Bürgerlich-Demokratische Partei",
+"partei_id":32
+}
+,
+{
+"liste_nummer_kanton":"7c",
+"liste_bezeichnung":"BDP3 – Bürgerlich-Demokratische Partei: die Dritte",
+"partei_id":32
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"D2",
+"listen":[
+{
+"liste_nummer_kanton":"8b",
+"liste_bezeichnung":"*jevp – Junge Evangelische Volkspartei",
+"partei_id":7
+}
+,
+{
+"liste_nummer_kanton":"8a",
+"liste_bezeichnung":"EVP – Evangelische Volkspartei",
+"partei_id":7
+}
+,
+{
+"liste_nummer_kanton":"8c",
+"liste_bezeichnung":"EVP+ – EVPplus",
+"partei_id":7
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"E",
+"listen":[
+{
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"LOVB – Lösungs-Orientierte Volks-Bewegung",
+"partei_id":35
+}
+,
+{
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"FW AG – Freie Wähler Aargau",
+"partei_id":35
+}
+,
+{
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"LS – Luzi Stamm",
+"partei_id":35
+}
+]
+}
+]}
+,
+{
+"kanton_nummer":20,
+"listenverbindung":[
+{
+"liste_verbindung":"A",
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"A1",
+"listen":[
+{
+"liste_nummer_kanton":"21",
+"liste_bezeichnung":"Junge Grünliberale / jglp",
+"partei_id":31
+}
+,
+{
+"liste_nummer_kanton":"18",
+"liste_bezeichnung":"Grünliberale – Stammliste / glp Stammliste",
+"partei_id":31
+}
+,
+{
+"liste_nummer_kanton":"19",
+"liste_bezeichnung":"Grünliberale – Engagiert / glp Engagiert",
+"partei_id":31
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"A2",
+"listen":[
+{
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"Junge Grüne Thurgau / JGTG",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"Grüne Partei Thurgau / GPTG",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"15",
+"liste_bezeichnung":"Grüne Panther Thurgau / GPTG Panther",
+"partei_id":13
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"A3",
+"listen":[
+{
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"JungsozialistInnen und Gewerkschaftsjugend / JUSO",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"17",
+"liste_bezeichnung":"Sozialdemokratische Partei und Gewerkschaften / SP/Gew.",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"23",
+"liste_bezeichnung":"Sozialdemokratische Partei Liste 60+ / SP Liste 60+",
+"partei_id":3
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"B",
+"listen":[
+{
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"Eidgenössisch-Demokratische Union / EDU",
+"partei_id":16
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"B1",
+"listen":[
+{
+"liste_nummer_kanton":"20",
+"liste_bezeichnung":"Jungfreisinnige Thurgau / JFTG",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"FDP.Die Liberalen – Stammliste / FDP Stammliste",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"FDP.Die Liberalen – Frauenliste / FDP Frauenliste",
+"partei_id":1
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"B2",
+"listen":[
+{
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Junge Schweizerische Volkspartei / JSVP",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"Schweizerische Volkspartei / SVP",
+"partei_id":4
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"C",
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"C1",
+"listen":[
+{
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"Junge Bürgerlich-Demokratische Partei / JBDP",
+"partei_id":32
+}
+,
+{
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Bürgerlich-Demokratische Partei – Hauptliste / BDP Hauptliste",
+"partei_id":32
+}
+,
+{
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"Bürgerlich-Demokratische Partei – Best Agers / BDP Best Agers",
+"partei_id":32
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"C2",
+"listen":[
+{
+"liste_nummer_kanton":"22",
+"liste_bezeichnung":"Junge Evangelische Volkspartei / jevp",
+"partei_id":7
+}
+,
+{
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"Evangelische Volkspartei / EVP",
+"partei_id":7
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"C3",
+"listen":[
+{
+"liste_nummer_kanton":"16",
+"liste_bezeichnung":"Junge Christlichdemokratische Volkspartei / JCVP",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"Christlichdemokratische Volkspartei – Newcomer / CVP Newcomer",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"Christlichdemokratische Volkspartei / CVP",
+"partei_id":2
+}
+]
+}
+]
+}
+]}
+,
+{
+"kanton_nummer":21,
+"listenverbindung":[
+{
+"liste_verbindung":"A",
+"listen":[
+{
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"PLR Partito liberale radicale ticinese",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"22",
+"liste_bezeichnung":"pvl partito verde liberale",
+"partei_id":31
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"A1",
+"listen":[
+{
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"PPD – Generazione Giovani Sottoceneri",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"PPD – Generazione Giovani Sopraceneri",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"17",
+"liste_bezeichnung":"PPD – Ticinesi nel mondo",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"PPD Partito Popolare Democratico",
+"partei_id":2
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"B",
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"B1",
+"listen":[
+{
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"PS – Gioventù Socialista (GISO)",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"15",
+"liste_bezeichnung":"PS Partito Socialista",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"16",
+"liste_bezeichnung":"PS – PS60+",
+"partei_id":3
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"B2",
+"listen":[
+{
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"Verdi e Sinistra alternativa – Giovani Verdi",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"Verdi e Sinistra alternativa – Partito Operaio Popolare Ticino POP",
+"partei_id":9
+}
+,
+{
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"Verdi e Sinistra alternativa",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"Verdi e Sinistra alternativa – Donne",
+"partei_id":35
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"C",
+"listen":[
+{
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Lega dei Ticinesi",
+"partei_id":18
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"C1",
+"listen":[
+{
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"UDC – Giovani UDC",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"UDC – Agrari",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"18",
+"liste_bezeichnung":"UDC",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"UDC – UDF",
+"partei_id":16
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"D",
+"listen":[
+{
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Lista civica: per la proibizione assoluta d'internare minorenni da parte dei Cantoni svizzeri",
+"partei_id":35
+}
+,
+{
+"liste_nummer_kanton":"20",
+"liste_bezeichnung":"Lega Verde",
+"partei_id":35
+}
+]
+}
+]}
+,
+{
+"kanton_nummer":22,
+"listenverbindung":[
+{
+"liste_verbindung":"A",
+"listen":[
+{
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Urgence Écologique",
+"partei_id":35
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"A1",
+"listen":[
+{
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Jeunesse socialiste vaudoise - JSV",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"Parti socialiste vaudois",
+"partei_id":3
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"A2",
+"listen":[
+{
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"EP. Parti Ouvrier et Populaire (POP)",
+"partei_id":9
+}
+,
+{
+"liste_nummer_kanton":"24",
+"liste_bezeichnung":"EP. Ensemble à Gauche",
+"partei_id":27
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"A3",
+"listen":[
+{
+"liste_nummer_kanton":"16",
+"liste_bezeichnung":"Jeunes Vert-e-s vaudois-es JVVD",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"Les Vert·e·s. Mouvement écologiste vaudois",
+"partei_id":13
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"B",
+"listen":[
+{
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"Jeunes UDC Vaud",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"UDC Vaud",
+"partei_id":4
+}
+]
+}
+,
+{
+"liste_verbindung":"C",
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"C1",
+"listen":[
+{
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"PDC ouVERTure",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"18",
+"liste_bezeichnung":"PDC",
+"partei_id":2
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"C2",
+"listen":[
+{
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"AdC / - Parti Evangélique (PEV)",
+"partei_id":7
+}
+,
+{
+"liste_nummer_kanton":"15",
+"liste_bezeichnung":"AdC / - UDF - Union Démocratique Fédérale",
+"partei_id":16
+}
+,
+{
+"liste_nummer_kanton":"22",
+"liste_bezeichnung":"AdC / - PBD Le juste milieu",
+"partei_id":32
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"D",
+"listen":[
+{
+"liste_nummer_kanton":"20",
+"liste_bezeichnung":"Parti Pirate Vaudois",
+"partei_id":35
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"D1",
+"listen":[
+{
+"liste_nummer_kanton":"19",
+"liste_bezeichnung":"PVL - les jeunes vert'libéraux",
+"partei_id":31
+}
+,
+{
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"PVL - les vert'libéraux",
+"partei_id":31
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"E",
+"listen":[
+{
+"liste_nummer_kanton":"21",
+"liste_bezeichnung":"Jeunes Libéraux-Radicaux vaudois",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"PLR.Innovation",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"17",
+"liste_bezeichnung":"PLR.Les Libéraux-Radicaux",
+"partei_id":1
+}
+]
+}
+]}
+,
+{
+"kanton_nummer":23,
+"listenverbindung":[
+{
+"liste_verbindung":"A",
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"A1",
+"listen":[
+{
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"Jeunesse Socialiste du Chablais",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"Jeunesse Socialiste du Coude du Rhône",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"Jeunesse Socialiste Sierre Région",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"Jeunesse Socialiste Sion-Hérens-Conthey",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"24",
+"liste_bezeichnung":"Jungsozialist*innen Oberwallis (JUSO)",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"Parti Socialiste du Valais Romand (PSVR)",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"Parti Socialiste du Valais Romand PS 60+",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"23",
+"liste_bezeichnung":"Sozialdemokratische Partei Oberwallis (SPO)",
+"partei_id":3
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"A2",
+"listen":[
+{
+"liste_nummer_kanton":"26",
+"liste_bezeichnung":"Grüne Oberwallis",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"27",
+"liste_bezeichnung":"Jeunes Vert-e-s // Junge Grüne",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"25",
+"liste_bezeichnung":"Les Verts",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"28",
+"liste_bezeichnung":"Les Verts - Ainé.e.s pour le climat",
+"partei_id":13
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"A3",
+"listen":[
+{
+"liste_nummer_kanton":"29",
+"liste_bezeichnung":"Centre Gauche - PCS Centre Solidaire",
+"partei_id":8
+}
+,
+{
+"liste_nummer_kanton":"30",
+"liste_bezeichnung":"Centre Gauche - PCS Gauche Humaniste",
+"partei_id":8
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"B",
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"B1",
+"listen":[
+{
+"liste_nummer_kanton":"21",
+"liste_bezeichnung":"C-Parteien Christlichdemokratische Volkspartei Oberwallis (CVPO)",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"C-Parteien Christlichsoziale Volkspartei Oberwallis (CSPO)",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"C-Parteien Junge Christlichsoziale Volkspartei Oberwallis (JCSPO)",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"22",
+"liste_bezeichnung":"C-Parteien Junge CVPO",
+"partei_id":2
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"B2",
+"listen":[
+{
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"Jeunes Démocrates-Chrétiens du Valais Romand Conthey - Martigny - Entremont",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"Jeunes Démocrates-Chrétiens du Valais Romand Sierre - Sion - Hérens",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"Jeunes Démocrates-Chrétiens du Valais Romand St-Maurice - Monthey",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Parti Démocrate-Chrétien du Valais Romand (PDCVR)",
+"partei_id":2
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"C",
+"listen":[
+{
+"liste_nummer_kanton":"16",
+"liste_bezeichnung":"UDC Jeunes du Bas-Valais",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"15",
+"liste_bezeichnung":"UDC Jeunes du Valais Central",
+"partei_id":4
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"C1",
+"listen":[
+{
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"UDC du Valais Romand",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"UDC Seniors du Valais Romand",
+"partei_id":4
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"C2",
+"listen":[
+{
+"liste_nummer_kanton":"20",
+"liste_bezeichnung":"Junge schweizerische Volkspartei Oberwallis (JSVPO)",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"17",
+"liste_bezeichnung":"Schweizerische Volkspartei Oberwallis (SVPO)",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"19",
+"liste_bezeichnung":"Schweizerische Volkspartei Oberwallis (SVPO) - Frauen",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"18",
+"liste_bezeichnung":"Schweizerische Volkspartei Oberwallis (SVPO) - Wirtschaft, Gewerbe und Tourismus",
+"partei_id":4
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"D",
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"D1",
+"listen":[
+{
+"liste_nummer_kanton":"37",
+"liste_bezeichnung":"FDP die Liberalen",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"36",
+"liste_bezeichnung":"Jeunes libéraux-radicaux Chablais",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"34",
+"liste_bezeichnung":"Jeunes libéraux-radicaux Martigny-Entremont",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"35",
+"liste_bezeichnung":"Jeunes libéraux-radicaux région sierroise",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"33",
+"liste_bezeichnung":"Jeunes libéraux-radicaux Valais central",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"32",
+"liste_bezeichnung":"PLR.Les Libéraux Radicaux Valais",
+"partei_id":1
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"D2",
+"listen":[
+{
+"liste_nummer_kanton":"40",
+"liste_bezeichnung":"Avenir Ecologie - Les vert'libéraux // Zukunft und Nachhaltigkeit - die Grünliberalen",
+"partei_id":31
+}
+,
+{
+"liste_nummer_kanton":"39",
+"liste_bezeichnung":"Avenir Ecologie Libérale-Radicale // Zukunft und Nachhaltigkeit Freisinnig Liberale",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"38",
+"liste_bezeichnung":"Avenir Ecologie Citoyenne // Zukunft und Nachhaltigkeit Bürgerliste",
+"partei_id":1
+}
+]
+}
+]
+}
+]}
+,
+{
+"kanton_nummer":24,
+"listenverbindung":[
+{
+"liste_verbindung":"A",
+"listen":[
+{
+"liste_nummer_kanton":"32",
+"liste_bezeichnung":"Parti Libéral-Radical neuchâtelois (PLRN), Jeunes Libéraux-Radicaux",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"31",
+"liste_bezeichnung":"Parti Libéral-Radical neuchâtelois (PLRN)",
+"partei_id":1
+}
+]
+}
+,
+{
+"liste_verbindung":"B",
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"B1",
+"listen":[
+{
+"liste_nummer_kanton":"33B",
+"liste_bezeichnung":"Parti socialiste neuchâtelois (PSN), Jeunes socialistes neuchâtelois (JSN)",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"33A",
+"liste_bezeichnung":"Parti socialiste neuchâtelois (PSN)",
+"partei_id":3
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"B2",
+"listen":[
+{
+"liste_nummer_kanton":"34A",
+"liste_bezeichnung":"PopVertSol, Parti Ouvrier et Populaire (POP)",
+"partei_id":9
+}
+,
+{
+"liste_nummer_kanton":"34B",
+"liste_bezeichnung":"PopVertSol, Les Verts, Écologie et Liberté",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"34C",
+"liste_bezeichnung":"PopVertSol, solidaritéS",
+"partei_id":27
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"C",
+"listen":[
+{
+"liste_nummer_kanton":"35",
+"liste_bezeichnung":"Union Démocratique du Centre (UDC)",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"36",
+"liste_bezeichnung":"Union Démocratique du Centre (UDC), Relève",
+"partei_id":4
+}
+]
+}
+,
+{
+"liste_verbindung":"D",
+"listen":[
+{
+"liste_nummer_kanton":"37",
+"liste_bezeichnung":"Parti Démocrate-Chrétien (PDC)",
+"partei_id":2
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"D1",
+"listen":[
+{
+"liste_nummer_kanton":"38B",
+"liste_bezeichnung":"Vert'libéraux (PVL), Jeunes Vert'libéraux (JVL)",
+"partei_id":31
+}
+,
+{
+"liste_nummer_kanton":"38A",
+"liste_bezeichnung":"Vert'libéraux (PVL)",
+"partei_id":31
+}
+]
+}
+]
+}
+]}
+,
+{
+"kanton_nummer":25,
+"listenverbindung":[
+{
+"liste_verbindung":"A",
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"A1",
+"listen":[
+{
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"JLR. Les Jeunes Libéraux-Radicaux",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"PLR. Les Libéraux-Radicaux Genève",
+"partei_id":1
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"A2",
+"listen":[
+{
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"JDC Genève",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"PDC Genève",
+"partei_id":2
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"B",
+"listen":[
+{
+"liste_nummer_kanton":"21",
+"liste_bezeichnung":"U.D.F. (Union Démocratique Fédérale)",
+"partei_id":16
+}
+,
+{
+"liste_nummer_kanton":"19",
+"liste_bezeichnung":"MCG - Mouvement Citoyens Genevois",
+"partei_id":33
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"B1",
+"listen":[
+{
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"UDC Jeunes",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"18",
+"liste_bezeichnung":"UDC - International",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"UDC Genève",
+"partei_id":4
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"C",
+"listen":[
+{
+"liste_nummer_kanton":"24",
+"liste_bezeichnung":"PBD/PCD Parti Citoyen Démocratique Suisse d'abord",
+"partei_id":32
+}
+,
+{
+"liste_nummer_kanton":"25",
+"liste_bezeichnung":"PBD/PCD Parti Citoyen Démocratique Genève d'abord",
+"partei_id":35
+}
+]
+}
+,
+{
+"liste_verbindung":"D",
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"D1",
+"listen":[
+{
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Jeunes Vert-e-s",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"Les Verts.e.s transfrontalier.ère.s",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"Les Vert.e.s",
+"partei_id":13
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"D2",
+"listen":[
+{
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"Jeunesse Socialiste Genevoise",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"22",
+"liste_bezeichnung":"Les Socialistes - Suisses et Suissesses de l'étranger",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Les Socialistes",
+"partei_id":3
+}
+]
+}
+,
+{
+"liste_unterlistenverbindung":"D3",
+"listen":[
+{
+"liste_nummer_kanton":"28",
+"liste_bezeichnung":"Ensemble à Gauche - Parti du Travail",
+"partei_id":9
+}
+,
+{
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"Ensemble à Gauche : Pour une écologie anticapitaliste",
+"partei_id":27
+}
+,
+{
+"liste_nummer_kanton":"15",
+"liste_bezeichnung":"Ensemble à Gauche : Solidarités sans frontières",
+"partei_id":27
+}
+,
+{
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"Ensemble à Gauche : Égalité pour toutes* et tous*",
+"partei_id":27
+}
+,
+{
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"Ensemble à Gauche · solidaritéS - DAL",
+"partei_id":27
+}
+]
+}
+]
+}
+,
+{
+"liste_verbindung":"E",
+"listen":[
+{
+"liste_nummer_kanton":"17",
+"liste_bezeichnung":"PEV",
+"partei_id":7
+}
+,
+{
+"liste_nummer_kanton":"16",
+"liste_bezeichnung":"Planète Bleue",
+"partei_id":35
+}
+,
+{
+"liste_nummer_kanton":"26",
+"liste_bezeichnung":"Fédéraction",
+"partei_id":35
+}
+]
+,
+"unterlistenverbindung":[
+{
+"liste_unterlistenverbindung":"E1",
+"listen":[
+{
+"liste_nummer_kanton":"27",
+"liste_bezeichnung":"Vert'Libéraux - Jeunes",
+"partei_id":31
+}
+,
+{
+"liste_nummer_kanton":"23",
+"liste_bezeichnung":"Vert'Libéraux",
+"partei_id":31
+}
+]
+}
+]
+}
+]}
+,
+{
+"kanton_nummer":26,
+"listenverbindung":[
+{
+"liste_verbindung":"A",
+"listen":[
+{
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Jeunesse socialiste jurassienne",
+"partei_id":3
+}
+,
+{
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"Parti socialiste jurassien",
+"partei_id":3
+}
+]
+}
+,
+{
+"liste_verbindung":"B",
+"listen":[
+{
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"Parti libéral-radical jurassien - Jeunes",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"Parti libéral-radical jurassien – innovation",
+"partei_id":1
+}
+,
+{
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"Parti libéral-radical jurassien – environnement",
+"partei_id":1
+}
+]
+}
+,
+{
+"liste_verbindung":"C",
+"listen":[
+{
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"Parti chrétien social indépendant - Jeunes",
+"partei_id":8
+}
+,
+{
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"Parti chrétien social indépendant - Femmes",
+"partei_id":8
+}
+,
+{
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Parti chrétien social indépendant - Hommes",
+"partei_id":8
+}
+]
+}
+,
+{
+"liste_verbindung":"D",
+"listen":[
+{
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"Jeunes démocrates-chrétiens du Jura 1",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"Jeunes démocrates-chrétiens du Jura 2",
+"partei_id":2
+}
+,
+{
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"Parti démocrate-chrétien du Jura",
+"partei_id":2
+}
+]
+}
+,
+{
+"liste_verbindung":"E",
+"listen":[
+{
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"Union Démocratique du Centre Jeunes",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"Union Démocratique du Centre",
+"partei_id":4
+}
+,
+{
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"Union Démocratique du Centre Agricole",
+"partei_id":4
+}
+]
+}
+,
+{
+"liste_verbindung":"F",
+"listen":[
+{
+"liste_nummer_kanton":"16",
+"liste_bezeichnung":"Les Jeunes Vert-e-s Jurassien-ne-s",
+"partei_id":13
+}
+,
+{
+"liste_nummer_kanton":"15",
+"liste_bezeichnung":"Les Vert-e-s Jurassien-ne-s",
+"partei_id":13
+}
+]
+}
+]}
+]}]
+,
+"kandidat_status":[
+{
+"kandidat_status_id":2,
+"kandidat_status":[
+	{
+		"langKey" : "de",
+		"text": "bisherig"
+	},
+	{
+		"langKey" : "fr",
+		"text": "sortant/e"
+	},
+	{
+		"langKey" : "it",
+		"text": "uscente"
+	},
+	{
+		"langKey" : "en",
+		"text": "incumbent"
+	}
+]}
+,
+{
+"kandidat_status_id":3,
+"kandidat_status":[
+	{
+		"langKey" : "de",
+		"text": "ehemalig"
+	},
+	{
+		"langKey" : "fr",
+		"text": "ancien/ne élu/e"
+	},
+	{
+		"langKey" : "it",
+		"text": "già eletto/a in passato"
+	},
+	{
+		"langKey" : "en",
+		"text": "former"
+	}
+]}
+]
+}

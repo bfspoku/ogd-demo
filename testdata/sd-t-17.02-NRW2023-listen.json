@@ -1,0 +1,7487 @@
+﻿{
+"timestamp":"2023-06-12T11:22:24",
+"wahl_jahr":2019,
+"spatial_reference": [
+	{
+		"spatial_unit" : "kant",
+		"spatial_date": "1997-01-01"
+	},
+	{
+		"spatial_unit" : "bezk",
+		"spatial_date": "2019-01-01"
+	},
+	{
+		"spatial_unit" : "voge",
+		"spatial_date": "2019-01-01"
+	}
+],
+"stand":{
+"wahl_abgeschlossen":false,
+"kantone_total":26,
+"kantone_abgeschlossen":0
+},
+"level_kantone":
+[
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":1,
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"SVP Schweizerische Volkspartei",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":2,
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Sozialdemokratische Partei (SP)",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":3,
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"FDP.Die Liberalen",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":4,
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"Grünliberale",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D1",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":5,
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"CVP",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D2",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":6,
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"Grüne",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":7,
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"BDP Bürgerlich-Demokratische Partei",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":" ",
+"partei_id":32,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":8,
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Evangelische Volkspartei (EVP)",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D3",
+"partei_id":7,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":9,
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"Grüne, Junge Grüne – Klima vor Profit",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":10,
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"Jungfreisinnige Kanton Zürich",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":11,
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"Piratenpartei – humanistisch liberal progressiv",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":12,
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"Integrale Politik (IP)",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":13,
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"CVP, Frauen",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D2",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":14,
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"Sozialdemokratische Partei (SP), JUSO",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":15,
+"liste_nummer_kanton":"15",
+"liste_bezeichnung":"Öko-Partei Schweiz",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":16,
+"liste_nummer_kanton":"16",
+"liste_bezeichnung":"Sarantidis Chrisoula (Chris)",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":17,
+"liste_nummer_kanton":"17",
+"liste_bezeichnung":"die Guten",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":18,
+"liste_nummer_kanton":"18",
+"liste_bezeichnung":"CVP, Junge",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D2",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":19,
+"liste_nummer_kanton":"19",
+"liste_bezeichnung":"Grünliberale, UnternehmerInnen",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D1",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":20,
+"liste_nummer_kanton":"20",
+"liste_bezeichnung":"CVP, Christlichsoziale Vereinigung (CSV)",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D2",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":21,
+"liste_nummer_kanton":"21",
+"liste_bezeichnung":"Evangelische Volkspartei (EVP), Frauen EVP",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D3",
+"partei_id":7,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":22,
+"liste_nummer_kanton":"22",
+"liste_bezeichnung":"Unabhängigkeitspartei up!",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":23,
+"liste_nummer_kanton":"23",
+"liste_bezeichnung":"Grünliberale, senior GLP",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D1",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":24,
+"liste_nummer_kanton":"24",
+"liste_bezeichnung":"Linke Alternative, Partei der Arbeit",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B3",
+"partei_id":9,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":25,
+"liste_nummer_kanton":"25",
+"liste_bezeichnung":"Linke Alternative, AL – Alternative Liste",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B3",
+"partei_id":12,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":26,
+"liste_nummer_kanton":"26",
+"liste_bezeichnung":"Schweizer Demokraten (SD)",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":14,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":27,
+"liste_nummer_kanton":"27",
+"liste_bezeichnung":"Evangelische Volkspartei (EVP), Junge EVP",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D3",
+"partei_id":7,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":28,
+"liste_nummer_kanton":"28",
+"liste_bezeichnung":"SVP Schweizerische Volkspartei, 55plus",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":29,
+"liste_nummer_kanton":"29",
+"liste_bezeichnung":"Grünliberale, Junge Grünliberale",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D1",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":30,
+"liste_nummer_kanton":"30",
+"liste_bezeichnung":"Grüne, Migrant*innen und Second@s",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":31,
+"liste_nummer_kanton":"31",
+"liste_bezeichnung":"EDU Eidgenössisch-Demokratische Union",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":" ",
+"partei_id":16,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":1,
+"kanton_bezeichnung":"Zürich",
+"liste_nummer_bfs":32,
+"liste_nummer_kanton":"32",
+"liste_bezeichnung":"SVP Schweizerische Volkspartei, Junge",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":1,
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"SVP Kanton Bern (Frauen und Männer) // UDC canton de Berne (femmes et hommes)",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D1",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":2,
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"SVP (Junge SVP) // UDC (Jeune UDC)",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D1",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":3,
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"Sozialdemokratische Partei und Gewerkschaften – Frauen // Parti socialiste et syndicats – femmes",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":4,
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"Sozialdemokratische Partei und Gewerkschaften – Männer // Parti socialiste et syndicats – hommes",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":5,
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"Sozialdemokratische Partei – Internationale Liste // Parti socialiste – liste internationale",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":6,
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"Jungsozialist*innen // Jeunesse Socialiste",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":7,
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"Bürgerlich-Demokratische Partei Kanton Bern // Parti Bourgeois-Démocratique Canton de Berne",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":32,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":8,
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Junge BDP // Les Jeunes PBD",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":32,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":9,
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"FDP.Die Liberalen // PLR.Les Libéraux-Radicaux",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":10,
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"Jungfreisinnige Stadt",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":11,
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"Jungfreisinnige Land",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":12,
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"Grüne // Les Verts",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":13,
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"Junge Grüne // Jeunes vert-e-s",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":14,
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"Grüne - Junge Alternative JA!",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":15,
+"liste_nummer_kanton":"15",
+"liste_bezeichnung":"Grünliberale // Vert'libéraux",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":16,
+"liste_nummer_kanton":"16",
+"liste_bezeichnung":"Junge Grünliberale // Jeunes Vert'libéraux",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":17,
+"liste_nummer_kanton":"17",
+"liste_bezeichnung":"Grünliberale KMU // Vert'libéraux PME",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":18,
+"liste_nummer_kanton":"18",
+"liste_bezeichnung":"Evangelische Volkspartei // Parti Evangélique",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B3",
+"partei_id":7,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":19,
+"liste_nummer_kanton":"19",
+"liste_bezeichnung":"Junge Evangelische Volkspartei // Jeune Parti Evangélique",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B3",
+"partei_id":7,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":20,
+"liste_nummer_kanton":"20",
+"liste_bezeichnung":"Eidgenössisch-Demokratische Union // Union Démocratique Fédérale",
+"liste_verbindung":"E",
+"liste_unterlistenverbindung":" ",
+"partei_id":16,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":21,
+"liste_nummer_kanton":"21",
+"liste_bezeichnung":"Christlichdemokratische Volkspartei // Parti démocrate-chrétien",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B4",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":22,
+"liste_nummer_kanton":"22",
+"liste_bezeichnung":"PDC liste romande",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B4",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":23,
+"liste_nummer_kanton":"23",
+"liste_bezeichnung":"Piraten // Pirates",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":24,
+"liste_nummer_kanton":"24",
+"liste_bezeichnung":"Partei der Arbeit // Parti Ouvrier et Populaire",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":" ",
+"partei_id":9,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":25,
+"liste_nummer_kanton":"25",
+"liste_bezeichnung":"Schweizer Demokraten // Démocrates Suisses",
+"liste_verbindung":"E",
+"liste_unterlistenverbindung":" ",
+"partei_id":14,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":26,
+"liste_nummer_kanton":"26",
+"liste_bezeichnung":"JutziPhilipp.com",
+"liste_verbindung":"E",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":27,
+"liste_nummer_kanton":"27",
+"liste_bezeichnung":"Die Musketiere // Les Mousquetaires",
+"liste_verbindung":"E",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":28,
+"liste_nummer_kanton":"28",
+"liste_bezeichnung":"Die liebe, sehr sehr liebe Partei",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":29,
+"liste_nummer_kanton":"29",
+"liste_bezeichnung":"Gesundheit-Energie-Natur",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":30,
+"liste_nummer_kanton":"30",
+"liste_bezeichnung":"DU - Die Unabhängigen // LI - Les Indépendants",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":31,
+"liste_nummer_kanton":"31",
+"liste_bezeichnung":"Menschen mit Zukunft sagen 5G ade!",
+"liste_verbindung":"E",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":32,
+"liste_nummer_kanton":"32",
+"liste_bezeichnung":"Partei der unbegrenzten Möglichkeiten",
+"liste_verbindung":"E",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":33,
+"liste_nummer_kanton":"33",
+"liste_bezeichnung":"Landliste // Liste du Terroir",
+"liste_verbindung":"E",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":2,
+"kanton_bezeichnung":"Bern / Berne",
+"liste_nummer_bfs":34,
+"liste_nummer_kanton":"34",
+"liste_bezeichnung":"Armin Capaul Parteilos und weitere Parteilose",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":1,
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"Grüne",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":2,
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Schweizerische Volkspartei (SVP)",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":3,
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"Sozialdemokratische Partei (SP) und Gewerkschaften",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":4,
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"Grünliberale Partei (glp)",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A3",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":5,
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"Christlichdemokratische Volkspartei (CVP)",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":6,
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"FDP.Die Liberalen Luzern",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":7,
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"Aktive Senioren Luzern (SVP)",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":8,
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Junge Grüne",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":9,
+"liste_nummer_kanton":"9a",
+"liste_bezeichnung":"Junge Christlichdemokratische Volkspartei (JCVP) a",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":10,
+"liste_nummer_kanton":"9b",
+"liste_bezeichnung":"Junge Christlichdemokratische Volkspartei (JCVP) b",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":11,
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"Evangelische Volkspartei (EVP)",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":7,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":12,
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"SP – Second@s Plus und MigrantInnen",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":13,
+"liste_nummer_kanton":"12a",
+"liste_bezeichnung":"JungsozialistInnen und Junge Linke (JUSOplus)-Stadt Luzern",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":14,
+"liste_nummer_kanton":"12b",
+"liste_bezeichnung":"JungsozialistInnen und Junge Linke (JUSOplus)-Land und Agglomeration",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":15,
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"Jungfreisinnige (JFLU)",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":16,
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"Integrale Politik (IP)",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":17,
+"liste_nummer_kanton":"15",
+"liste_bezeichnung":"Junge Grünliberale Partei (jglp)",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A3",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":18,
+"liste_nummer_kanton":"17",
+"liste_bezeichnung":"SP 60+",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":19,
+"liste_nummer_kanton":"20",
+"liste_bezeichnung":"Junge Schweizerische Volkspartei (JSVP)",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":20,
+"liste_nummer_kanton":"22",
+"liste_bezeichnung":"FDP-Frauen Kanton Luzern",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":21,
+"liste_nummer_kanton":"23",
+"liste_bezeichnung":"AWG Arbeitsgemeinschaft Wirtschaft und Gesellschaft (CVP)",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":22,
+"liste_nummer_kanton":"24",
+"liste_bezeichnung":"Klimaschutz (CVP)",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":23,
+"liste_nummer_kanton":"25",
+"liste_bezeichnung":"CSV Christlichsoziale Vereinigung (CVP)",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":24,
+"liste_nummer_kanton":"26",
+"liste_bezeichnung":"CVP Frauen",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":25,
+"liste_nummer_kanton":"27",
+"liste_bezeichnung":"Luzerner Bauernliste (CVP)",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":26,
+"liste_nummer_kanton":"28",
+"liste_bezeichnung":"SVP-Frauen für Stadt und Land",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":27,
+"liste_nummer_kanton":"29",
+"liste_bezeichnung":"Büezer und Bauern JSVP",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":28,
+"liste_nummer_kanton":"30",
+"liste_bezeichnung":"LU-Biker SVP",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":29,
+"liste_nummer_kanton":"31",
+"liste_bezeichnung":"SVP International",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":30,
+"liste_nummer_kanton":"32",
+"liste_bezeichnung":"Unternehmer*innen für eine grüne Wirtschaft (Grüne)",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":31,
+"liste_nummer_kanton":"33",
+"liste_bezeichnung":"glp international",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A3",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":32,
+"liste_nummer_kanton":"34",
+"liste_bezeichnung":"Schweizer Demokraten SD für Volk und Heimat / Nationale Aktion NA",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":14,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":3,
+"kanton_bezeichnung":"Luzern",
+"liste_nummer_bfs":33,
+"liste_nummer_kanton":"35",
+"liste_bezeichnung":"SP International (Auslandschweizer*innen)",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":4,
+"kanton_bezeichnung":"Uri",
+"liste_nummer_bfs":1,
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"Pascal Blöchlinger (Schweizerische Volkspartei)",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":4,
+"kanton_bezeichnung":"Uri",
+"liste_nummer_bfs":2,
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Urs Kälin (Sozialdemokratische Partei der Schweiz)",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":4,
+"kanton_bezeichnung":"Uri",
+"liste_nummer_bfs":3,
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"Simon Stadler (Christlichdemokratische Volkspartei der Schweiz)",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":4,
+"kanton_bezeichnung":"Uri",
+"liste_nummer_bfs":99,
+"liste_nummer_kanton":"99",
+"liste_bezeichnung":"Vereinzelte / Autres / Altri",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":5,
+"kanton_bezeichnung":"Schwyz",
+"liste_nummer_bfs":1,
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"CVP – Bürgerlich mit sozialer Verantwortung",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":" ",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":5,
+"kanton_bezeichnung":"Schwyz",
+"liste_nummer_bfs":2,
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"CVP – Bauern und Gewerbe",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":" ",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":5,
+"kanton_bezeichnung":"Schwyz",
+"liste_nummer_bfs":3,
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"Junge CVP",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":" ",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":5,
+"kanton_bezeichnung":"Schwyz",
+"liste_nummer_bfs":4,
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"CVP 60 plus",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":" ",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":5,
+"kanton_bezeichnung":"Schwyz",
+"liste_nummer_bfs":5,
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"Sozialdemokratische Partei (SP)",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":5,
+"kanton_bezeichnung":"Schwyz",
+"liste_nummer_bfs":6,
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"FDP.Die Liberalen Kanton Schwyz",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":5,
+"kanton_bezeichnung":"Schwyz",
+"liste_nummer_bfs":7,
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"Gemeinsam fürs Schwyzer Gewerbe",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":5,
+"kanton_bezeichnung":"Schwyz",
+"liste_nummer_bfs":8,
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Junge Schweizerische Volkspartei Kanton Schwyz (JSVP)",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":5,
+"kanton_bezeichnung":"Schwyz",
+"liste_nummer_bfs":9,
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"Grünliberale – GLP Kanton Schwyz",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":" ",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":5,
+"kanton_bezeichnung":"Schwyz",
+"liste_nummer_bfs":10,
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"Junge Grünliberale – jglp Kanton Schwyz",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":" ",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":5,
+"kanton_bezeichnung":"Schwyz",
+"liste_nummer_bfs":11,
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"JUSOplus",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":5,
+"kanton_bezeichnung":"Schwyz",
+"liste_nummer_bfs":12,
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"Gewerkschaftsbund Kanton Schwyz",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":5,
+"kanton_bezeichnung":"Schwyz",
+"liste_nummer_bfs":13,
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"Liste für Kultur",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":5,
+"kanton_bezeichnung":"Schwyz",
+"liste_nummer_bfs":14,
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"Jungfreisinnige Kanton Schwyz",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":5,
+"kanton_bezeichnung":"Schwyz",
+"liste_nummer_bfs":15,
+"liste_nummer_kanton":"15",
+"liste_bezeichnung":"Generation 60plus",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":5,
+"kanton_bezeichnung":"Schwyz",
+"liste_nummer_bfs":16,
+"liste_nummer_kanton":"16",
+"liste_bezeichnung":"Schweizerische Volkspartei Kanton Schwyz",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":5,
+"kanton_bezeichnung":"Schwyz",
+"liste_nummer_bfs":17,
+"liste_nummer_kanton":"17",
+"liste_bezeichnung":"Schwyz für alle",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":5,
+"kanton_bezeichnung":"Schwyz",
+"liste_nummer_bfs":18,
+"liste_nummer_kanton":"18",
+"liste_bezeichnung":"EVP Evangelische Volkspartei",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":" ",
+"partei_id":7,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":5,
+"kanton_bezeichnung":"Schwyz",
+"liste_nummer_bfs":19,
+"liste_nummer_kanton":"19",
+"liste_bezeichnung":"Umwelt.Die Liberalen",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":5,
+"kanton_bezeichnung":"Schwyz",
+"liste_nummer_bfs":20,
+"liste_nummer_kanton":"20",
+"liste_bezeichnung":"Grüne Schwyz – Für eine langfristige Zukunft",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":5,
+"kanton_bezeichnung":"Schwyz",
+"liste_nummer_bfs":21,
+"liste_nummer_kanton":"21",
+"liste_bezeichnung":"Vorwärts Schwyz! Mobilität mit Zukunft.",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":6,
+"kanton_bezeichnung":"Obwalden",
+"liste_nummer_bfs":1,
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"Marco De Col (FDP.Die Liberalen)",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":6,
+"kanton_bezeichnung":"Obwalden",
+"liste_nummer_bfs":2,
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Luke Gasser (Komitee 'Luke Gasser i Nationalrat')",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":6,
+"kanton_bezeichnung":"Obwalden",
+"liste_nummer_bfs":3,
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"Mirjam Hostetmann (JungsozialistInnen)",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":6,
+"kanton_bezeichnung":"Obwalden",
+"liste_nummer_bfs":4,
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"Peter Krummenacher (Christlichdemokratische Volkspartei der Schweiz)",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":6,
+"kanton_bezeichnung":"Obwalden",
+"liste_nummer_bfs":5,
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"Monika Rüegger-Hurschler (Schweizerische Volkspartei)",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":7,
+"kanton_bezeichnung":"Nidwalden",
+"liste_nummer_bfs":1,
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"Peter Keller (Schweizerische Volkspartei)",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":7,
+"kanton_bezeichnung":"Nidwalden",
+"liste_nummer_bfs":2,
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Alois Bissig (Überparteiliches Komitee (CVP))",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":8,
+"kanton_bezeichnung":"Glarus",
+"liste_nummer_bfs":1,
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"Martin Landolt (Bürgerlich-Demokratische Partei)",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":32,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":8,
+"kanton_bezeichnung":"Glarus",
+"liste_nummer_bfs":2,
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Priska Grünenfelder (Sozialdemokratische Partei der Schweiz)",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":8,
+"kanton_bezeichnung":"Glarus",
+"liste_nummer_bfs":99,
+"liste_nummer_kanton":"99",
+"liste_bezeichnung":"Vereinzelte / Autres / Altri",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":9,
+"kanton_bezeichnung":"Zug",
+"liste_nummer_bfs":1,
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"Alternative – die Grünen und CSP",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":9,
+"kanton_bezeichnung":"Zug",
+"liste_nummer_bfs":2,
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Alternative – die Grünen und CSP – Urban",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":9,
+"kanton_bezeichnung":"Zug",
+"liste_nummer_bfs":3,
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"Alternative – die Grünen und CSP – Landschaft",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":9,
+"kanton_bezeichnung":"Zug",
+"liste_nummer_bfs":4,
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"Alternative – die Grünen und CSP – Frauenpower",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":9,
+"kanton_bezeichnung":"Zug",
+"liste_nummer_bfs":5,
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"Alternative – die Grünen und CSP – Junge Alternative",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":9,
+"kanton_bezeichnung":"Zug",
+"liste_nummer_bfs":6,
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"Christlichdemokratische Volkspartei Kanton Zug (CVP)",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":9,
+"kanton_bezeichnung":"Zug",
+"liste_nummer_bfs":7,
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"Christlichdemokratische Volkspartei Kanton Zug (CVP) – CVP Frauen Kanton Zug",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":9,
+"kanton_bezeichnung":"Zug",
+"liste_nummer_bfs":8,
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Christlichdemokratische Volkspartei Kanton Zug (CVP) – Junge Liste (JCVP)",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":9,
+"kanton_bezeichnung":"Zug",
+"liste_nummer_bfs":9,
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"Christlichdemokratische Volkspartei Kanton Zug (CVP) – Gemeinderatsliste",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":9,
+"kanton_bezeichnung":"Zug",
+"liste_nummer_bfs":10,
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"Evangelische Volkspartei (EVP)",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":" ",
+"partei_id":7,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":9,
+"kanton_bezeichnung":"Zug",
+"liste_nummer_bfs":11,
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"FDP Zug – A",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":9,
+"kanton_bezeichnung":"Zug",
+"liste_nummer_bfs":12,
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"FDP Zug – B",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":9,
+"kanton_bezeichnung":"Zug",
+"liste_nummer_bfs":13,
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"FDP Zug – C",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":9,
+"kanton_bezeichnung":"Zug",
+"liste_nummer_bfs":14,
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"Grünliberale Partei (GLP)",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":" ",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":9,
+"kanton_bezeichnung":"Zug",
+"liste_nummer_bfs":15,
+"liste_nummer_kanton":"15",
+"liste_bezeichnung":"Grünliberale Partei (GLP) – Junge Grünliberale (JGLP)",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":" ",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":9,
+"kanton_bezeichnung":"Zug",
+"liste_nummer_bfs":16,
+"liste_nummer_kanton":"16",
+"liste_bezeichnung":"SP Kanton Zug",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":9,
+"kanton_bezeichnung":"Zug",
+"liste_nummer_bfs":17,
+"liste_nummer_kanton":"17",
+"liste_bezeichnung":"SP Kanton Zug – SP Zug für Bern",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":9,
+"kanton_bezeichnung":"Zug",
+"liste_nummer_bfs":18,
+"liste_nummer_kanton":"18",
+"liste_bezeichnung":"SP Kanton Zug – SP 60+",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":9,
+"kanton_bezeichnung":"Zug",
+"liste_nummer_bfs":19,
+"liste_nummer_kanton":"19",
+"liste_bezeichnung":"SP Kanton Zug – SP Klimaschutz",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":9,
+"kanton_bezeichnung":"Zug",
+"liste_nummer_bfs":20,
+"liste_nummer_kanton":"20",
+"liste_bezeichnung":"SP Kanton Zug – SP Frauen",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":9,
+"kanton_bezeichnung":"Zug",
+"liste_nummer_bfs":21,
+"liste_nummer_kanton":"21",
+"liste_bezeichnung":"SP Kanton Zug – SP Männer",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":9,
+"kanton_bezeichnung":"Zug",
+"liste_nummer_bfs":22,
+"liste_nummer_kanton":"22",
+"liste_bezeichnung":"SP Kanton Zug – SP JUSO",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":9,
+"kanton_bezeichnung":"Zug",
+"liste_nummer_bfs":23,
+"liste_nummer_kanton":"23",
+"liste_bezeichnung":"SVP Schweizerische Volkspartei",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":9,
+"kanton_bezeichnung":"Zug",
+"liste_nummer_bfs":24,
+"liste_nummer_kanton":"24",
+"liste_bezeichnung":"SVP – Wirtschaft und Gewerbe",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":9,
+"kanton_bezeichnung":"Zug",
+"liste_nummer_bfs":25,
+"liste_nummer_kanton":"25",
+"liste_bezeichnung":"SVP – Zukunft",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":10,
+"kanton_bezeichnung":"Fribourg / Freiburg",
+"liste_nummer_bfs":1,
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"Parti démocrate-chrétien fribourgeois // Christlichdemokratische Volkspartei des Kantons Freiburg",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":10,
+"kanton_bezeichnung":"Fribourg / Freiburg",
+"liste_nummer_bfs":2,
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Parti socialiste fribourgeois // Sozialdemokratische Partei Freiburg",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":10,
+"kanton_bezeichnung":"Fribourg / Freiburg",
+"liste_nummer_bfs":3,
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"PLR.Les Libéraux-Radicaux du canton de Fribourg // FDP.Die Liberalen des Kantons Freiburg",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":10,
+"kanton_bezeichnung":"Fribourg / Freiburg",
+"liste_nummer_bfs":4,
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"Verts – CG-PCS : Centre Gauche-PCS // ML-CSP – Grüne : Mitte Links-CSP",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":8,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":10,
+"kanton_bezeichnung":"Fribourg / Freiburg",
+"liste_nummer_bfs":5,
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"Union Démocratique du Centre // Schweizerische Volkspartei",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":10,
+"kanton_bezeichnung":"Fribourg / Freiburg",
+"liste_nummer_bfs":6,
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"Parti vert'libéral (pvl) // Grünliberale Partei (glp)",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":10,
+"kanton_bezeichnung":"Fribourg / Freiburg",
+"liste_nummer_bfs":7,
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"Verts – CG-PCS : les Verts // ML-CSP – Grüne : Grüne",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":10,
+"kanton_bezeichnung":"Fribourg / Freiburg",
+"liste_nummer_bfs":8,
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Union Démocratique Fédérale // Eidgenössisch-Demokratische Union",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":16,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":10,
+"kanton_bezeichnung":"Fribourg / Freiburg",
+"liste_nummer_bfs":9,
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"Jeunes vert'libéraux (jvl) // Junge Grünliberale (jglp)",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":10,
+"kanton_bezeichnung":"Fribourg / Freiburg",
+"liste_nummer_bfs":10,
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"Jeunes PDC Grand-Fribourg // Junge CVP Grossfreiburg",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":10,
+"kanton_bezeichnung":"Fribourg / Freiburg",
+"liste_nummer_bfs":11,
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"Jeunes PDC Sud fribourgeois // Junge CVP Südfreiburg",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":10,
+"kanton_bezeichnung":"Fribourg / Freiburg",
+"liste_nummer_bfs":12,
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"Junge CVP Deutschfreiburg // Jeunes PDC Fribourg alémanique",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":10,
+"kanton_bezeichnung":"Fribourg / Freiburg",
+"liste_nummer_bfs":13,
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"Jeunes PDC Sarine-Campagne et Broye // Junge CVP Saane Land und Broye",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":10,
+"kanton_bezeichnung":"Fribourg / Freiburg",
+"liste_nummer_bfs":14,
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"Jeunes libéraux-radicaux fribourgeois // Jungfreisinnige Freiburg",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":10,
+"kanton_bezeichnung":"Fribourg / Freiburg",
+"liste_nummer_bfs":15,
+"liste_nummer_kanton":"15",
+"liste_bezeichnung":"Parti socialiste 60+ // Sozialdemokratische Partei 60+",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":10,
+"kanton_bezeichnung":"Fribourg / Freiburg",
+"liste_nummer_bfs":16,
+"liste_nummer_kanton":"16",
+"liste_bezeichnung":"Parti socialiste Intégration // Sozialdemokratische Partei Integration",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":10,
+"kanton_bezeichnung":"Fribourg / Freiburg",
+"liste_nummer_bfs":17,
+"liste_nummer_kanton":"17",
+"liste_bezeichnung":"Parti socialiste international // Sozialdemokratische Partei International",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":10,
+"kanton_bezeichnung":"Fribourg / Freiburg",
+"liste_nummer_bfs":18,
+"liste_nummer_kanton":"18",
+"liste_bezeichnung":"Jeunesse socialiste fribourgeoise // Jungsozialiste-innen Kanton Freiburg",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":10,
+"kanton_bezeichnung":"Fribourg / Freiburg",
+"liste_nummer_bfs":19,
+"liste_nummer_kanton":"19",
+"liste_bezeichnung":"PBD-Centre droit // BDP-Mitte Rechts",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":" ",
+"partei_id":32,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":10,
+"kanton_bezeichnung":"Fribourg / Freiburg",
+"liste_nummer_bfs":20,
+"liste_nummer_kanton":"20",
+"liste_bezeichnung":"Parti Evangélique PEV // Evangelische Volkspartei EVP",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":" ",
+"partei_id":7,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":10,
+"kanton_bezeichnung":"Fribourg / Freiburg",
+"liste_nummer_bfs":21,
+"liste_nummer_kanton":"21",
+"liste_bezeichnung":"Jeunes UDC Fribourg // Junge SVP Freiburg",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":10,
+"kanton_bezeichnung":"Fribourg / Freiburg",
+"liste_nummer_bfs":22,
+"liste_nummer_kanton":"22",
+"liste_bezeichnung":"Parti des artistes // Künstler Partei",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":10,
+"kanton_bezeichnung":"Fribourg / Freiburg",
+"liste_nummer_bfs":23,
+"liste_nummer_kanton":"23",
+"liste_bezeichnung":"Objectif 2030 // Ziel 2030",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":10,
+"kanton_bezeichnung":"Fribourg / Freiburg",
+"liste_nummer_bfs":24,
+"liste_nummer_kanton":"24",
+"liste_bezeichnung":"Démocratie directe spiritualitéS et nature // Direkt Demokratie Spiritualität und Natur",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":10,
+"kanton_bezeichnung":"Fribourg / Freiburg",
+"liste_nummer_bfs":25,
+"liste_nummer_kanton":"25",
+"liste_bezeichnung":"Mouvement Citoyen Indépendant // Unabhängige Bürger Bewegung",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"liste_nummer_bfs":1,
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"SVP Kanton Solothurn",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"liste_nummer_bfs":2,
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"CVP Nord-Ost (Thal-Gäu, Olten-Gösgen, Dorneck-Thierstein)",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"liste_nummer_bfs":3,
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"CVP Süd-West (Solothurn-Lebern, Bucheggberg-Wasseramt)",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"liste_nummer_bfs":4,
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"Junge CVP Nord (Thal-Gäu, Dorneck-Thierstein)",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"liste_nummer_bfs":5,
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"Junge CVP Süd (Solothurn-Lebern, Bucheggberg-Wasseramt, Olten-Gösgen)",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"liste_nummer_bfs":6,
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"Junge SP Region Olten",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"liste_nummer_bfs":7,
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"JUSO Kanton Solothurn",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"liste_nummer_bfs":8,
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"SVP Unternehmer und Bauern",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"liste_nummer_bfs":9,
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"Sozialdemokratische Partei (SP) Region Süd-West (Solothurn-Lebern, Bucheggberg-Wasseramt)",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"liste_nummer_bfs":10,
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"Sozialdemokratische Partei (SP) Region Nord-Ost (Thal-Gäu, Olten-Gösgen, Dorneck-Thierstein)",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"liste_nummer_bfs":11,
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"Liste Grüne",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"liste_nummer_bfs":12,
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"Liste Grüne Plus",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"liste_nummer_bfs":13,
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"Jungfreisinnige Liste Digitalisierung",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"liste_nummer_bfs":14,
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"Jungfreisinnige Liste Gesellschaftsliberalismus",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"liste_nummer_bfs":15,
+"liste_nummer_kanton":"15",
+"liste_bezeichnung":"FDP.Die Liberalen Kanton Solothurn - Freiheit",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"liste_nummer_bfs":16,
+"liste_nummer_kanton":"16",
+"liste_bezeichnung":"FDP.Die Liberalen Kanton Solothurn - Verantwortung",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"liste_nummer_bfs":17,
+"liste_nummer_kanton":"17",
+"liste_bezeichnung":"SVP Bürger, Büezer, International",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"liste_nummer_bfs":18,
+"liste_nummer_kanton":"18",
+"liste_bezeichnung":"Sozialdemokratische Partei 60+",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"liste_nummer_bfs":19,
+"liste_nummer_kanton":"19",
+"liste_bezeichnung":"Junge SVP Kanton Solothurn",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"liste_nummer_bfs":20,
+"liste_nummer_kanton":"20",
+"liste_bezeichnung":"Grünliberale",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"liste_nummer_bfs":21,
+"liste_nummer_kanton":"21",
+"liste_bezeichnung":"Grünliberale Unternehmer",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"liste_nummer_bfs":22,
+"liste_nummer_kanton":"22",
+"liste_bezeichnung":"Junge Grünliberale",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"liste_nummer_bfs":23,
+"liste_nummer_kanton":"23",
+"liste_bezeichnung":"Junge Grüne Solothurn",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"liste_nummer_bfs":24,
+"liste_nummer_kanton":"24",
+"liste_bezeichnung":"Bürgerlich Demokratische Partei Liste eins",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B3",
+"partei_id":32,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"liste_nummer_bfs":25,
+"liste_nummer_kanton":"25",
+"liste_bezeichnung":"Bürgerlich Demokratische Partei Liste zwei",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B3",
+"partei_id":32,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"liste_nummer_bfs":26,
+"liste_nummer_kanton":"26",
+"liste_bezeichnung":"Junge Bürgerlich Demokratische Partei",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B3",
+"partei_id":32,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"liste_nummer_bfs":27,
+"liste_nummer_kanton":"27",
+"liste_bezeichnung":"Evangelische Volkspartei",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":7,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"liste_nummer_bfs":28,
+"liste_nummer_kanton":"28",
+"liste_bezeichnung":"Schweizer Demokraten / Die sozial-ökologische Heimatpartei",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":14,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":11,
+"kanton_bezeichnung":"Solothurn",
+"liste_nummer_bfs":29,
+"liste_nummer_kanton":"29",
+"liste_bezeichnung":"Schweizerische Hanf Partei SHP",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":12,
+"kanton_bezeichnung":"Basel-Stadt",
+"liste_nummer_bfs":1,
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"FDP.Die Liberalen Basel-Stadt",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":12,
+"kanton_bezeichnung":"Basel-Stadt",
+"liste_nummer_bfs":2,
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Piratenpartei",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":12,
+"kanton_bezeichnung":"Basel-Stadt",
+"liste_nummer_bfs":3,
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"LDP Liberal-Demokratische Partei Basel-Stadt",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A4",
+"partei_id":5,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":12,
+"kanton_bezeichnung":"Basel-Stadt",
+"liste_nummer_bfs":4,
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"Mitte – Evangelische Volkspartei Basel-Stadt (EVP)",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":7,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":12,
+"kanton_bezeichnung":"Basel-Stadt",
+"liste_nummer_bfs":5,
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"Sozialdemokratische Partei Basel-Stadt (SP)",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":12,
+"kanton_bezeichnung":"Basel-Stadt",
+"liste_nummer_bfs":6,
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"Jungfreisinnige Basel-Stadt",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":12,
+"kanton_bezeichnung":"Basel-Stadt",
+"liste_nummer_bfs":7,
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"CVP Basel-Stadt",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A3",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":12,
+"kanton_bezeichnung":"Basel-Stadt",
+"liste_nummer_bfs":8,
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Bündnis Grüne BastA! jgb",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":12,
+"kanton_bezeichnung":"Basel-Stadt",
+"liste_nummer_bfs":9,
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"Eidgenössisch-Demokratische Union Basel-Stadt (EDU)",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":" ",
+"partei_id":16,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":12,
+"kanton_bezeichnung":"Basel-Stadt",
+"liste_nummer_bfs":10,
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"Mitte – Grünliberale GLP",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":12,
+"kanton_bezeichnung":"Basel-Stadt",
+"liste_nummer_bfs":11,
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"Mitte – Bürgerlich-Demokratische Partei (BDP)",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":32,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":12,
+"kanton_bezeichnung":"Basel-Stadt",
+"liste_nummer_bfs":12,
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"SVP Basel-Stadt",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":12,
+"kanton_bezeichnung":"Basel-Stadt",
+"liste_nummer_bfs":13,
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"Volks-Aktion gegen zuviele Ausländer und Asylanten in unserer Heimat (VA) – Liste Ausländerstopp",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":12,
+"kanton_bezeichnung":"Basel-Stadt",
+"liste_nummer_bfs":14,
+"liste_nummer_kanton":"18",
+"liste_bezeichnung":"Junge SVP Basel-Stadt",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":12,
+"kanton_bezeichnung":"Basel-Stadt",
+"liste_nummer_bfs":15,
+"liste_nummer_kanton":"21",
+"liste_bezeichnung":"Bündnis: Junge Grüne (jgb)",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":12,
+"kanton_bezeichnung":"Basel-Stadt",
+"liste_nummer_bfs":16,
+"liste_nummer_kanton":"22",
+"liste_bezeichnung":"Junge CVP Basel-Stadt",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A3",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":12,
+"kanton_bezeichnung":"Basel-Stadt",
+"liste_nummer_bfs":17,
+"liste_nummer_kanton":"23",
+"liste_bezeichnung":"Jungliberale Basel JLB",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A4",
+"partei_id":5,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":12,
+"kanton_bezeichnung":"Basel-Stadt",
+"liste_nummer_bfs":18,
+"liste_nummer_kanton":"25",
+"liste_bezeichnung":"Mitte – Junge Grünliberale jglp",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":12,
+"kanton_bezeichnung":"Basel-Stadt",
+"liste_nummer_bfs":19,
+"liste_nummer_kanton":"31",
+"liste_bezeichnung":"SVP Frauen Basel-Stadt",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":12,
+"kanton_bezeichnung":"Basel-Stadt",
+"liste_nummer_bfs":20,
+"liste_nummer_kanton":"32",
+"liste_bezeichnung":"FDP.Die Liberalen Frauen Basel-Stadt",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":12,
+"kanton_bezeichnung":"Basel-Stadt",
+"liste_nummer_bfs":21,
+"liste_nummer_kanton":"34",
+"liste_bezeichnung":"Gewerbe LDP",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A4",
+"partei_id":5,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":12,
+"kanton_bezeichnung":"Basel-Stadt",
+"liste_nummer_bfs":22,
+"liste_nummer_kanton":"36",
+"liste_bezeichnung":"CVP 60+ Basel-Stadt",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A3",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":12,
+"kanton_bezeichnung":"Basel-Stadt",
+"liste_nummer_bfs":23,
+"liste_nummer_kanton":"37",
+"liste_bezeichnung":"Liste SVP – Neue Heimat Schweiz Basel-Stadt",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":12,
+"kanton_bezeichnung":"Basel-Stadt",
+"liste_nummer_bfs":24,
+"liste_nummer_kanton":"38",
+"liste_bezeichnung":"JUSO Basel-Stadt, Frauen*",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":12,
+"kanton_bezeichnung":"Basel-Stadt",
+"liste_nummer_bfs":25,
+"liste_nummer_kanton":"39",
+"liste_bezeichnung":"JUSO Basel-Stadt, Männer*",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":12,
+"kanton_bezeichnung":"Basel-Stadt",
+"liste_nummer_bfs":26,
+"liste_nummer_kanton":"40",
+"liste_bezeichnung":"Bündnis – Die Alternativen",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":12,
+"kanton_bezeichnung":"Basel-Stadt",
+"liste_nummer_bfs":27,
+"liste_nummer_kanton":"41",
+"liste_bezeichnung":"PNOS Partei National Orientierter Schweizer",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":12,
+"kanton_bezeichnung":"Basel-Stadt",
+"liste_nummer_bfs":28,
+"liste_nummer_kanton":"42",
+"liste_bezeichnung":"Bündnis – Integrale Politik",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":13,
+"kanton_bezeichnung":"Basel-Landschaft",
+"liste_nummer_bfs":1,
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"FDP.Die Liberalen Baselland",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":13,
+"kanton_bezeichnung":"Basel-Landschaft",
+"liste_nummer_bfs":2,
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Sozialdemokratische Partei und Gewerkschaften",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":13,
+"kanton_bezeichnung":"Basel-Landschaft",
+"liste_nummer_bfs":3,
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"Schweizerische Volkspartei Baselland",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":13,
+"kanton_bezeichnung":"Basel-Landschaft",
+"liste_nummer_bfs":4,
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"Evangelische Volkspartei BL",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":7,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":13,
+"kanton_bezeichnung":"Basel-Landschaft",
+"liste_nummer_bfs":5,
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"Christlichdemokratische Volkspartei",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":13,
+"kanton_bezeichnung":"Basel-Landschaft",
+"liste_nummer_bfs":6,
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"Jungfreisinnige Baselland",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":13,
+"kanton_bezeichnung":"Basel-Landschaft",
+"liste_nummer_bfs":7,
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"Grüne Baselland",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":13,
+"kanton_bezeichnung":"Basel-Landschaft",
+"liste_nummer_bfs":8,
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Bürgerlich-Demokratische Partei",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":" ",
+"partei_id":32,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":13,
+"kanton_bezeichnung":"Basel-Landschaft",
+"liste_nummer_bfs":9,
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"Grünliberale Partei",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C3",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":13,
+"kanton_bezeichnung":"Basel-Landschaft",
+"liste_nummer_bfs":10,
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"Junge Grünliberale Partei",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C3",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":13,
+"kanton_bezeichnung":"Basel-Landschaft",
+"liste_nummer_bfs":11,
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"Christ-und-Politik.CH",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":13,
+"kanton_bezeichnung":"Basel-Landschaft",
+"liste_nummer_bfs":12,
+"liste_nummer_kanton":"22",
+"liste_bezeichnung":"Jungsozialist*innen Unterbaselbiet",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":13,
+"kanton_bezeichnung":"Basel-Landschaft",
+"liste_nummer_bfs":13,
+"liste_nummer_kanton":"23",
+"liste_bezeichnung":"Jungsozialist*innen Oberbaselbiet",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":13,
+"kanton_bezeichnung":"Basel-Landschaft",
+"liste_nummer_bfs":14,
+"liste_nummer_kanton":"33",
+"liste_bezeichnung":"Junge Schweizerische Volkspartei",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":13,
+"kanton_bezeichnung":"Basel-Landschaft",
+"liste_nummer_bfs":15,
+"liste_nummer_kanton":"34",
+"liste_bezeichnung":"SVP International",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":13,
+"kanton_bezeichnung":"Basel-Landschaft",
+"liste_nummer_bfs":16,
+"liste_nummer_kanton":"44",
+"liste_bezeichnung":"Evangelische Volkspartei - Zukunft",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":7,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":13,
+"kanton_bezeichnung":"Basel-Landschaft",
+"liste_nummer_bfs":17,
+"liste_nummer_kanton":"55",
+"liste_bezeichnung":"Junge CVP",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":13,
+"kanton_bezeichnung":"Basel-Landschaft",
+"liste_nummer_bfs":18,
+"liste_nummer_kanton":"56",
+"liste_bezeichnung":"CVP Wirtschaft und Gesellschaft",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":13,
+"kanton_bezeichnung":"Basel-Landschaft",
+"liste_nummer_bfs":19,
+"liste_nummer_kanton":"70",
+"liste_bezeichnung":"Grüne Panther",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":13,
+"kanton_bezeichnung":"Basel-Landschaft",
+"liste_nummer_bfs":20,
+"liste_nummer_kanton":"77",
+"liste_bezeichnung":"Junge Grüne",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":14,
+"kanton_bezeichnung":"Schaffhausen",
+"liste_nummer_bfs":1,
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"Schweizerische Volkspartei (SVP)",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":14,
+"kanton_bezeichnung":"Schaffhausen",
+"liste_nummer_bfs":2,
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Sozialdemokratische Partei (SP)",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":14,
+"kanton_bezeichnung":"Schaffhausen",
+"liste_nummer_bfs":3,
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"FDP.Die Liberalen",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":14,
+"kanton_bezeichnung":"Schaffhausen",
+"liste_nummer_bfs":4,
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"Alternative Liste Schaffhausen (AL)",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":12,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":14,
+"kanton_bezeichnung":"Schaffhausen",
+"liste_nummer_bfs":5,
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"Grünliberale Partei (GLP)",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D1",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":14,
+"kanton_bezeichnung":"Schaffhausen",
+"liste_nummer_bfs":6,
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"Grüne Partei",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":14,
+"kanton_bezeichnung":"Schaffhausen",
+"liste_nummer_bfs":7,
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"Eidgenössisch-Demokratische Union (EDU)",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":" ",
+"partei_id":16,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":14,
+"kanton_bezeichnung":"Schaffhausen",
+"liste_nummer_bfs":8,
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Christlichdemokratische Volkspartei (CVP)",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":" ",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":14,
+"kanton_bezeichnung":"Schaffhausen",
+"liste_nummer_bfs":9,
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"Evangelische Volkspartei (EVP)",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":" ",
+"partei_id":7,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":14,
+"kanton_bezeichnung":"Schaffhausen",
+"liste_nummer_bfs":10,
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"Junge SVP",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":14,
+"kanton_bezeichnung":"Schaffhausen",
+"liste_nummer_bfs":11,
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"Jungfreisinnige",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":14,
+"kanton_bezeichnung":"Schaffhausen",
+"liste_nummer_bfs":12,
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"JUSO",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":14,
+"kanton_bezeichnung":"Schaffhausen",
+"liste_nummer_bfs":13,
+"liste_nummer_kanton":"16",
+"liste_bezeichnung":"Junge GLP",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D1",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":14,
+"kanton_bezeichnung":"Schaffhausen",
+"liste_nummer_bfs":14,
+"liste_nummer_kanton":"17",
+"liste_bezeichnung":"SVP Agro / KMU",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":14,
+"kanton_bezeichnung":"Schaffhausen",
+"liste_nummer_bfs":15,
+"liste_nummer_kanton":"18",
+"liste_bezeichnung":"Junge Grüne",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":15,
+"kanton_bezeichnung":"Appenzell Ausserrhoden",
+"liste_nummer_bfs":1,
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"David Zuberbühler (Schweizerische Volkspartei)",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":15,
+"kanton_bezeichnung":"Appenzell Ausserrhoden",
+"liste_nummer_bfs":2,
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Jennifer Abderhalden (FDP.Die Liberalen)",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":15,
+"kanton_bezeichnung":"Appenzell Ausserrhoden",
+"liste_nummer_bfs":99,
+"liste_nummer_kanton":"99",
+"liste_bezeichnung":"Vereinzelte / Autres / Altri",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":16,
+"kanton_bezeichnung":"Appenzell Innerrhoden",
+"liste_nummer_bfs":1,
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"Ruedi Eberle (Schweizerische Volkspartei)",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":16,
+"kanton_bezeichnung":"Appenzell Innerrhoden",
+"liste_nummer_bfs":2,
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Martin Pfister (Sozialdemokratische Partei der Schweiz)",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":16,
+"kanton_bezeichnung":"Appenzell Innerrhoden",
+"liste_nummer_bfs":3,
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"Antonia Fässler (Christlichdemokratische Volkspartei der Schweiz)",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":16,
+"kanton_bezeichnung":"Appenzell Innerrhoden",
+"liste_nummer_bfs":4,
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"Thomas Rechsteiner (Christlichdemokratische Volkspartei der Schweiz)",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":16,
+"kanton_bezeichnung":"Appenzell Innerrhoden",
+"liste_nummer_bfs":99,
+"liste_nummer_kanton":"99",
+"liste_bezeichnung":"Vereinzelte / Autres / Altri",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":17,
+"kanton_bezeichnung":"St. Gallen",
+"liste_nummer_bfs":1,
+"liste_nummer_kanton":"1a",
+"liste_bezeichnung":"SVP Schweizerische Volkspartei, Hauptliste",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":17,
+"kanton_bezeichnung":"St. Gallen",
+"liste_nummer_bfs":2,
+"liste_nummer_kanton":"1b",
+"liste_bezeichnung":"SVP Schweizerische Volkspartei, Unternehmerliste",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":17,
+"kanton_bezeichnung":"St. Gallen",
+"liste_nummer_bfs":3,
+"liste_nummer_kanton":"1c",
+"liste_bezeichnung":"SVP Schweizerische Volkspartei, Seniorenliste",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":17,
+"kanton_bezeichnung":"St. Gallen",
+"liste_nummer_bfs":4,
+"liste_nummer_kanton":"1d",
+"liste_bezeichnung":"SVP Schweizerische Volkspartei, Landliste",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":17,
+"kanton_bezeichnung":"St. Gallen",
+"liste_nummer_bfs":5,
+"liste_nummer_kanton":"2a",
+"liste_bezeichnung":"CVP Kanton St.Gallen, Liste Süd-Ost",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":17,
+"kanton_bezeichnung":"St. Gallen",
+"liste_nummer_bfs":6,
+"liste_nummer_kanton":"2b",
+"liste_bezeichnung":"CVP Kanton St.Gallen, Liste Nord-West",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":17,
+"kanton_bezeichnung":"St. Gallen",
+"liste_nummer_bfs":7,
+"liste_nummer_kanton":"2c",
+"liste_bezeichnung":"CVP Kanton St.Gallen, Junge CVP – Liste Süd-Ost",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":17,
+"kanton_bezeichnung":"St. Gallen",
+"liste_nummer_bfs":8,
+"liste_nummer_kanton":"2d",
+"liste_bezeichnung":"CVP Kanton St.Gallen, Junge CVP – Liste Nord-West",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":17,
+"kanton_bezeichnung":"St. Gallen",
+"liste_nummer_bfs":9,
+"liste_nummer_kanton":"3a",
+"liste_bezeichnung":"SP und Gewerkschaften, Hauptliste",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":17,
+"kanton_bezeichnung":"St. Gallen",
+"liste_nummer_bfs":10,
+"liste_nummer_kanton":"3b",
+"liste_bezeichnung":"SP und Gewerkschaften, JUSO-Liste",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":17,
+"kanton_bezeichnung":"St. Gallen",
+"liste_nummer_bfs":11,
+"liste_nummer_kanton":"4a",
+"liste_bezeichnung":"FDP.Die Liberalen, Hauptliste",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":17,
+"kanton_bezeichnung":"St. Gallen",
+"liste_nummer_bfs":12,
+"liste_nummer_kanton":"4b",
+"liste_bezeichnung":"FDP.Die Liberalen, Jungfreisinnige",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":17,
+"kanton_bezeichnung":"St. Gallen",
+"liste_nummer_bfs":13,
+"liste_nummer_kanton":"4c",
+"liste_bezeichnung":"FDP.Die Liberalen, Umweltfreisinnige",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":17,
+"kanton_bezeichnung":"St. Gallen",
+"liste_nummer_bfs":14,
+"liste_nummer_kanton":"4d",
+"liste_bezeichnung":"FDP.Die Liberalen, FDP Frauen",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":17,
+"kanton_bezeichnung":"St. Gallen",
+"liste_nummer_bfs":15,
+"liste_nummer_kanton":"5a",
+"liste_bezeichnung":"Grünliberale (glp), Hauptliste",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":17,
+"kanton_bezeichnung":"St. Gallen",
+"liste_nummer_bfs":16,
+"liste_nummer_kanton":"5b",
+"liste_bezeichnung":"Grünliberale (glp), Junge Grünliberale",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":17,
+"kanton_bezeichnung":"St. Gallen",
+"liste_nummer_bfs":17,
+"liste_nummer_kanton":"6a",
+"liste_bezeichnung":"GRÜNE, Hauptliste",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":17,
+"kanton_bezeichnung":"St. Gallen",
+"liste_nummer_bfs":18,
+"liste_nummer_kanton":"6b",
+"liste_bezeichnung":"GRÜNE, Junge Grüne",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":17,
+"kanton_bezeichnung":"St. Gallen",
+"liste_nummer_bfs":19,
+"liste_nummer_kanton":"6c",
+"liste_bezeichnung":"GRÜNE, KlimaseniorInnen",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":17,
+"kanton_bezeichnung":"St. Gallen",
+"liste_nummer_bfs":20,
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"EVP, Evangelische Volkspartei",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":" ",
+"partei_id":7,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":17,
+"kanton_bezeichnung":"St. Gallen",
+"liste_nummer_bfs":21,
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Parteifrei SG",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":17,
+"kanton_bezeichnung":"St. Gallen",
+"liste_nummer_bfs":22,
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"EDU – Eidgenössisch-Demokratische Union",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":16,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":17,
+"kanton_bezeichnung":"St. Gallen",
+"liste_nummer_bfs":23,
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"Der Pflug",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":17,
+"kanton_bezeichnung":"St. Gallen",
+"liste_nummer_bfs":24,
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"Schweizer Demokraten (SD) – für Volk und Heimat, Schwiizer zerscht",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":14,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":17,
+"kanton_bezeichnung":"St. Gallen",
+"liste_nummer_bfs":25,
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"BDP Bürgerlich-Demokratische Partei Kanton St.Gallen",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":" ",
+"partei_id":32,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":18,
+"kanton_bezeichnung":"Graubünden / Grigioni / Grischun",
+"liste_nummer_bfs":1,
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"BDP Graubünden - Junge BDP Graubünden",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A3",
+"partei_id":32,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":18,
+"kanton_bezeichnung":"Graubünden / Grigioni / Grischun",
+"liste_nummer_bfs":2,
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"FDP.Die Liberalen Graubünden - Hauptliste",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":18,
+"kanton_bezeichnung":"Graubünden / Grigioni / Grischun",
+"liste_nummer_bfs":3,
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"SP JUSO Männer*",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":18,
+"kanton_bezeichnung":"Graubünden / Grigioni / Grischun",
+"liste_nummer_bfs":4,
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"CVP - Die Jungen 1",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":18,
+"kanton_bezeichnung":"Graubünden / Grigioni / Grischun",
+"liste_nummer_bfs":5,
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"CVP - Die Jungen A",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":18,
+"kanton_bezeichnung":"Graubünden / Grigioni / Grischun",
+"liste_nummer_bfs":6,
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"Verda - Grüne Graubünden",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":" ",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":18,
+"kanton_bezeichnung":"Graubünden / Grigioni / Grischun",
+"liste_nummer_bfs":7,
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"Grünliberale Partei - Junge Grünliberale Partei",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":18,
+"kanton_bezeichnung":"Graubünden / Grigioni / Grischun",
+"liste_nummer_bfs":8,
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"SVP Graubünden - Junge SVP Graubünden",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":18,
+"kanton_bezeichnung":"Graubünden / Grigioni / Grischun",
+"liste_nummer_bfs":9,
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"SP Sozialdemokratische Partei",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":18,
+"kanton_bezeichnung":"Graubünden / Grigioni / Grischun",
+"liste_nummer_bfs":10,
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"CVP Graubünden",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":18,
+"kanton_bezeichnung":"Graubünden / Grigioni / Grischun",
+"liste_nummer_bfs":11,
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"Jungfreisinnige Graubünden - FDP-Futuro",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":18,
+"kanton_bezeichnung":"Graubünden / Grigioni / Grischun",
+"liste_nummer_bfs":12,
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"BDP Graubünden",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A3",
+"partei_id":32,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":18,
+"kanton_bezeichnung":"Graubünden / Grigioni / Grischun",
+"liste_nummer_bfs":13,
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"Grünliberale Partei",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":18,
+"kanton_bezeichnung":"Graubünden / Grigioni / Grischun",
+"liste_nummer_bfs":14,
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"SVP Graubünden - Liste Martullo",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":18,
+"kanton_bezeichnung":"Graubünden / Grigioni / Grischun",
+"liste_nummer_bfs":15,
+"liste_nummer_kanton":"15",
+"liste_bezeichnung":"SP JUSO Frauen*",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":18,
+"kanton_bezeichnung":"Graubünden / Grigioni / Grischun",
+"liste_nummer_bfs":16,
+"liste_nummer_kanton":"16",
+"liste_bezeichnung":"SVP Graubünden - Liste Brand",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":18,
+"kanton_bezeichnung":"Graubünden / Grigioni / Grischun",
+"liste_nummer_bfs":17,
+"liste_nummer_kanton":"17",
+"liste_bezeichnung":"FDP.Die Liberalen GR - Support Gemeindepolitik",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":18,
+"kanton_bezeichnung":"Graubünden / Grigioni / Grischun",
+"liste_nummer_bfs":18,
+"liste_nummer_kanton":"18",
+"liste_bezeichnung":"FDP.Die Liberalen GR - Support Gewerbe",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":18,
+"kanton_bezeichnung":"Graubünden / Grigioni / Grischun",
+"liste_nummer_bfs":19,
+"liste_nummer_kanton":"19",
+"liste_bezeichnung":"SVP Graubünden - Liste SVP International",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":18,
+"kanton_bezeichnung":"Graubünden / Grigioni / Grischun",
+"liste_nummer_bfs":20,
+"liste_nummer_kanton":"20",
+"liste_bezeichnung":"SVP Graubünden - Team 60+ für ein sicheres Rentenalter",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":1,
+"liste_nummer_kanton":"1a",
+"liste_bezeichnung":"SVP – Schweizerische Volkspartei",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":2,
+"liste_nummer_kanton":"1b",
+"liste_bezeichnung":"JSVP – Junge Schweizerische Volkspartei",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":3,
+"liste_nummer_kanton":"2a",
+"liste_bezeichnung":"SP und Gewerkschaften",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":4,
+"liste_nummer_kanton":"2b",
+"liste_bezeichnung":"SP und Gewerkschaften – JUSO (Jungsozialist*innen)",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":5,
+"liste_nummer_kanton":"2c",
+"liste_bezeichnung":"SP und Gewerkschaften – SP 60+",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":6,
+"liste_nummer_kanton":"2d",
+"liste_bezeichnung":"SP und Gewerkschaften – queer*feministisch!",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":7,
+"liste_nummer_kanton":"2e",
+"liste_bezeichnung":"SP und Gewerkschaften – SP Migrant*innen",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":8,
+"liste_nummer_kanton":"3a",
+"liste_bezeichnung":"FDP.Die Liberalen",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":9,
+"liste_nummer_kanton":"3b",
+"liste_bezeichnung":"FDP.Die Liberalen – Jungfreisinnige",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":10,
+"liste_nummer_kanton":"4a",
+"liste_bezeichnung":"CVP.Miteinander.Für den Aargau.",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":11,
+"liste_nummer_kanton":"4b",
+"liste_bezeichnung":"CVPLA.Miteinander.Für Land- & Ernährungswirtschaft",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":12,
+"liste_nummer_kanton":"4c",
+"liste_bezeichnung":"CVPCS.Miteinander.Für die Christlichsozialen.",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":13,
+"liste_nummer_kanton":"4d",
+"liste_bezeichnung":"CVPE.Miteinander.Für die Städte und Gemeinden.",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":14,
+"liste_nummer_kanton":"4e",
+"liste_bezeichnung":"CVPAZ.Miteinander.Für Aarau und Zofingen.",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":15,
+"liste_nummer_kanton":"4f",
+"liste_bezeichnung":"CVPBZ.Miteinander.Für Baden und Zurzach.",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":16,
+"liste_nummer_kanton":"4g",
+"liste_bezeichnung":"CVP#1.Miteinander.Für Kulm, Lenzburg, Brugg.",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":17,
+"liste_nummer_kanton":"4h",
+"liste_bezeichnung":"CVPFA.Miteinander.Für das Freiamt.",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":18,
+"liste_nummer_kanton":"4i",
+"liste_bezeichnung":"CVPFT.Miteinander.Für das Fricktal.",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":19,
+"liste_nummer_kanton":"5a",
+"liste_bezeichnung":"Grüne Partei",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":20,
+"liste_nummer_kanton":"5b",
+"liste_bezeichnung":"Junge Grüne",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":21,
+"liste_nummer_kanton":"6a",
+"liste_bezeichnung":"glp – Grünliberale Partei",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":22,
+"liste_nummer_kanton":"6b",
+"liste_bezeichnung":"jglp – Junge Grünliberale",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":23,
+"liste_nummer_kanton":"6c",
+"liste_bezeichnung":"glp-u – Grünliberale Unternehmer",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":24,
+"liste_nummer_kanton":"7a",
+"liste_bezeichnung":"BDP – Bürgerlich-Demokratische Partei",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D1",
+"partei_id":32,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":25,
+"liste_nummer_kanton":"7b",
+"liste_bezeichnung":"JBDP – Junge Bürgerlich-Demokratische Partei",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D1",
+"partei_id":32,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":26,
+"liste_nummer_kanton":"7c",
+"liste_bezeichnung":"BDP3 – Bürgerlich-Demokratische Partei: die Dritte",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D1",
+"partei_id":32,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":27,
+"liste_nummer_kanton":"8a",
+"liste_bezeichnung":"EVP – Evangelische Volkspartei",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D2",
+"partei_id":7,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":28,
+"liste_nummer_kanton":"8b",
+"liste_bezeichnung":"*jevp – Junge Evangelische Volkspartei",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D2",
+"partei_id":7,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":29,
+"liste_nummer_kanton":"8c",
+"liste_bezeichnung":"EVP+ – EVPplus",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D2",
+"partei_id":7,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":30,
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"EDU – Eidgenössisch-Demokratische Union",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":" ",
+"partei_id":16,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":31,
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"PPAG – Piratenpartei",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":32,
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"LOVB – Lösungs-Orientierte Volks-Bewegung",
+"liste_verbindung":"E",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":33,
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"FW AG – Freie Wähler Aargau",
+"liste_verbindung":"E",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":34,
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"LS – Luzi Stamm",
+"liste_verbindung":"E",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":35,
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"TEAM65+ – Die Aargauer Seniorenliste",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":19,
+"kanton_bezeichnung":"Aargau",
+"liste_nummer_bfs":36,
+"liste_nummer_kanton":"15",
+"liste_bezeichnung":"DU – Die Unabhängigen",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":20,
+"kanton_bezeichnung":"Thurgau",
+"liste_nummer_bfs":1,
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"Bürgerlich-Demokratische Partei – Best Agers / BDP Best Agers",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":32,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":20,
+"kanton_bezeichnung":"Thurgau",
+"liste_nummer_bfs":2,
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Junge Schweizerische Volkspartei / JSVP",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":20,
+"kanton_bezeichnung":"Thurgau",
+"liste_nummer_bfs":3,
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"Eidgenössisch-Demokratische Union / EDU",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":16,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":20,
+"kanton_bezeichnung":"Thurgau",
+"liste_nummer_bfs":4,
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"FDP.Die Liberalen – Stammliste / FDP Stammliste",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":20,
+"kanton_bezeichnung":"Thurgau",
+"liste_nummer_bfs":5,
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"Schweizerische Volkspartei / SVP",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":20,
+"kanton_bezeichnung":"Thurgau",
+"liste_nummer_bfs":6,
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"Junge Bürgerlich-Demokratische Partei / JBDP",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":32,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":20,
+"kanton_bezeichnung":"Thurgau",
+"liste_nummer_bfs":7,
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"Evangelische Volkspartei / EVP",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":7,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":20,
+"kanton_bezeichnung":"Thurgau",
+"liste_nummer_bfs":8,
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Bürgerlich-Demokratische Partei – Hauptliste / BDP Hauptliste",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":32,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":20,
+"kanton_bezeichnung":"Thurgau",
+"liste_nummer_bfs":9,
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"JungsozialistInnen und Gewerkschaftsjugend / JUSO",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A3",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":20,
+"kanton_bezeichnung":"Thurgau",
+"liste_nummer_bfs":10,
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"FDP.Die Liberalen – Frauenliste / FDP Frauenliste",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":20,
+"kanton_bezeichnung":"Thurgau",
+"liste_nummer_bfs":11,
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"Christlichdemokratische Volkspartei – Newcomer / CVP Newcomer",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C3",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":20,
+"kanton_bezeichnung":"Thurgau",
+"liste_nummer_bfs":12,
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"Christlichdemokratische Volkspartei / CVP",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C3",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":20,
+"kanton_bezeichnung":"Thurgau",
+"liste_nummer_bfs":13,
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"Junge Grüne Thurgau / JGTG",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":20,
+"kanton_bezeichnung":"Thurgau",
+"liste_nummer_bfs":14,
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"Grüne Partei Thurgau / GPTG",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":20,
+"kanton_bezeichnung":"Thurgau",
+"liste_nummer_bfs":15,
+"liste_nummer_kanton":"15",
+"liste_bezeichnung":"Grüne Panther Thurgau / GPTG Panther",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":20,
+"kanton_bezeichnung":"Thurgau",
+"liste_nummer_bfs":16,
+"liste_nummer_kanton":"16",
+"liste_bezeichnung":"Junge Christlichdemokratische Volkspartei / JCVP",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C3",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":20,
+"kanton_bezeichnung":"Thurgau",
+"liste_nummer_bfs":17,
+"liste_nummer_kanton":"17",
+"liste_bezeichnung":"Sozialdemokratische Partei und Gewerkschaften / SP/Gew.",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A3",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":20,
+"kanton_bezeichnung":"Thurgau",
+"liste_nummer_bfs":18,
+"liste_nummer_kanton":"18",
+"liste_bezeichnung":"Grünliberale – Stammliste / glp Stammliste",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":20,
+"kanton_bezeichnung":"Thurgau",
+"liste_nummer_bfs":19,
+"liste_nummer_kanton":"19",
+"liste_bezeichnung":"Grünliberale – Engagiert / glp Engagiert",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":20,
+"kanton_bezeichnung":"Thurgau",
+"liste_nummer_bfs":20,
+"liste_nummer_kanton":"20",
+"liste_bezeichnung":"Jungfreisinnige Thurgau / JFTG",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":20,
+"kanton_bezeichnung":"Thurgau",
+"liste_nummer_bfs":21,
+"liste_nummer_kanton":"21",
+"liste_bezeichnung":"Junge Grünliberale / jglp",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":20,
+"kanton_bezeichnung":"Thurgau",
+"liste_nummer_bfs":22,
+"liste_nummer_kanton":"22",
+"liste_bezeichnung":"Junge Evangelische Volkspartei / jevp",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":7,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":20,
+"kanton_bezeichnung":"Thurgau",
+"liste_nummer_bfs":23,
+"liste_nummer_kanton":"23",
+"liste_bezeichnung":"Sozialdemokratische Partei Liste 60+ / SP Liste 60+",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A3",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":21,
+"kanton_bezeichnung":"Ticino",
+"liste_nummer_bfs":1,
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"PPD Partito Popolare Democratico",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":21,
+"kanton_bezeichnung":"Ticino",
+"liste_nummer_bfs":2,
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Lista civica: per la proibizione assoluta d'internare minorenni da parte dei Cantoni svizzeri",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":21,
+"kanton_bezeichnung":"Ticino",
+"liste_nummer_bfs":3,
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"PPD – Generazione Giovani Sottoceneri",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":21,
+"kanton_bezeichnung":"Ticino",
+"liste_nummer_bfs":4,
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"PS – Gioventù Socialista (GISO)",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":21,
+"kanton_bezeichnung":"Ticino",
+"liste_nummer_bfs":5,
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"Verdi e Sinistra alternativa – Partito Operaio Popolare Ticino POP",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":9,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":21,
+"kanton_bezeichnung":"Ticino",
+"liste_nummer_bfs":6,
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"UDC – UDF",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":16,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":21,
+"kanton_bezeichnung":"Ticino",
+"liste_nummer_bfs":7,
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"UDC – Agrari",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":21,
+"kanton_bezeichnung":"Ticino",
+"liste_nummer_bfs":8,
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Lega dei Ticinesi",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":" ",
+"partei_id":18,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":21,
+"kanton_bezeichnung":"Ticino",
+"liste_nummer_bfs":9,
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"PLR Partito liberale radicale ticinese",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":21,
+"kanton_bezeichnung":"Ticino",
+"liste_nummer_bfs":10,
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"UDC – Giovani UDC",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":21,
+"kanton_bezeichnung":"Ticino",
+"liste_nummer_bfs":11,
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"Verdi e Sinistra alternativa – Giovani Verdi",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":21,
+"kanton_bezeichnung":"Ticino",
+"liste_nummer_bfs":12,
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"Verdi e Sinistra alternativa",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":21,
+"kanton_bezeichnung":"Ticino",
+"liste_nummer_bfs":13,
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"PPD – Generazione Giovani Sopraceneri",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":21,
+"kanton_bezeichnung":"Ticino",
+"liste_nummer_bfs":14,
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"Verdi e Sinistra alternativa – Donne",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":21,
+"kanton_bezeichnung":"Ticino",
+"liste_nummer_bfs":15,
+"liste_nummer_kanton":"15",
+"liste_bezeichnung":"PS Partito Socialista",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":21,
+"kanton_bezeichnung":"Ticino",
+"liste_nummer_bfs":16,
+"liste_nummer_kanton":"16",
+"liste_bezeichnung":"PS – PS60+",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":21,
+"kanton_bezeichnung":"Ticino",
+"liste_nummer_bfs":17,
+"liste_nummer_kanton":"17",
+"liste_bezeichnung":"PPD – Ticinesi nel mondo",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":21,
+"kanton_bezeichnung":"Ticino",
+"liste_nummer_bfs":18,
+"liste_nummer_kanton":"18",
+"liste_bezeichnung":"UDC",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":21,
+"kanton_bezeichnung":"Ticino",
+"liste_nummer_bfs":19,
+"liste_nummer_kanton":"19",
+"liste_bezeichnung":"MontagnaViva",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":21,
+"kanton_bezeichnung":"Ticino",
+"liste_nummer_bfs":20,
+"liste_nummer_kanton":"20",
+"liste_bezeichnung":"Lega Verde",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":21,
+"kanton_bezeichnung":"Ticino",
+"liste_nummer_bfs":21,
+"liste_nummer_kanton":"21",
+"liste_bezeichnung":"Bello Sognare",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":21,
+"kanton_bezeichnung":"Ticino",
+"liste_nummer_bfs":22,
+"liste_nummer_kanton":"22",
+"liste_bezeichnung":"pvl partito verde liberale",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":" ",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":21,
+"kanton_bezeichnung":"Ticino",
+"liste_nummer_bfs":23,
+"liste_nummer_kanton":"23",
+"liste_bezeichnung":"Più Donne",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":22,
+"kanton_bezeichnung":"Vaud",
+"liste_nummer_bfs":1,
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"Parti socialiste vaudois",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":22,
+"kanton_bezeichnung":"Vaud",
+"liste_nummer_bfs":2,
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Jeunesse socialiste vaudoise - JSV",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":22,
+"kanton_bezeichnung":"Vaud",
+"liste_nummer_bfs":3,
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"Jeunes UDC Vaud",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":22,
+"kanton_bezeichnung":"Vaud",
+"liste_nummer_bfs":4,
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"PDC ouVERTure",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":22,
+"kanton_bezeichnung":"Vaud",
+"liste_nummer_bfs":5,
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"Liste Transition Citoyenne Vaud",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":22,
+"kanton_bezeichnung":"Vaud",
+"liste_nummer_bfs":6,
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"PVL - les vert'libéraux",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D1",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":22,
+"kanton_bezeichnung":"Vaud",
+"liste_nummer_bfs":7,
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"EP. Parti Ouvrier et Populaire (POP)",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":9,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":22,
+"kanton_bezeichnung":"Vaud",
+"liste_nummer_bfs":8,
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Urgence Écologique",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":22,
+"kanton_bezeichnung":"Vaud",
+"liste_nummer_bfs":9,
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"AdC / - Parti Evangélique (PEV)",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":7,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":22,
+"kanton_bezeichnung":"Vaud",
+"liste_nummer_bfs":10,
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"PLR.Innovation",
+"liste_verbindung":"E",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":22,
+"kanton_bezeichnung":"Vaud",
+"liste_nummer_bfs":11,
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"Démocratie Directe, SpiritualitéS et Nature",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":22,
+"kanton_bezeichnung":"Vaud",
+"liste_nummer_bfs":12,
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"Action Nationale-Démocrates Suisses/VD",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":14,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":22,
+"kanton_bezeichnung":"Vaud",
+"liste_nummer_bfs":13,
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"UDC Vaud",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":22,
+"kanton_bezeichnung":"Vaud",
+"liste_nummer_bfs":14,
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"Les Vert·e·s. Mouvement écologiste vaudois",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A3",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":22,
+"kanton_bezeichnung":"Vaud",
+"liste_nummer_bfs":15,
+"liste_nummer_kanton":"15",
+"liste_bezeichnung":"AdC / - UDF - Union Démocratique Fédérale",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":16,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":22,
+"kanton_bezeichnung":"Vaud",
+"liste_nummer_bfs":16,
+"liste_nummer_kanton":"16",
+"liste_bezeichnung":"Jeunes Vert-e-s vaudois-es JVVD",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A3",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":22,
+"kanton_bezeichnung":"Vaud",
+"liste_nummer_bfs":17,
+"liste_nummer_kanton":"17",
+"liste_bezeichnung":"PLR.Les Libéraux-Radicaux",
+"liste_verbindung":"E",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":22,
+"kanton_bezeichnung":"Vaud",
+"liste_nummer_bfs":18,
+"liste_nummer_kanton":"18",
+"liste_bezeichnung":"PDC",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":22,
+"kanton_bezeichnung":"Vaud",
+"liste_nummer_bfs":19,
+"liste_nummer_kanton":"19",
+"liste_bezeichnung":"PVL - les jeunes vert'libéraux",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D1",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":22,
+"kanton_bezeichnung":"Vaud",
+"liste_nummer_bfs":20,
+"liste_nummer_kanton":"20",
+"liste_bezeichnung":"Parti Pirate Vaudois",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":22,
+"kanton_bezeichnung":"Vaud",
+"liste_nummer_bfs":21,
+"liste_nummer_kanton":"21",
+"liste_bezeichnung":"Jeunes Libéraux-Radicaux vaudois",
+"liste_verbindung":"E",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":22,
+"kanton_bezeichnung":"Vaud",
+"liste_nummer_bfs":22,
+"liste_nummer_kanton":"22",
+"liste_bezeichnung":"AdC / - PBD Le juste milieu",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":32,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":22,
+"kanton_bezeichnung":"Vaud",
+"liste_nummer_bfs":23,
+"liste_nummer_kanton":"23",
+"liste_bezeichnung":"PNS - Parti Nationaliste Suisse",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":22,
+"kanton_bezeichnung":"Vaud",
+"liste_nummer_bfs":24,
+"liste_nummer_kanton":"24",
+"liste_bezeichnung":"EP. Ensemble à Gauche",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":9,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":1,
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"Parti Socialiste du Valais Romand (PSVR)",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":2,
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"C-Parteien Christlichsoziale Volkspartei Oberwallis (CSPO)",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":3,
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"C-Parteien Junge Christlichsoziale Volkspartei Oberwallis (JCSPO)",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":4,
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"Jeunes Démocrates-Chrétiens du Valais Romand Sierre - Sion - Hérens",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":5,
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"Jeunes Démocrates-Chrétiens du Valais Romand Conthey - Martigny - Entremont",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":6,
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"Jeunes Démocrates-Chrétiens du Valais Romand St-Maurice - Monthey",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":7,
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"Parti Socialiste du Valais Romand PS 60+",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":8,
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Parti Démocrate-Chrétien du Valais Romand (PDCVR)",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":9,
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"Jeunesse Socialiste du Chablais",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":10,
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"Jeunesse Socialiste Sierre Région",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":11,
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"Jeunesse Socialiste du Coude du Rhône",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":12,
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"Jeunesse Socialiste Sion-Hérens-Conthey",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":13,
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"UDC du Valais Romand",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":14,
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"UDC Seniors du Valais Romand",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C1",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":15,
+"liste_nummer_kanton":"15",
+"liste_bezeichnung":"UDC Jeunes du Valais Central",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":16,
+"liste_nummer_kanton":"16",
+"liste_bezeichnung":"UDC Jeunes du Bas-Valais",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":17,
+"liste_nummer_kanton":"17",
+"liste_bezeichnung":"Schweizerische Volkspartei Oberwallis (SVPO)",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":18,
+"liste_nummer_kanton":"18",
+"liste_bezeichnung":"Schweizerische Volkspartei Oberwallis (SVPO) - Wirtschaft, Gewerbe und Tourismus",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":19,
+"liste_nummer_kanton":"19",
+"liste_bezeichnung":"Schweizerische Volkspartei Oberwallis (SVPO) - Frauen",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":20,
+"liste_nummer_kanton":"20",
+"liste_bezeichnung":"Junge schweizerische Volkspartei Oberwallis (JSVPO)",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":"C2",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":21,
+"liste_nummer_kanton":"21",
+"liste_bezeichnung":"C-Parteien Christlichdemokratische Volkspartei Oberwallis (CVPO)",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":22,
+"liste_nummer_kanton":"22",
+"liste_bezeichnung":"C-Parteien Junge CVPO",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":23,
+"liste_nummer_kanton":"23",
+"liste_bezeichnung":"Sozialdemokratische Partei Oberwallis (SPO)",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":24,
+"liste_nummer_kanton":"24",
+"liste_bezeichnung":"Jungsozialist*innen Oberwallis (JUSO)",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":25,
+"liste_nummer_kanton":"25",
+"liste_bezeichnung":"Les Verts",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":26,
+"liste_nummer_kanton":"26",
+"liste_bezeichnung":"Grüne Oberwallis",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":27,
+"liste_nummer_kanton":"27",
+"liste_bezeichnung":"Jeunes Vert-e-s // Junge Grüne",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":28,
+"liste_nummer_kanton":"28",
+"liste_bezeichnung":"Les Verts - Ainé.e.s pour le climat",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":29,
+"liste_nummer_kanton":"29",
+"liste_bezeichnung":"Centre Gauche - PCS Centre Solidaire",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A3",
+"partei_id":8,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":30,
+"liste_nummer_kanton":"30",
+"liste_bezeichnung":"Centre Gauche - PCS Gauche Humaniste",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A3",
+"partei_id":8,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":31,
+"liste_nummer_kanton":"31",
+"liste_bezeichnung":"Rassemblement Citoyen Valais - Bürgervereinigung Wallis",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":32,
+"liste_nummer_kanton":"32",
+"liste_bezeichnung":"PLR.Les Libéraux Radicaux Valais",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D1",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":33,
+"liste_nummer_kanton":"33",
+"liste_bezeichnung":"Jeunes libéraux-radicaux Valais central",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D1",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":34,
+"liste_nummer_kanton":"34",
+"liste_bezeichnung":"Jeunes libéraux-radicaux Martigny-Entremont",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D1",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":35,
+"liste_nummer_kanton":"35",
+"liste_bezeichnung":"Jeunes libéraux-radicaux région sierroise",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D1",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":36,
+"liste_nummer_kanton":"36",
+"liste_bezeichnung":"Jeunes libéraux-radicaux Chablais",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D1",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":37,
+"liste_nummer_kanton":"37",
+"liste_bezeichnung":"FDP die Liberalen",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D1",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":38,
+"liste_nummer_kanton":"38",
+"liste_bezeichnung":"Avenir Ecologie Citoyenne // Zukunft und Nachhaltigkeit Bürgerliste",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D2",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":39,
+"liste_nummer_kanton":"39",
+"liste_bezeichnung":"Avenir Ecologie Libérale-Radicale // Zukunft und Nachhaltigkeit Freisinnig Liberale",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D2",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":23,
+"kanton_bezeichnung":"Valais / Wallis",
+"liste_nummer_bfs":40,
+"liste_nummer_kanton":"40",
+"liste_bezeichnung":"Avenir Ecologie - Les vert'libéraux // Zukunft und Nachhaltigkeit - die Grünliberalen",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D2",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":24,
+"kanton_bezeichnung":"Neuchâtel",
+"liste_nummer_bfs":1,
+"liste_nummer_kanton":"31",
+"liste_bezeichnung":"Parti Libéral-Radical neuchâtelois (PLRN)",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":24,
+"kanton_bezeichnung":"Neuchâtel",
+"liste_nummer_bfs":2,
+"liste_nummer_kanton":"32",
+"liste_bezeichnung":"Parti Libéral-Radical neuchâtelois (PLRN), Jeunes Libéraux-Radicaux",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":24,
+"kanton_bezeichnung":"Neuchâtel",
+"liste_nummer_bfs":3,
+"liste_nummer_kanton":"33A",
+"liste_bezeichnung":"Parti socialiste neuchâtelois (PSN)",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":24,
+"kanton_bezeichnung":"Neuchâtel",
+"liste_nummer_bfs":4,
+"liste_nummer_kanton":"33B",
+"liste_bezeichnung":"Parti socialiste neuchâtelois (PSN), Jeunes socialistes neuchâtelois (JSN)",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":24,
+"kanton_bezeichnung":"Neuchâtel",
+"liste_nummer_bfs":5,
+"liste_nummer_kanton":"34A",
+"liste_bezeichnung":"PopVertSol, Parti Ouvrier et Populaire (POP)",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":9,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":24,
+"kanton_bezeichnung":"Neuchâtel",
+"liste_nummer_bfs":6,
+"liste_nummer_kanton":"34B",
+"liste_bezeichnung":"PopVertSol, Les Verts, Écologie et Liberté",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":24,
+"kanton_bezeichnung":"Neuchâtel",
+"liste_nummer_bfs":7,
+"liste_nummer_kanton":"34C",
+"liste_bezeichnung":"PopVertSol, solidaritéS",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B2",
+"partei_id":9,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":24,
+"kanton_bezeichnung":"Neuchâtel",
+"liste_nummer_bfs":8,
+"liste_nummer_kanton":"35",
+"liste_bezeichnung":"Union Démocratique du Centre (UDC)",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":24,
+"kanton_bezeichnung":"Neuchâtel",
+"liste_nummer_bfs":9,
+"liste_nummer_kanton":"36",
+"liste_bezeichnung":"Union Démocratique du Centre (UDC), Relève",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":24,
+"kanton_bezeichnung":"Neuchâtel",
+"liste_nummer_bfs":10,
+"liste_nummer_kanton":"37",
+"liste_bezeichnung":"Parti Démocrate-Chrétien (PDC)",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":" ",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":24,
+"kanton_bezeichnung":"Neuchâtel",
+"liste_nummer_bfs":11,
+"liste_nummer_kanton":"38A",
+"liste_bezeichnung":"Vert'libéraux (PVL)",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D1",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":24,
+"kanton_bezeichnung":"Neuchâtel",
+"liste_nummer_bfs":12,
+"liste_nummer_kanton":"38B",
+"liste_bezeichnung":"Vert'libéraux (PVL), Jeunes Vert'libéraux (JVL)",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D1",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":24,
+"kanton_bezeichnung":"Neuchâtel",
+"liste_nummer_bfs":13,
+"liste_nummer_kanton":"39",
+"liste_bezeichnung":"Parti Fédéraliste Européen (PFE)",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":25,
+"kanton_bezeichnung":"Genève",
+"liste_nummer_bfs":1,
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"UDC Genève",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":25,
+"kanton_bezeichnung":"Genève",
+"liste_nummer_bfs":2,
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Les Socialistes",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D2",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":25,
+"kanton_bezeichnung":"Genève",
+"liste_nummer_bfs":3,
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"Les Vert.e.s",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D1",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":25,
+"kanton_bezeichnung":"Genève",
+"liste_nummer_bfs":4,
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"Jeunesse Socialiste Genevoise",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D2",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":25,
+"kanton_bezeichnung":"Genève",
+"liste_nummer_bfs":5,
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"PLR. Les Libéraux-Radicaux Genève",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":25,
+"kanton_bezeichnung":"Genève",
+"liste_nummer_bfs":6,
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"JLR. Les Jeunes Libéraux-Radicaux",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A1",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":25,
+"kanton_bezeichnung":"Genève",
+"liste_nummer_bfs":7,
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"PDC Genève",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":25,
+"kanton_bezeichnung":"Genève",
+"liste_nummer_bfs":8,
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Jeunes Vert-e-s",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D1",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":25,
+"kanton_bezeichnung":"Genève",
+"liste_nummer_bfs":9,
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"JDC Genève",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":"A2",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":25,
+"kanton_bezeichnung":"Genève",
+"liste_nummer_bfs":10,
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"Ensemble à Gauche · solidaritéS - DAL",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D3",
+"partei_id":9,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":25,
+"kanton_bezeichnung":"Genève",
+"liste_nummer_bfs":11,
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"Ensemble à Gauche : Égalité pour toutes* et tous*",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D3",
+"partei_id":9,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":25,
+"kanton_bezeichnung":"Genève",
+"liste_nummer_bfs":12,
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"Les Verts.e.s transfrontalier.ère.s",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D1",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":25,
+"kanton_bezeichnung":"Genève",
+"liste_nummer_bfs":13,
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"UDC Jeunes",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":25,
+"kanton_bezeichnung":"Genève",
+"liste_nummer_bfs":14,
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"Ensemble à Gauche : Pour une écologie anticapitaliste",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D3",
+"partei_id":9,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":25,
+"kanton_bezeichnung":"Genève",
+"liste_nummer_bfs":15,
+"liste_nummer_kanton":"15",
+"liste_bezeichnung":"Ensemble à Gauche : Solidarités sans frontières",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D3",
+"partei_id":9,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":25,
+"kanton_bezeichnung":"Genève",
+"liste_nummer_bfs":16,
+"liste_nummer_kanton":"16",
+"liste_bezeichnung":"Planète Bleue",
+"liste_verbindung":"E",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":25,
+"kanton_bezeichnung":"Genève",
+"liste_nummer_bfs":17,
+"liste_nummer_kanton":"17",
+"liste_bezeichnung":"PEV",
+"liste_verbindung":"E",
+"liste_unterlistenverbindung":" ",
+"partei_id":7,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":25,
+"kanton_bezeichnung":"Genève",
+"liste_nummer_bfs":18,
+"liste_nummer_kanton":"18",
+"liste_bezeichnung":"UDC - International",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":"B1",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":25,
+"kanton_bezeichnung":"Genève",
+"liste_nummer_bfs":19,
+"liste_nummer_kanton":"19",
+"liste_bezeichnung":"MCG - Mouvement Citoyens Genevois",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":33,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":25,
+"kanton_bezeichnung":"Genève",
+"liste_nummer_bfs":20,
+"liste_nummer_kanton":"20",
+"liste_bezeichnung":"Prophète Eco - «Santé!»",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":25,
+"kanton_bezeichnung":"Genève",
+"liste_nummer_bfs":21,
+"liste_nummer_kanton":"21",
+"liste_bezeichnung":"U.D.F. (Union Démocratique Fédérale)",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":16,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":25,
+"kanton_bezeichnung":"Genève",
+"liste_nummer_bfs":22,
+"liste_nummer_kanton":"22",
+"liste_bezeichnung":"Les Socialistes - Suisses et Suissesses de l'étranger",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D2",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":25,
+"kanton_bezeichnung":"Genève",
+"liste_nummer_bfs":23,
+"liste_nummer_kanton":"23",
+"liste_bezeichnung":"Vert'Libéraux",
+"liste_verbindung":"E",
+"liste_unterlistenverbindung":"E1",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":25,
+"kanton_bezeichnung":"Genève",
+"liste_nummer_bfs":24,
+"liste_nummer_kanton":"24",
+"liste_bezeichnung":"PBD/PCD Parti Citoyen Démocratique Suisse d'abord",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":" ",
+"partei_id":32,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":25,
+"kanton_bezeichnung":"Genève",
+"liste_nummer_bfs":25,
+"liste_nummer_kanton":"25",
+"liste_bezeichnung":"PBD/PCD Parti Citoyen Démocratique Genève d'abord",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":25,
+"kanton_bezeichnung":"Genève",
+"liste_nummer_bfs":26,
+"liste_nummer_kanton":"26",
+"liste_bezeichnung":"Fédéraction",
+"liste_verbindung":"E",
+"liste_unterlistenverbindung":" ",
+"partei_id":35,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":25,
+"kanton_bezeichnung":"Genève",
+"liste_nummer_bfs":27,
+"liste_nummer_kanton":"27",
+"liste_bezeichnung":"Vert'Libéraux - Jeunes",
+"liste_verbindung":"E",
+"liste_unterlistenverbindung":"E1",
+"partei_id":31,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":25,
+"kanton_bezeichnung":"Genève",
+"liste_nummer_bfs":28,
+"liste_nummer_kanton":"28",
+"liste_bezeichnung":"Ensemble à Gauche - Parti du Travail",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":"D3",
+"partei_id":9,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":26,
+"kanton_bezeichnung":"Jura",
+"liste_nummer_bfs":1,
+"liste_nummer_kanton":"1",
+"liste_bezeichnung":"Parti socialiste jurassien",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":" ",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":26,
+"kanton_bezeichnung":"Jura",
+"liste_nummer_bfs":2,
+"liste_nummer_kanton":"2",
+"liste_bezeichnung":"Jeunesse socialiste jurassienne",
+"liste_verbindung":"A",
+"liste_unterlistenverbindung":" ",
+"partei_id":3,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":26,
+"kanton_bezeichnung":"Jura",
+"liste_nummer_bfs":3,
+"liste_nummer_kanton":"3",
+"liste_bezeichnung":"Parti libéral-radical jurassien – innovation",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":26,
+"kanton_bezeichnung":"Jura",
+"liste_nummer_bfs":4,
+"liste_nummer_kanton":"4",
+"liste_bezeichnung":"Parti libéral-radical jurassien - Jeunes",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":26,
+"kanton_bezeichnung":"Jura",
+"liste_nummer_bfs":5,
+"liste_nummer_kanton":"5",
+"liste_bezeichnung":"Parti libéral-radical jurassien – environnement",
+"liste_verbindung":"B",
+"liste_unterlistenverbindung":" ",
+"partei_id":1,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":26,
+"kanton_bezeichnung":"Jura",
+"liste_nummer_bfs":6,
+"liste_nummer_kanton":"6",
+"liste_bezeichnung":"Parti chrétien social indépendant - Femmes",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":" ",
+"partei_id":8,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":26,
+"kanton_bezeichnung":"Jura",
+"liste_nummer_bfs":7,
+"liste_nummer_kanton":"7",
+"liste_bezeichnung":"Parti chrétien social indépendant - Jeunes",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":" ",
+"partei_id":8,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":26,
+"kanton_bezeichnung":"Jura",
+"liste_nummer_bfs":8,
+"liste_nummer_kanton":"8",
+"liste_bezeichnung":"Parti chrétien social indépendant - Hommes",
+"liste_verbindung":"C",
+"liste_unterlistenverbindung":" ",
+"partei_id":8,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":26,
+"kanton_bezeichnung":"Jura",
+"liste_nummer_bfs":9,
+"liste_nummer_kanton":"9",
+"liste_bezeichnung":"Parti démocrate-chrétien du Jura",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":" ",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":26,
+"kanton_bezeichnung":"Jura",
+"liste_nummer_bfs":10,
+"liste_nummer_kanton":"10",
+"liste_bezeichnung":"Jeunes démocrates-chrétiens du Jura 1",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":" ",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":26,
+"kanton_bezeichnung":"Jura",
+"liste_nummer_bfs":11,
+"liste_nummer_kanton":"11",
+"liste_bezeichnung":"Jeunes démocrates-chrétiens du Jura 2",
+"liste_verbindung":"D",
+"liste_unterlistenverbindung":" ",
+"partei_id":2,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":26,
+"kanton_bezeichnung":"Jura",
+"liste_nummer_bfs":12,
+"liste_nummer_kanton":"12",
+"liste_bezeichnung":"Union Démocratique du Centre",
+"liste_verbindung":"E",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":26,
+"kanton_bezeichnung":"Jura",
+"liste_nummer_bfs":13,
+"liste_nummer_kanton":"13",
+"liste_bezeichnung":"Union Démocratique du Centre Agricole",
+"liste_verbindung":"E",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":26,
+"kanton_bezeichnung":"Jura",
+"liste_nummer_bfs":14,
+"liste_nummer_kanton":"14",
+"liste_bezeichnung":"Union Démocratique du Centre Jeunes",
+"liste_verbindung":"E",
+"liste_unterlistenverbindung":" ",
+"partei_id":4,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":26,
+"kanton_bezeichnung":"Jura",
+"liste_nummer_bfs":15,
+"liste_nummer_kanton":"15",
+"liste_bezeichnung":"Les Vert-e-s Jurassien-ne-s",
+"liste_verbindung":"F",
+"liste_unterlistenverbindung":" ",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":26,
+"kanton_bezeichnung":"Jura",
+"liste_nummer_bfs":16,
+"liste_nummer_kanton":"16",
+"liste_bezeichnung":"Les Jeunes Vert-e-s Jurassien-ne-s",
+"liste_verbindung":"F",
+"liste_unterlistenverbindung":" ",
+"partei_id":13,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+,
+{
+"kanton_nummer":26,
+"kanton_bezeichnung":"Jura",
+"liste_nummer_bfs":17,
+"liste_nummer_kanton":"17",
+"liste_bezeichnung":"PEV Jura",
+"liste_verbindung":" ",
+"liste_unterlistenverbindung":" ",
+"partei_id":7,
+"anzahl_gewaehlte":null,
+"stimmen_liste":null,
+"listen_staerke":null
+}
+]
+}
